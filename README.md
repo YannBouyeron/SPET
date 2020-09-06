@@ -1,4 +1,4 @@
-# SPET
+# SPE SVT Terminale
 
 **Groupe 2: Travail pour la semaine du 07-09-2020:**
 
