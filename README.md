@@ -10,7 +10,7 @@ ___________
 
 - Faire les activités pages [58](https://www.libmanuels.fr/demo/9791035813789/58/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin), [60](https://www.libmanuels.fr/demo/9791035813789/60/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin) et [62](https://www.libmanuels.fr/demo/9791035813789/62/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin) sur les transferts horizontaux de gènes et sur les endosymbioses.
 
-Si vous avez des difficultés pour acceder aux pages via le site de belin, essayez [ici](https://ipfs.io/ipfs/QmeQ7HVfA2bWGnXKuLunu1m5WnDy3VBxKz48c8whuEcNFG) (vous pouvez clqiuer sur les pages pour les mettre en plein ecran)
+Si vous avez des difficultés pour accéder aux pages via le site de belin, essayez [ici](https://ipfs.io/ipfs/QmeQ7HVfA2bWGnXKuLunu1m5WnDy3VBxKz48c8whuEcNFG) (vous pouvez cliquer sur les pages pour les mettre en plein écran)
 
 Pour chaque activité, répondez sous la forme d’une synthèse (maximum 1 page). Vous pouvez vous aidez des questions intermédiaires en cliquant en bas à droite de chaque activité sur le logo avec la règle et l’équerre (parcours pas à pas).
 
