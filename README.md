@@ -4,7 +4,7 @@
 
 ___________
 
-*Les pages iniquées ci dessous en bleu sont des liens hypertext qui vous donneront accès aux pages de votre livre en ligne si vous ne l’avez pas encore acheté. Il faut cliquer dessus !*
+*Les pages indiquées ci dessous en bleu sont des liens hypertext qui vous donneront accès aux pages de votre livre en ligne si vous ne l’avez pas encore acheté. Il faut cliquer dessus !*
 
 - Faire les activités pages [32](https://www.libmanuels.fr/demo/9791035813789/32/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin) et [34](https://www.libmanuels.fr/demo/9791035813789/34/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin) sur les clones cellulaires.
 
@@ -24,7 +24,7 @@ ________
 
 ___________
 
-*Les pages iniquées ci dessous en bleu sont des liens hypertext qui vous donneront accès aux pages de votre livre en ligne si vous ne l’avez pas encore acheté. Il faut cliquer dessus !*
+*Les pages indiquées ci dessous en bleu sont des liens hypertext qui vous donneront accès aux pages de votre livre en ligne si vous ne l’avez pas encore acheté. Il faut cliquer dessus !*
 
 - Faire les activités pages [32](https://www.libmanuels.fr/demo/9791035813789/32/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin) et [34](https://www.libmanuels.fr/demo/9791035813789/34/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin) sur les clones cellulaires.
 
