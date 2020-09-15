@@ -1,5 +1,17 @@
 # SPE SVT Terminale
 
+_________
+
+Rappels:
+
+- [génétique seconde](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/rappels.md)
+
+- [génétique spécialité première](https://github.com/YannBouyeron/SVT1S/blob/master/Transmission%2C%20variation%20et%20expression%20du%20patrimoine%20génétique/Cours.md)
+
+__________
+
+
+
 **Groupe 1: Travail pour la semaine du 14-09-2020:**
 
 ___________
