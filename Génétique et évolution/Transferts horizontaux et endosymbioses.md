@@ -1,7 +1,7 @@
 <p>La compléxification des génomes: transferts horizontaux et endosymbioses</p>
 
 
-<h1 align=center><strong>Des transferts horizontaux chez les bactéries.</strong></h1>
+# Des transferts horizontaux chez les bactéries.
 
 [Lien vers l’activité](https://ipfs.io/ipfs/QmX18LvNaKV5bXBT9rV7VZirDbPEpCuetQbxtU5y7TQNEV)
 
@@ -71,12 +71,12 @@ L’action humaine mime donc un phénomène existant naturellement (la transfo
 Les documents montrent donc l’existence de transfert d’ADN entre bactéries de la même génération. Ces transferts sont appelés transferts génétiques horizontaux. Les informations portées par ces ADN peuvent toucher à la virulence des bactéries (cas des pneumocoques), à leur résistance aux antibiotiques (cas d’yAcinetobacter baumanii) ou à des manipulations biotechnologiques (transgénèse) réalisées au laboratoire (production de l’insuline humaine par Escherichia coli). Ces transferts génétiques horizontaux peuvent prendre des formes variées : transformation, transfert viral, conjugaison.
 
 
-<h1 align=center><strong>Des transferts horizontaux fréquents dans l’arbre du vivant.</strong></h1>
+# Des transferts horizontaux fréquents dans l’arbre du vivant.
 
 [Lien vers l’activité](https://ipfs.io/ipfs/QmSnm4jbkpdmvnihEzaWfBfzEo8n4ufJfJBVchxNwMAuJ8)
 
 
-## Exemple de la syncytine.
+### Exemple de la syncytine.
 
 La syncytine est une protéine membranaire que l’on trouve chez de nombreux vertébrés qui permet la fusion des membranes à l’origine de la formation du placenta (syncytium cellulaire). Chez les virus MPMV, la syncytine est une protéine membranaire qui permet au virus de fusionner avec la membrane plasmique de ses cellules cibles. La syncytine des vertébrés et la syncytine virale ont donc la même fonction.
 
@@ -93,7 +93,7 @@ On observe que des vertébrés appartenant à des groupes très différents (
 
 
 
-## Exemple des pucerons.
+### Exemple des pucerons.
 
 La couleur chez le puceron vert du pois est due à des pigments caroténoïdes. Les enzymes nécessaires à la synthèse de ces pigments sont apparentées à celles de champignons (leur séquence est proche des enzymes similaires que l’on observe chez les champignons du genre Mucor). Ceci suggère qu’il y a eu un transfert génétique horizontal des gènes à l’origine de ces enzymes depuis les champignons vers les pucerons. L’expression de ces gènes permet la production des pigments et serait à l’origine des différentes couleurs des pucerons.
 
@@ -101,7 +101,7 @@ Si une couleur donnée des pucerons favorisait leur prédation (désavantage s
 
 On observe que selon leur couleur, les pucerons font en fait l’objet d’une prédation différentielle. Cette différence de pression de prédation selon la couleur pourrait expliquer le polymorphisme de couleur observée chez les pucerons et son maintien.
 
-## Conclusion.
+### Conclusion.
 
 À travers l’exemple du virus MPMV, on constate que l’interaction parasitaire de celui-ci avec de nombreux vertébrés a pu mener ponctuellement à l’acquisition du gène de la syncytine chez quelques-uns d’entre eux. La protéine issue de ce gène, la syncytine, responsable de la fusion de l’enveloppe du virus et des membranes cellulaires, permet également la fusion des cellules par leurs membranes plasmiques, à l’origine des placentas de certains mammifères (dont les humains), et du lézard mabuya.
 
@@ -111,7 +111,7 @@ Les transferts horizontaux de gènes créent donc de la diversité génétique (
 
 
 
-<h1 align=center><strong>L’origine endosynmbiotique des chloroplastes et des mitochondries.</strong></h1>
+# L’origine endosynmbiotique des chloroplastes et des mitochondries.
 
 [Lien vers l’activité](https://ipfs.io/ipfs/QmZbp8LJohcPhvQkCkJLa3ZvjJJuXC1NoqS7dtRRaxnd2r)
 
