@@ -1,5 +1,15 @@
 # SPE SVT Terminale
 
+_______
+
+
+**Groupe 2: Travail pour la semaine du 21-09-2020:**
+
+- Travailler la correction des activités sur [les clones cellulaires](https://ipfs.io/ipfs/Qma7CHY6ng4MCH2f4zTo3fYtKu8jwBBEzjCb9fvbZzDkgK) et sur les [transferts horizontaux de gènes](https://ipfs.io/ipfs/QmNgk4YxEg4nFgXRUsxfWDwEL84XwXtR82prwWFH539TAr)
+
+- Faire l'exercice [7 page 72](https://ipfs.io/ipfs/QmYPJsmQukjPvxCxYsU1j73RYRin1LaYEQbToBru5V45F5) sur la digestion des makis par les Japonais, parceque ça n'a pas l'air comme ça, mais c'est un vrai problème de société !! Et si vous n'êtes pas Japonais, et que vous n'avez jamais mangé de makis, faites quand même l'exercice !
+
+
 _________
 
 Rappels:
