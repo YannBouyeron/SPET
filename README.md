@@ -1,5 +1,17 @@
 # SPE SVT Terminale
 
+______
+
+**Groupe 1: Travail pour la semaine du 28-09-2020:**
+
+- Travailler la correction des activités sur [les clones cellulaires](https://ipfs.io/ipfs/Qma7CHY6ng4MCH2f4zTo3fYtKu8jwBBEzjCb9fvbZzDkgK) et sur les [transferts horizontaux de gènes](https://ipfs.io/ipfs/QmNgk4YxEg4nFgXRUsxfWDwEL84XwXtR82prwWFH539TAr)
+
+- Faire [l'activité 3](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/T1-A3.md) sur le brassage génétique au cours de la fécondation.
+
+- Faire la partie 1 de [L'activité 4](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/T1-A4.md) sur le syndrome d'Edwards.
+
+- Revoir la correction de [l'activité 4](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/T1-A4-correction.md) sur l'évolution de la famille multigénique des globines.
+
 _______
 
 
