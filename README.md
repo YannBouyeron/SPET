@@ -2,6 +2,13 @@
 
 ______
 
+**Exercice pour vendredi GROUPE 2:**
+
+- [Lien vers l'exercice](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/Exercices/exo_CT_porc.png)
+
+
+______
+
 **Groupe 1: Travail pour la semaine du 28-09-2020:**
 
 - Travailler la correction des activités sur [les clones cellulaires](https://ipfs.io/ipfs/Qma7CHY6ng4MCH2f4zTo3fYtKu8jwBBEzjCb9fvbZzDkgK) et sur les [transferts horizontaux de gènes](https://ipfs.io/ipfs/QmNgk4YxEg4nFgXRUsxfWDwEL84XwXtR82prwWFH539TAr)
