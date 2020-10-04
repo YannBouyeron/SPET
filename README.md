@@ -2,9 +2,16 @@
 
 ______
 
-**Exercice pour vendredi GROUPE 2:**
+**Groupe 2: Travail pour la semaine du 05-10-2020**
 
-- [Lien vers l'exercice](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/Exercices/exo_CT_porc.png)
+
+- Faire [l'activité 3](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/T1-A3.md) sur le brassage génétique au cours de la fécondation.
+
+- Faire la partie 1 de [l'activité 4](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/T1-A4.md) sur le syndrome d'Edwards.
+
+- Terminer la partie 2 de [l'activité 4](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/T1-A4.md). La [correction](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/T1-A4-correction.md) est déjà disponible.
+
+- Revoir l'analyse des croisements-tests, il y'aura un devoir lors de votre prochaine semaine en classe.
 
 
 ______
