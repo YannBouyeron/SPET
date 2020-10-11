@@ -4,7 +4,9 @@ _______
 
 **Groupe 1: Travail pour la semaine du 12-10-2020:**
 
-- Faire les [exercices]() 7 page 72, 9 page 55, 8 page 73, 8 page 54
+- Faire les [exercices](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/Exercices/exo.md) 7 page 72, 9 page 55, 8 page 73, 8 page 54
+
+- **Devoir la semaine de la rentrée, le cours sera prochainement mis en ligne.**
 
 ______
 
