@@ -1,8 +1,14 @@
 # SPE SVT Terminale
 
+_______
+
+**Groupe 1: Travail pour la semaine du 12-10-2020:**
+
+- Faire les [exercices]() 7 page 72, 9 page 55, 8 page 73, 8 page 54
+
 ______
 
-**Groupe 2: Travail pour la semaine du 05-10-2020**
+**Groupe 2: Travail pour la semaine du 05-10-2020:**
 
 
 - Faire [l'activité 3](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/T1-A3.md) sur le brassage génétique au cours de la fécondation.
