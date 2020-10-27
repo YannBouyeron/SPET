@@ -2,6 +2,21 @@
 
 _______
 
+Vacances:
+
+- Le [cours sur l'origine du génotype des individus](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/L’origine%20du%20génotype%20des%20individus.md) est disponible.
+
+- Revoir les corrections des activités sur [les clones cellulaires](https://ipfs.io/ipfs/Qma7CHY6ng4MCH2f4zTo3fYtKu8jwBBEzjCb9fvbZzDkgK) et sur les [transferts horizontaux de gènes](https://ipfs.io/ipfs/QmNgk4YxEg4nFgXRUsxfWDwEL84XwXtR82prwWFH539TAr)
+
+- Faire les [exercices](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/Exercices/exo.md) 7 page 72, 9 page 55, 8 page 73, 8 page 54, si ce n'est pas déjà fait.
+
+- **Rappel: Devoir la semaine de la rentrée (vendredi) pour le groupe 1.**
+
+
+
+
+_______
+
 **Groupe 1: Travail pour la semaine du 12-10-2020:**
 
 - Faire les [exercices](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/Exercices/exo.md) 7 page 72, 9 page 55, 8 page 73, 8 page 54
