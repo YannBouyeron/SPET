@@ -115,7 +115,7 @@ On considère qu'une similitude entre 2 séquences peptidiques supérieure à 20
 >Attention ne pas faire de confusions avec les notions d'allèles et chromosomes homologues: 
 
 >- 2 allèles d'un même gène occupent le même locus sur les deux chromosomes homologues d'une même paire
-- 2 gènes homologues occupent des loci différents
+>- 2 gènes homologues occupent des loci différents
 
 La duplication génique est un mécanisme génétique complexe ([crossing-over over inégal](https://ipfs.io/ipfs/QmZFsYHiywv2jnKQFmCebxc18fJTsiccVyaLAvEqWoswdt) ou translocation entre chromosomes non homologues) qui conduit à la formation de 2 gènes identiques à partir d'un gène ancestral. Au moins l'une des deux copies (duplicatas) du gène est ensuite transposée (déplacée) à un autre locus, sur le même chromosome (dans le cas d’un crossing over inégal) ou sur un autre chromosome (dans le cas d’une translocation entre 2 chromosomes non homologues). Chaque duplicata subit alors des mutations aléatoires indépendamment des autres duplicatas du gène. 
 
