@@ -2,7 +2,7 @@
 
 _______
 
-Vacances:
+**Vacances:**
 
 - Le [cours sur l'origine du génotype des individus](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/L’origine%20du%20génotype%20des%20individus.md) est disponible.
 
