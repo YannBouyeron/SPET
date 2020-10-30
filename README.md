@@ -1,5 +1,10 @@
 # SPE SVT Terminale
 
+______
+
+
+**La rentrée se faisant en classe entière, le groupe 2 aura donc aussi DS vendredi !**
+
 _______
 
 **Vacances:**
