@@ -124,13 +124,13 @@ Ces deux définitions présentent chacune des limites (situations où la défini
 
 - espèces jumelles (exemple: [Pouillot fitis](https://ipfs.io/ipfs/Qma5a9PHM94ExGUx7okES3a9N4CfbySPBJZmEwpX8Wn8YD) et [Pouillot véloce](https://ipfs.io/ipfs/QmZ2QCu7PeBSq21g16gm4tixL4CDC2LcNHAjy8eKCaPXMA))
 - variabilité intra-spécifique (exemple des [chiens](https://ipfs.io/ipfs/QmeiZjaoxiU2XxNNy7VkmKBSoCDh3h21dPCFrJ9aVHcsEu))
-- dimorphisme sexuel
-- espèces ayant différentes phases de développement morphologiquement différentes (exemple des [papillions]())
-- espèces communautaires dont les individus ont des formes différentes en fonction de leur rôle (exemple des [fourmis]()) 
+- dimorphisme sexuel (exemple des [mesanges](https://ipfs.io/ipfs/QmQmvZLjryXqMWrv6dwZdEgvGLMmfg1tTn7NiuTiDeJ1hx))
+- espèces ayant différentes phases de développement morphologiquement différentes (exemple des [papillons](https://ipfs.io/ipfs/QmQmvZLjryXqMWrv6dwZdEgvGLMmfg1tTn7NiuTiDeJ1hx))
+- espèces communautaires dont les individus ont des formes différentes en fonction de leur rôle (exemple des [fourmis](https://ipfs.io/ipfs/QmQmvZLjryXqMWrv6dwZdEgvGLMmfg1tTn7NiuTiDeJ1hx)) 
 
 **Limites à la définition biologique:**
 
-- inapplicable aux fossiles
+- inapplicable aux fossiles ([Homo néandertalensis à gauche et Homo sapiens à droite sont-ils interféconds ?](https://ipfs.io/ipfs/QmNmio6koyBPYJkgz7gpThXuQMNaaWg7ajZtA1dcErnFQ3))
 - inapplicable aux bactéries et à certains végétaux se reproduisant exclusivement de manière asexuée
 - comment tester l’interfécondabilité ?
 - quelle place pour les individus stériles ?
