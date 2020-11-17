@@ -130,7 +130,7 @@ Ces deux définitions présentent chacune des limites (situations où la défini
 
 **Limites à la définition biologique:**
 
-- inapplicable aux fossiles ([Homo néandertalensis à gauche et Homo sapiens à droite sont-ils interféconds ?](https://ipfs.io/ipfs/QmNmio6koyBPYJkgz7gpThXuQMNaaWg7ajZtA1dcErnFQ3)
+- inapplicable aux fossiles ([Homo néandertalensis à gauche et Homo sapiens à droite sont-ils interféconds ?])(https://ipfs.io/ipfs/QmNmio6koyBPYJkgz7gpThXuQMNaaWg7ajZtA1dcErnFQ3)
 - inapplicable aux bactéries et à certains végétaux se reproduisant exclusivement de manière asexuée
 - comment tester l’interfécondabilité ?
 - quelle place pour les individus stériles ?
