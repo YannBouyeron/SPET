@@ -118,13 +118,15 @@ La notion d'espèce est difficile à définir, on retiendra sa définition typol
 
 Ces deux définitions présentent chacune des limites (situations où la définition n’est pas applicable ou difficilement applicable):
 
+
+
 **Limites à la définition typologique:**
 
-- espèces jumelles
-- variabilité intra-spécifique 
+- espèces jumelles (exemple: [Pouillot fitis](https://ipfs.io/ipfs/Qma5a9PHM94ExGUx7okES3a9N4CfbySPBJZmEwpX8Wn8YD) et [Pouillot véloce](https://ipfs.io/ipfs/QmZ2QCu7PeBSq21g16gm4tixL4CDC2LcNHAjy8eKCaPXMA))
+- variabilité intra-spécifique (exemple des [chiens](https://ipfs.io/ipfs/QmeiZjaoxiU2XxNNy7VkmKBSoCDh3h21dPCFrJ9aVHcsEu))
 - dimorphisme sexuel
-- espèces ayant différentes phases de développement morphologiquement différentes
-- espèces communautaires dont les individus ont des formes différentes en fonction de leur rôle 
+- espèces ayant différentes phases de développement morphologiquement différentes (exemple des [papillions]())
+- espèces communautaires dont les individus ont des formes différentes en fonction de leur rôle (exemple des [fourmis]()) 
 
 **Limites à la définition biologique:**
 
