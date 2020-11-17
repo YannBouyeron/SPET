@@ -19,8 +19,8 @@ Il doit donc exister des mécanismes opérants un tri sur la diversité créée.
 
 Proposée en 1908 indépendamment par le mathématicien anglais Hardy et le médecin allemand Weinberg, la loi de Hardy-Weinberg se définit ainsi : dans une population de grand effectif, où les unions se font au hasard (= panmixie), où il n’existe ni migration, ni sélection naturelle, et en l’absence de mutations, les fréquences des différents génotypes et les fréquences alléliques restent constantes d’une génération à l’autre. 
 
-<p align=center><i>Soient p la fréquence de l’allèle A et q la fréquence de l’allèle p : p+q =1</i></p>
-<p align=center><i>(q est en général utilisé pour désigner l’allèle récessif).</i></p>
+<p align=center>Soient p la fréquence de l’allèle A et q la fréquence de l’allèle p : p+q =1</p>
+<p align=center><i>(q est en général utilisé pour désigner l’allèle conférant l´état récessif du caractère).</i></p>
 
 <div align=center><a href="https://ipfs.io/ipfs/QmUEs9XdmoBLw6QbtCwY6GHGJ24SpwXRPZfR1FAVE1MuqK"><img src="https://ipfs.io/ipfs/QmUEs9XdmoBLw6QbtCwY6GHGJ24SpwXRPZfR1FAVE1MuqK" width=60%></a></div>
 
