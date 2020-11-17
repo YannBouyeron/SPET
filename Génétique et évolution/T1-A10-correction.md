@@ -1,20 +1,20 @@
-# De l'évolution des populations à l'évolution des espèces: La spéciation. 
+# De l'évolution des populations à l'évolution des espèces: La spéciation. 
 
-La sélection naturelle, et le hasard (dérive génétique, effet fondateur) modifient la diversité des populations au cours des générations. Ces modifications aboutissent parfois à la naissance d'une nouvelle espèce ou au contraire à l'extinction de l'une d'elle.
+La sélection naturelle, et le hasard (dérive génétique, effet fondateur) modifient la diversité des populations au cours des générations. Ces modifications aboutissent parfois à la naissance d'une nouvelle espèce ou au contraire à l'extinction de l'une d'elle.
 
-<p align=center><strong>Comment l'évolution des populations peut elle conduire à l'apparition de nouvelles espèces ?</strong></p>
+<p align=center><strong>Comment l'évolution des populations peut elle conduire à l'apparition de nouvelles espèces ?</strong></p>
 
 ## Dérive génétique est spéciation.
 
 [Lien vers l’activité](https://ipfs.io/ipfs/QmXLBuY17A5rYrKPwr1YCmFSXHiTLEueEF9bSTBE4AGRWM)
 
-L'île de Madère renferme six populations de souris qui descendent de deux populations "colonisatrices": colonisation par les Viking au 9° siècle et échouage d’un bateau Portugais en 1419. La phylogénie basée sur l’ADN mitochondrial montre que les souris de Madère sont plus apparentées aux souris du Nord de l’Europe plutôt que aux souris portugaises. 
+L'île de Madère renferme six populations de souris qui descendent de deux populations "colonisatrices": colonisation par les Viking au 9° siècle et échouage d’un bateau Portugais en 1419. La phylogénie basée sur l’ADN mitochondrial montre que les souris de Madère sont plus apparentées aux souris du Nord de l’Europe plutôt que aux souris portugaises. 
 
-Les six populations actuelles sont géographiquement isolées les unes des autres. Elles différents par leur nombre de chromosomes: de nombreux remaniements (fusions) chromosomiques ont eu lieux. Elles sont inter-fécondes mais leur descendance est très peu fertile; elles forment donc encore une unique espèce (spéciation en cours). Leur migration (involontaire) du fait des Viking a induit un effet fondateur: les souris migrantes n’ont pas emporté la diversité génétique de la population nord-européenne qu’elles ont quitté.
+Les six populations actuelles sont géographiquement isolées les unes des autres. Elles différents par leur nombre de chromosomes: de nombreux remaniements (fusions) chromosomiques ont eu lieux. Elles sont inter-fécondes mais leur descendance est très peu fertile; elles forment donc encore une unique espèce (spéciation en cours). Leur migration (involontaire) du fait des Viking a induit un effet fondateur: les souris migrantes n’ont pas emporté la diversité génétique de la population nord-européenne qu’elles ont quitté.
 
-Elles ont ensuite subit un isolement géographique (accentuant encore davantage l’effet fondateur) en étant séparées dans les différentes régions de l’île isolées par des reliefs infranchissables. 
+Elles ont ensuite subi un isolement géographique (accentuant encore davantage l’effet fondateur) en étant séparées dans les différentes régions de l’île isolées par des reliefs infranchissables. 
 
-Les différentes populations (qui sont de petites tailles) ont évolué (mécanismes créateurs de diversité: remaniements chromosomiques + mécanismes évolutifs: dérive génétique) indépendamment les unes des autres et ont accumulé des différences génétiques (caryotype) ce qui à induit un isolement reproducteur partiel (reproduction possible, mais hybrides peu fertiles) et un isolement génétique partiel (il n'y à très peu d'échanges génétiques entre les différentes population). Un événement de spéciation est donc en cours.
+Les différentes populations (qui sont de petites tailles) ont évolué (mécanismes créateurs de diversité: remaniements chromosomiques + mécanismes évolutifs: dérive génétique) indépendamment les unes des autres et ont accumulé des différences génétiques (caryotype) ce qui a induit un isolement reproducteur partiel (reproduction possible, mais hybrides peu fertiles) et un isolement génétique partiel (il n'y à très peu d'échanges génétiques entre les différentes populations). Un événement de spéciation est donc en cours.
 
 <div align=center><a href="https://ipfs.io/ipfs/QmethHfy9SUW27wmbJxRTkffTZbSKhiL976FPXoB6TXJoa"><img src="https://ipfs.io/ipfs/QmethHfy9SUW27wmbJxRTkffTZbSKhiL976FPXoB6TXJoa" width=80%></a></div>
 
@@ -51,9 +51,9 @@ La différence de taille entre les poux issus de la population vivant sur *Giant
 
 ### La mise en place d’un isolement reproducteur 
 
-La différence de taille entre les poux mâles et les poux femelles est importante lors de l’accouplement : si le mâle est trop petit ou trop grand par rapport à la femelle alors le contact entre les abdomens nécessaire à la copulation est rendu difficile.
+La différence de taille entre les poux mâles et les poux femelles est importante lors de l’accouplement : si le mâle est trop petit ou trop grand par rapport à la femelle alors le contact entre les abdomens nécessaire à la copulation est rendu difficile.
 
-On observe par ailleurs que lorsque la différence de taille entre les mâles et les femelles est supérieure à 500 μm et inférieure à 250 μm alors le temps d’accouplement est beaucoup plus court que lorsque la différence est de 500 à 250 μm. On constate aussi que le nombre de descendants est beaucoup plus faible lorsque l’on tente d’accoupler des poux provenant des 2 races de pigeons et présentant une trop grande ou trop faible différence de taille entre mâle et femelle. 
+On observe par ailleurs que lorsque la différence de taille entre les mâles et les femelles est supérieure à 500 μm et inférieure à 250 μm alors le temps d’accouplement est beaucoup plus court que lorsque la différence est de 500 à 250 μm. On constate aussi que le nombre de descendants est beaucoup plus faible lorsque l’on tente d’accoupler des poux provenant des 2 races de pigeons et présentant une trop grande ou trop faible différence de taille entre mâle et femelle. 
 
 Ainsi, bien que les pigeons *Giant run* et *Féral* vivent dans le même espace géographique, les populations de poux de grande taille et de petite taille sont partiellement isolées géographiquement: le poux de petite taille vivant sur *Féral* se reproduisent davantage entre eux plutôt que avec les poux de grande taille vivant sur *Giant run*, et inversement.
 
