@@ -38,7 +38,7 @@ Le taux de similarité entre ces 2 gènes (R et V) est de 96%. Les 4% de différ
 
 Chez cet individu la famille multigénique est constituée de 3 gènes codant les opsines (gènes R, V et V’), deux événements de duplication ont donc eu lieu dans la lignée de cet individu.
 
-Les gènes V et V’ sont plus apparentés entre eux (100% de similitudes) qu’il ne le sont de R (96% de similitudes). La duplication à l’origine des gènes V et V’ est donc plus récente (divergence plus courte) que la duplication à l’origine du gène R et du gène ancestral commun à VV’.
+Les gènes V et V’ sont plus apparentés entre eux (100% de similitudes) qu’ils ne le sont de R (96% de similitudes). La duplication à l’origine des gènes V et V’ est donc plus récente (divergence plus courte) que la duplication à l’origine du gène R et du gène ancestral commun à VV’.
 
 Le taux de similitudes entre V et V’ (100%) montre que la divergence entre ces deux gènes n’a pas encore commencé.
 
