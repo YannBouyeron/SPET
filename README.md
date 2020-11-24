@@ -2,6 +2,10 @@
 
 ______
 
+- La [correction](https://github.com/YannBouyeron/SPET/blob/master/Génétique%20et%20évolution/Exercices/opsines.md) du sujet de bac type 1 sur la famille multigénique des opsines est disponible.
+
+______
+
 
 **La rentrée se faisant en classe entière, le groupe 2 aura donc aussi DS vendredi !**
 
