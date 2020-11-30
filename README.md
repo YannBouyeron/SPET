@@ -2,6 +2,13 @@
 
 _____
 
+- [Barème P1](https://ipfs.io/ipfs/QmWuUhsWgXrL4i77Gt9EvaeEiWSa8StJGmYhR4Xh8RocZC)
+
+- [Barème P2](https://ipfs.io/ipfs/QmevSohhohNWhf2qx2hnAaxBZwQr1kB2EKXgUmY1j9V8xp)
+
+
+_____
+
 - [FAQ Grand Oral](https://eduscol.education.fr/media/3420/download)
 
 
