@@ -25,7 +25,7 @@ Alors **P = P0 e<sup>-λt</sup>**
 
 Soit **t = [ ln (Po / P) ] / λ** 
 
-<img src="https://ipfs.io/ipfs/Qmdyrj7DD9JLK5voTKpYJUEbEf7NKzSo61ZcahQniUVSiG" width=40%>
+<div align=center><img src="https://ipfs.io/ipfs/Qmdyrj7DD9JLK5voTKpYJUEbEf7NKzSo61ZcahQniUVSiG" width=40%></div>
 
 D’autre part **F = Fo + (P0 – P)** 
 
@@ -147,10 +147,10 @@ L'âge de la roche est donné par la formule suivante: **t = [ ln (1 + ( λ . 
 
 La datation par la méthode U / Pb est une datation par concordia-discordia. Cette technique graphique permet de dater la fermeture du système (cristallisation roche magmatique) et de dater aussi la réouverture du système (métamorphisme).
 
-L’Uranium 238 se désintègre en Plomb 206 avec une constante de désintégration λ238 : **<sup>238</sup>U -> <sup>206</sup>Pb + énergie**
+L’Uranium 238 se désintègre en Plomb 206 avec une constante de désintégration λ<sub>238</sub> : **<sup>238</sup>U -> <sup>206</sup>Pb + énergie**
 
 
-L’Uranium 235 se désintègre en Plomb 207 : avec une constante de désintégration λ235: **<sup>235</sup>U -> <sup>207</sup>Pb + énergie**
+L’Uranium 235 se désintègre en Plomb 207 : avec une constante de désintégration λ<sub>235</sub>: **<sup>235</sup>U -> <sup>207</sup>Pb + énergie**
 
 Selon le même principe que la méthode Rb/Sr, on utilise un isotope stable (non radioactif et non radiogénique): le <sup>204</sup>Pb pour obtenir les équations des droites isochrones suivantes:
 
@@ -177,6 +177,9 @@ Ainsi, plus une roche (ses minéraux) vieillit (vieillissent), plus elle se dép
 
 <div align=center><a href="https://ipfs.io/ipfs/QmNNDNaKf5KzjxhnNYqdyBnKSQgNcWSHNHibQYVWj9tUxF"><img src="https://ipfs.io/ipfs/QmNNDNaKf5KzjxhnNYqdyBnKSQgNcWSHNHibQYVWj9tUxF" alt="" width=60%></a></div>
 
+
+*<p align=center><a href="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/">Graphique: Tristan Ferroir</a></p>*
+
 Si un événement géologique (métamorphisme) réouvre le système, on a alors deux cas extrêmes :
 
 - Tout le plomb est perdu et l’un des minéraux de la roche retourne à (0;0) puisqu’il a tout perdu
@@ -191,14 +194,17 @@ En effet, selon les minéraux, plus ou moins de plomb sont perdus donc les miné
 <div align=center><a href="https://ipfs.io/ipfs/QmSHKiZqeQ18oW1XbD8HEdtip1UaqCHHeVCfjJZjJLuL1U"><img src="https://ipfs.io/ipfs/QmSHKiZqeQ18oW1XbD8HEdtip1UaqCHHeVCfjJZjJLuL1U" alt="" width=60%></a></div>
 
 
+*<p align=center><a href="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/">Graphique: Tristan Ferroir</a></p>*
+
 Une fois cet événement passé, la désintégration de l’uranium en plomb se poursuit et les minéraux évoluent alors hors de la concordia mais restent alignés sur une discordia. La discordia va donc avoir deux intercepts avec la concordia :
 
 - L’intercept supérieur qui correspondrait à un minéral n’ayant perdu aucun isotope, cet intercept donne l’âge de la roche
 
 - L’intercept inférieur qui correspondrait à un minéral qui aurait perdu tout son plomb, il se serait alors retrouvé au début de la concordia et aurait alors évolué dessus à nouveau, cet intercept correspond donc à l’âge de réouverture du système donc du métamorphisme
 
-<div align=center><a href="https://ipfs.io/ipfs/QmQCSKwErexCCj9QbQftfJmDDDbJ3KV55SytWKoaskTH4A"><img src="https://ipfs.io/ipfs/QmQCSKwErexCCj9QbQftfJmDDDbJ3KV55SytWKoaskTH4A" alt="" width=60%></a></div>
+<div align=center><a href="https://ipfs.io/ipfs/QmQCSKwErexCCj9QbQftfJmDDDbJ3KV55SytWKoaskTH4A"><img src="https://ipfs.io/ipfs/QmQCSKwErexCCj9QbQftfJmDDDbJ3KV55SytWKoaskTH4A" alt="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/" width=60%></a></div>
 
+*<p align=center><a href="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/">Graphique: Tristan Ferroir</a></p>*
 
 
 
