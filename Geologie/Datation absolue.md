@@ -25,7 +25,7 @@ Alors **P = P0 e<sup>-λt</sup>**
 
 Soit **t = [ ln (Po / P) ] / λ** 
 
-<div align=center><img src="https://ipfs.io/ipfs/Qmdyrj7DD9JLK5voTKpYJUEbEf7NKzSo61ZcahQniUVSiG" width=40%></div>
+<div align=center><a href="https://ipfs.io/ipfs/QmfCdjc87w9VfbqY562VKnLqbCsHRNR4szYXFEA5yepmGM"><img src="https://ipfs.io/ipfs/QmfCdjc87w9VfbqY562VKnLqbCsHRNR4szYXFEA5yepmGM" width=60%></a></div>
 
 D’autre part **F = Fo + (P0 – P)** 
 
