@@ -78,11 +78,13 @@ La quantité de <sup>14</sup>C présente dans l'objet à dater peut être me
 
 Au cours de leur formation, certains minéraux des roches magmatiques et métamorphiques intègrent quelques atomes du rubidium. Son isotope 87 (<sup>87</sup>Rb) qui est radioactif se désintègre en strontium 87 (<sup>87</sup>Sr): **<sup>87</sup>Rb → <sup>87</sup>Sr + énergie**
 
+*Le <sup>87</sup>Sr ayant les mêmes propriétés chimiques que le Ca, il peut se substituer au Ca dans les minéraux qui en incorporent. Le <sup>87</sup>Rb ayant les mêmes propriétés chimiques que le K (potassium) , il peut se substituer au K dans les minérux qui en incorporent.*
+
 La détermination de l'âge d'une roche par cette méthode est complexe car:
 
 - On ne connait pas la quantité initiale P0 d'élément père (<sup>87</sup>Rb0)
 
-- On ne connait pas non plus la quantité d'élément fils (<sup>87</sup>Sr) provenant uniquement de la désintégration du <sup>87</sup>Rb car les minéraux au moment de leur formation incorporent également une certaine quantité de <sup>87</sup>Sr non radiogénique [^1] . La quantité de <sup>87</sup>Sr mesurée à l'instant t correspond donc à la quantité initiale de <sup>87</sup>Sr non radiogénique plus la quantité de <sup>87</sup>Sr issue de la désintégration du <sup>87</sup>Rb.
+- On ne connait pas non plus la quantité d'élément fils (<sup>87</sup>Sr) provenant uniquement de la désintégration du <sup>87</sup>Rb car les minéraux au moment de leur formation incorporent également une certaine quantité de <sup>87</sup>Sr non radiogénique (non issu de la désintégration d’un élément père radiactif). La quantité de <sup>87</sup>Sr mesurée à l'instant t correspond donc à la quantité initiale de <sup>87</sup>Sr non radiogénique plus la quantité de <sup>87</sup>Sr issue de la désintégration du <sup>87</sup>Rb.
 
 Pour surmonter cette difficulté, il faut des mesures provenant d'au moins deux minéraux d'une même roche (minéraux ayant cristallisé en même temps à partir du même magma = minéraux cogénétiques) et prendre en compte un isotope de référence indispensable pour comparer les mesures des différents échantillons. C'est l'isotope <sup>86</sup>Sr qui est stable (comme <sup>87</sup>Sr) et qui n'est pas radiogénique (contrairement à <sup>87</sup>Sr) qui sert de référence dans ce cas.
 
@@ -144,6 +146,7 @@ Au cours du temps, à partir de la fermeture du système, le <sup>40</sup>K se
 L'âge de la roche est donné par la formule suivante: **t = [ ln (1 + ( λ . <sup>40</sup>Ar / λ<sub>Ar</sub> . <sup>40</sup>K ) ) ] / λ**
 
 
+
 ### Le principe de la méthode U / Pb
 
 La datation par la méthode U / Pb est une datation par concordia-discordia. Cette technique graphique permet de dater la fermeture du système (cristallisation roche magmatique) et de dater aussi la réouverture du système (métamorphisme).
@@ -153,7 +156,7 @@ L’Uranium 238 se désintègre en Plomb 206 avec une constante de désintégrat
 
 L’Uranium 235 se désintègre en Plomb 207 : avec une constante de désintégration λ<sub>235</sub>: **<sup>235</sup>U -> <sup>207</sup>Pb + énergie**
 
-Selon le même principe que la méthode Rb/Sr, on utilise un isotope stable (non radioactif et non radiogénique): le <sup>204</sup>Pb pour obtenir les équations des droites isochrones suivantes:
+Selon le même principe que la méthode Rb/Sr, on utilise un isotope stable (non radioactif) et non radiogénique: le <sup>204</sup>Pb pour obtenir les équations des droites isochrones suivantes:
 
 - **(<sup>206</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>206</sup>Pb / <sup>204</sup>Pb)<sub>0</sub> + (<sup>238</sup>U / <sup>204</sup>Pb)<sub>t</sub> . (e<sup>λ<sub>238</sub>t</sup> – 1)**
 
