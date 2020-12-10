@@ -42,6 +42,7 @@ Mathématiquement, la loi de décroissance radioactive est une suite géométriq
 <tr><td align=center>λ : constante radioactive (λ = ln(2) / T)</td><td align=center>r : taux de (dé)croissance intrinsèque (r = ln(2) / T)</td></tr>
 <tr><td align=center>P = P0 e<sup>-λt</sup></br>On rajoute le signe - car λ est noté en valeur absolue</td><td align=center>Nt =N0 e<sup>rt</td></tr>
 <tr><td align=center></td><td align=center>λ : taux de (dé)croissance discret = raison q de la suite</br>λ = e<sup>r</sup></br>r = ln(λ)</td></tr>
+<tr><td align=center>T est la periode ou demie vie. C'est le temps nécessaire pour que la moitié des noyaux de cet isotope initialement présents se désintègrent naturellement</br>T = ln(2) / λ</td><td align=center>T est considérée comme une demie vie dans le cas d'une decroissance (q < 1), et comme un temps de doublement dans le cas d'une croissance (q > 1)</br>T = ln(2) / r</td></tr> 
 </table></div>
 
 ### Les couples d’isotopes utilisés en SVT
