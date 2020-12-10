@@ -59,6 +59,10 @@ Mathématiquement, la loi de décroissance radioactive est une suite géométriq
 
 <tr><td align=center><sup>238</sup>U / <sup>206</sup>Pb</td><td align=center>4,47 . 10<sup>9</sup></td><td align=center>1,55 . 10<sup>-10</sup></td><td align=center>Zircon</br>Monazite</br>Apatite</td><td align=center>t° < 1000°C</br>t° < 450°C</br>t° < 1000°C</td><td align=center>25 Ma < âge présumé de l’objet</td></tr>
 
+<tr><td align=center><sup>235</sup>U / <sup>207</sup>Pb</td><td align=center>703,8 . 10<sup>6</sup></td><td align=center> 9,8485.10<sup>-10</sup></td><td align=center>Zircon</br>Monazite</br>Apatite</td><td align=center>t° < 1000°C</br>t° < 450°C</br>t° < 1000°C</td><td align=center>25 Ma < âge présumé de l’objet</td></tr>
+
+
+
 </table></div>
 
 ### Le principe de la méthode <sup>14</sup>C (Programme ES classe de première)
