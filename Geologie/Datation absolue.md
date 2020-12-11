@@ -53,7 +53,7 @@ Mathématiquement, la loi de décroissance radioactive est une suite géométriq
 
 <tr><td align=center><sup>14</sup>C / <sup>14</sup>N</td><td align=center>5,73 . 10<sup>3</sup></td><td align=center>1,21 . 10<sup>-4</sup></td><td align=center>Matière organique</td><td align=center>Mort de l’organisme</td><td align=center>57,3 ans < âge présumé de l'objet < 57300 ans</td></tr>
 
-<tr><td align=center><sup>87</sup>Rb / <sup>87</sup>Sr</td><td align=center>4,923 . 10<sup>10</sup></td><td align=center>1,397 . 10<sup>-11</sup></td><td align=center>Biotite</br>Muscovite</td><td align=center>t° < 300°C</br>t° < 500°C</td><td align=center>100 Ma < âge présumé de l'objet</td></tr>
+<tr><td align=center><sup>87</sup>Rb / <sup>87</sup>Sr</td><td align=center>48,8 . 10<sup>9</sup></td><td align=center>1,42 . 10<sup>-11</sup></td><td align=center>Biotite</br>Muscovite</td><td align=center>t° < 300°C</br>t° < 500°C</td><td align=center>100 Ma < âge présumé de l'objet</td></tr>
 
 <tr><td align=center><sup>40</sup>K / <sup>40</sup>Ar</td><td align=center>1,248 . 10<sup>9</sup></td><td align=center>5,543 . 10<sup>-10</sup></td><td align=center>Biotite</br>Muscovite</br>Hornblende</td><td align=center>t° < 280°C</br>t° < 350°C</br>t° < 530°C</td><td align=center>1 Ma < âge présumé de l'objet < 300 Ma</td></tr>
 
