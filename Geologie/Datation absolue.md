@@ -55,11 +55,10 @@ Mathématiquement, la loi de décroissance radioactive est une suite géométriq
 
 <tr><td align=center><sup>87</sup>Rb / <sup>87</sup>Sr</td><td align=center>48,8 . 10<sup>9</sup></td><td align=center>1,42 . 10<sup>-11</sup></td><td align=center>Biotite</br>Muscovite</td><td align=center>t° < 300°C</br>t° < 500°C</td><td align=center>100 Ma < âge présumé de l'objet</td></tr>
 
-<tr><td align=center><sup>40</sup>K / <sup>40</sup>Ar</td><td align=center>1,248 . 10<sup>9</sup></td><td align=center>5,543 . 10<sup>-10</sup></td><td align=center>Biotite</br>Muscovite</br>Hornblende</td><td align=center>t° < 280°C</br>t° < 350°C</br>t° < 530°C</td><td align=center>1 Ma < âge présumé de l'objet < 300 Ma</td></tr>
+<tr><td align=center><sup>40</sup>K / <sup>40</sup>Ar</br><sup>40</sup>K / <sup>40</sup>Ca</td><td align=center>1,248 . 10<sup>9</sup></td><td align=center>5,543 . 10<sup>-10</sup></td><td align=center>Biotite</br>Muscovite</br>Hornblende</td><td align=center>t° < 280°C</br>t° < 350°C</br>t° < 530°C</td><td align=center>1 Ma < âge présumé de l'objet < 300 Ma</td></tr>
 
-<tr><td align=center><sup>238</sup>U / <sup>206</sup>Pb</td><td align=center>4,47 . 10<sup>9</sup></td><td align=center>1,55 . 10<sup>-10</sup></td><td align=center>Zircon</br>Monazite</br>Apatite</td><td align=center>t° < 1000°C</br>t° < 450°C</br>t° < 1000°C</td><td align=center>25 Ma < âge présumé de l’objet</td></tr>
+<tr><td align=center><sup>238</sup>U / <sup>206</sup>Pb</br><sup>235</sup>U / <sup>207</sup>Pb</td><td align=center>4,47 . 10<sup>9</sup></br>703,8 . 10<sup>6</sup></td><td align=center>1,55 . 10<sup>-10</sup></br>9,8485.10<sup>-10</sup></td><td align=center>Zircon</br>Monazite</br>Apatite</td><td align=center>t° < 1000°C</br>t° < 450°C</br>t° < 1000°C</td><td align=center>25 Ma < âge présumé de l’objet</td></tr>
 
-<tr><td align=center><sup>235</sup>U / <sup>207</sup>Pb</td><td align=center>703,8 . 10<sup>6</sup></td><td align=center> 9,8485.10<sup>-10</sup></td><td align=center>Zircon</br>Monazite</br>Apatite</td><td align=center>t° < 1000°C</br>t° < 450°C</br>t° < 1000°C</td><td align=center>25 Ma < âge présumé de l’objet</td></tr>
 
 
 
@@ -82,7 +81,7 @@ La quantité de <sup>14</sup>C présente dans l'objet à dater peut être me
 
 Au cours de leur formation, certains minéraux des roches magmatiques et métamorphiques intègrent quelques atomes du rubidium. Son isotope 87 (<sup>87</sup>Rb) qui est radioactif se désintègre en strontium 87 (<sup>87</sup>Sr): **<sup>87</sup>Rb → <sup>87</sup>Sr + énergie**
 
-*Le <sup>87</sup>Sr ayant les mêmes propriétés chimiques que le Ca, il peut se substituer au Ca dans les minéraux qui en incorporent. Le <sup>87</sup>Rb ayant les mêmes propriétés chimiques que le K (potassium) , il peut se substituer au K dans les minérux qui en incorporent.*
+Le <sup>87</sup>Sr ayant les mêmes propriétés chimiques que le Ca, il peut se substituer au Ca dans les minéraux qui en incorporent. Le <sup>87</sup>Rb ayant quant à lui les mêmes propriétés chimiques que le K (potassium) , il peut se substituer au K dans les minérux qui en incorporent.
 
 La détermination de l'âge d'une roche par cette méthode est complexe car:
 
