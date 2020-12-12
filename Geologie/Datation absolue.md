@@ -218,4 +218,3 @@ Une fois cet événement passé, la désintégration de l’uranium en plomb se 
 
 
 
-[^1]: Radiogénique : Se dit d'un élément issu de la désintégration d'un élément radioactif.
