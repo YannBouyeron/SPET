@@ -72,7 +72,7 @@ Le carbone 14 est principalement utilisé pour dater des restes d'êtres vivan
 
 A sa mort, les échanges de carbone cessent, on considère le système comme étant fermé, la quantité de <sup>14</sup>C diminue du fait de son non renouvellement et de sa désintégration en <sup>14</sup>N.
 
-On considère que le rapport <sup>14</sup>C/<sup>12</sup>C est resté constant au cours des temps géologiques, la concentration initiale de <sup>14</sup>C (<sup>14</sup>C0) est donc égale à la concentration mesurée actuellement dans l'atmosphère; soit <sup>14</sup>Co = 03,56 dpm.
+On considère que le rapport <sup>14</sup>C/<sup>12</sup>C est resté constant au cours des temps géologiques, la concentration initiale de <sup>14</sup>C (<sup>14</sup>C0) est donc égale à la concentration mesurée actuellement dans l'atmosphère; soit <sup>14</sup>C0 = 13,56 dpm.
 
 La quantité de <sup>14</sup>C présente dans l'objet à dater peut être mesurée par spectrométrie de masse. Connaissant <sup>14</sup>Co et <sup>14</sup>C on peut appliquer directement la loi de désintégration radioactive pour calculer l'âge de l'objet: **t = [ ln ( <sup>14</sup>C0/ <sup>14</sup>C) ] / λ**
 
