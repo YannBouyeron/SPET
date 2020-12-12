@@ -29,7 +29,9 @@ Soit **t = [ ln (Po / P) ] / λ**
 
 D’autre part **F = Fo + (P0 – P)** 
 
-Alors **F=F0 +P(e<sup>λt</sup>–1)** est une équation de type **y = b + x.a** avec **a = e<sup>λt</sup> – 1** donc **t = [ln (a + 1) ]/ λ**
+Alors **F=F0 +P(e<sup>λt</sup>–1)** est une équation de type **y = b + x.a** avec **a = e<sup>λt</sup> – 1** donc **t = [ln (a + 1) ]/ λ** , soit **t = [ln (1 + ((F - F0) / P)) ]/ λ** 
+
+
 
 
 ### Développement physique vs développement mathématique.
