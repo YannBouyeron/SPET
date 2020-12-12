@@ -81,7 +81,7 @@ La quantité de <sup>14</sup>C présente dans l'objet à dater peut être me
 
 Au cours de leur formation, certains minéraux des roches magmatiques et métamorphiques intègrent quelques atomes du rubidium. Son isotope 87 (<sup>87</sup>Rb) qui est radioactif se désintègre en strontium 87 (<sup>87</sup>Sr): **<sup>87</sup>Rb → <sup>87</sup>Sr + énergie**
 
-Le <sup>87</sup>Sr ayant les mêmes propriétés chimiques que le Ca, il peut se substituer au Ca dans les minéraux qui en incorporent. Le <sup>87</sup>Rb ayant quant à lui les mêmes propriétés chimiques que le K (potassium) , il peut se substituer au K dans les minérux qui en incorporent.
+Le <sup>87</sup>Sr ayant les mêmes propriétés chimiques que le Ca, il peut se substituer au Ca dans les minéraux qui en incorporent. Le <sup>87</sup>Rb ayant quant à lui les mêmes propriétés chimiques que le K (potassium) , il peut se substituer au K dans les minéraux qui en incorporent.
 
 La détermination de l'âge d'une roche par cette méthode est complexe car:
 
