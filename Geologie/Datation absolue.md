@@ -146,7 +146,7 @@ A l'instant t, les quantités de <sup>40</sup>K et <sup>40</sup>Ar peuvent êt
 
 Au cours du temps, à partir de la fermeture du système, le <sup>40</sup>K se désintègre en <sup>40</sup>Ar qui reste piégé dans la roche, la quantité de <sup>40</sup>K diminue tandis que la quantité de <sup>40</sup>Ar augmente. Le rapport <sup>40</sup>Ar / <sup>40</sup>K augmente donc au cours du temps.
 
-L'âge de la roche est donné par la formule suivante: **t = [ ln (1 + ( λ . <sup>40</sup>Ar / λ<sub>Ar</sub> . <sup>40</sup>K ) ) ] / λ**
+L'âge de la roche est donné par la formule suivante: **t = = (1/λ) * ln [1 + (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>)) * (<sup>40</sup>Ar / <sub>Ar</sub>)]**
 
 
 
