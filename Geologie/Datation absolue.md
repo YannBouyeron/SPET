@@ -117,7 +117,7 @@ Pour surmonter cette difficulté, il faut des mesures provenant d'au moins deux
 
 On obtient alors une droite dite « isochrone » dont l’équation est de type y = a.x + b :
 
-<p align=center><strong><sup>87</sup>Sr/<sup>86</sup>Sr = (e<sup>λt</sup> – 1) . <sup>87</sup>Rb/<sup>86</sup>Sr + <sup>87</sup>Sr0/<sup>86</sup>Sr</strong></p>
+<p align=center><strong><sup>87</sup>Sr/<sup>86</sup>Sr = (e<sup>λt</sup> – 1) * <sup>87</sup>Rb/<sup>86</sup>Sr + <sup>87</sup>Sr0/<sup>86</sup>Sr</strong></p>
 
 On observe que plus le temps écoulé depuis la fermeture du système est grand, plus la pente de la droite isochrone est élevée. On en déduit que la pente a = (e<sup>λt</sup> – 1) est fonction du temps écoulé depuis la fermeture du système. Donc, si <strong>a = e<sup>λt</sup> – 1</strong> Alors, <strong>t = [ln (a + 1) ]/ λ** </td></strong>
 
@@ -148,7 +148,7 @@ A l'instant t, les quantités de <sup>40</sup>K et <sup>40</sup>Ar peuvent êt
 
 Au cours du temps, à partir de la fermeture du système, le <sup>40</sup>K se désintègre en <sup>40</sup>Ar qui reste piégé dans la roche, la quantité de <sup>40</sup>K diminue tandis que la quantité de <sup>40</sup>Ar augmente. Le rapport <sup>40</sup>Ar / <sup>40</sup>K augmente donc au cours du temps.
 
-L'âge de la roche est donné par la formule suivante: **t = = (1/λ) * ln [1 + (<sup>40</sup>Ar / <sup>40</sup>K) * (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>))]**
+L'âge de la roche est donné par la formule suivante: **t = (1/λ) * ln [1 + (<sup>40</sup>Ar / <sup>40</sup>K) * (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>))]**
 
 *On multiplie par (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>) pour tenir compte de la double désintégration de <sup>40</sup>K*
 
@@ -165,16 +165,16 @@ L’Uranium 235 se désintègre en Plomb 207 : avec une constante de désintégr
 
 Selon le même principe que la méthode Rb/Sr, on utilise un isotope stable (non radioactif) et non radiogénique: le <sup>204</sup>Pb pour obtenir les équations des droites isochrones suivantes:
 
-- **(<sup>206</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>206</sup>Pb / <sup>204</sup>Pb)<sub>0</sub> + (<sup>238</sup>U / <sup>204</sup>Pb)<sub>t</sub> . (e<sup>λ<sub>238</sub>t</sup> – 1)**
+- **(<sup>206</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>206</sup>Pb / <sup>204</sup>Pb)<sub>0</sub> + (<sup>238</sup>U / <sup>204</sup>Pb)<sub>t</sub> * (e<sup>λ<sub>238</sub>t</sup> – 1)**
 
-- **(<sup>207</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>207</sup>Pb / <sup>204</sup>Pb)<sub>0</sub> + (<sup>235</sup>U / <sup>204</sup>Pb)<sub>t</sub> . (e<sup>λ<sub>235</sub>t</sup> – 1)**
+- **(<sup>207</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>207</sup>Pb / <sup>204</sup>Pb)<sub>0</sub> + (<sup>235</sup>U / <sup>204</sup>Pb)<sub>t</sub> * (e<sup>λ<sub>235</sub>t</sup> – 1)**
 
 
 Comme il n’y a pas de Plomb au départ dans le système: <sup>206</sup>Pb0 = 0 et <sup>207</sup>Pb0 = 0 , donc:
 
-- **(<sup>206</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>238</sup>U / <sup>204</sup>Pb)<sub>t</sub> . (e<sup>λ<sub>238</sub>t</sup> – 1)**
+- **(<sup>206</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>238</sup>U / <sup>204</sup>Pb)<sub>t</sub> * (e<sup>λ<sub>238</sub>t</sup> – 1)**
 
-- **(<sup>207</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>235</sup>U / <sup>204</sup>Pb)<sub>t</sub> . (e<sup>λ<sub>235</sub>t</sup> – 1)**
+- **(<sup>207</sup>Pb / <sup>204</sup>Pb)<sub>t</sub> = (<sup>235</sup>U / <sup>204</sup>Pb)<sub>t</sub> * (e<sup>λ<sub>235</sub>t</sup> – 1)**
 
 Donc:
 
