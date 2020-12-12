@@ -29,7 +29,7 @@ Soit **t = [ ln (Po / P) ] / λ**
 
 D’autre part **F = Fo + (P0 – P)** 
 
-Alors **F=F0 +P(e<sup>λt</sup>–1)** est une équation de type **y = b + a.x** avec **a = e<sup>λt</sup> – 1** donc **t = [ln (a + 1) ]/ λ**
+Alors **F=F0 +P(e<sup>λt</sup>–1)** est une équation de type **y = b + x.a** avec **a = e<sup>λt</sup> – 1** donc **t = [ln (a + 1) ]/ λ**
 
 
 ### Développement physique vs développement mathématique.
@@ -74,7 +74,7 @@ A sa mort, les échanges de carbone cessent, on considère le système comme 
 
 On considère que le rapport <sup>14</sup>C/<sup>12</sup>C est resté constant au cours des temps géologiques, la concentration initiale de <sup>14</sup>C (<sup>14</sup>C0) est donc égale à la concentration mesurée actuellement dans l'atmosphère; soit <sup>14</sup>C0 = 13,56 dpm.
 
-La quantité de <sup>14</sup>C présente dans l'objet à dater peut être mesurée par spectrométrie de masse. Connaissant <sup>14</sup>Co et <sup>14</sup>C on peut appliquer directement la loi de désintégration radioactive pour calculer l'âge de l'objet: **t = [ ln ( <sup>14</sup>C0/ <sup>14</sup>C) ] / λ**
+La quantité de <sup>14</sup>C présente dans l'objet à dater peut être mesurée par spectrométrie de masse. Connaissant <sup>14</sup>C0 et <sup>14</sup>C on peut appliquer directement la loi de désintégration radioactive pour calculer l'âge de l'objet: **t = [ ln ( <sup>14</sup>C0/ <sup>14</sup>C) ] / λ**
 
 
 ### Le principe de la méthode <sup>87</sup>Rb / <sup>87</sup>Sr
@@ -146,7 +146,9 @@ A l'instant t, les quantités de <sup>40</sup>K et <sup>40</sup>Ar peuvent êt
 
 Au cours du temps, à partir de la fermeture du système, le <sup>40</sup>K se désintègre en <sup>40</sup>Ar qui reste piégé dans la roche, la quantité de <sup>40</sup>K diminue tandis que la quantité de <sup>40</sup>Ar augmente. Le rapport <sup>40</sup>Ar / <sup>40</sup>K augmente donc au cours du temps.
 
-L'âge de la roche est donné par la formule suivante: **t = = (1/λ) * ln [1 + (<sup>40</sup>Ar / <sub>40</sub>K) * (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>))]**
+L'âge de la roche est donné par la formule suivante: **t = = (1/λ) * ln [1 + (<sup>40</sup>Ar / <sup>40</sup>K) * (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>))]**
+
+*On multiplie par (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>) pour tenir compte de la double désintégration de <sup>40</sup>K*
 
 
 
