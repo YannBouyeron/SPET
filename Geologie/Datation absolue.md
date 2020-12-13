@@ -146,11 +146,13 @@ Le couple potassium-argon est utilisé pour des roches magmatiques contenant de
 
 L’argon est un gaz qui s’échappe du magma avant sa cristallisation. Ainsi les quantités initiales d’éléments fils sont considérées comme nulles: 40 Aro = 0 Lorsque le magma a terminé sa cristallisation, tout l'argon formé par désintégration du potassium 40 reste emprisonné dans les minéraux, il n y' a plus d'échanges avec le milieu extérieur, le système est fermé.
 
-A l'instant t, les quantités de <sup>40</sup>K et <sup>40</sup>Ar peuvent être mesurées dans la roche; le rapport <sup>40</sup>Ar / <sup>40</sup>K est donc connu. A to, le rapport <sup>40</sup>Aro / <sup>40</sup>Ko = 0
+A l'instant t, les quantités de <sup>40</sup>K et <sup>40</sup>Ar peuvent être mesurées dans la roche; le rapport <sup>40</sup>Ar / <sup>40</sup>K est donc connu. A t0, le rapport <sup>40</sup>Ar0 / <sup>40</sup>K0 = 0
 
 Au cours du temps, à partir de la fermeture du système, le <sup>40</sup>K se désintègre en <sup>40</sup>Ar qui reste piégé dans la roche, la quantité de <sup>40</sup>K diminue tandis que la quantité de <sup>40</sup>Ar augmente. Le rapport <sup>40</sup>Ar / <sup>40</sup>K augmente donc au cours du temps.
 
-L'âge de la roche est donné par la formule suivante: **t = (1/λ) * ln [1 + (<sup>40</sup>Ar / <sup>40</sup>K) * (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>))]**
+<p align=center><a href="https://ipfs.io/ipfs/QmUpCVSeZ88kqByAfA7xRtKnsk917nRxGf6bm6hdT1mjNJ"><img src="https://ipfs.io/ipfs/QmUpCVSeZ88kqByAfA7xRtKnsk917nRxGf6bm6hdT1mjNJ" width=60%></a></p>
+
+L'âge de la roche peut être déterminé graphiquement ou par la formule suivante: **t = (1/λ) * ln [1 + (<sup>40</sup>Ar / <sup>40</sup>K) * (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>))]**
 
 *On multiplie par (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>) pour tenir compte de la double désintégration de <sup>40</sup>K*
 
