@@ -115,13 +115,13 @@ Pour surmonter cette difficulté, il faut des mesures provenant d'au moins deux
 <td><a href="https://ipfs.io/ipfs/Qmb2ksUinB8nZsdJeMZ9yRvXAjUyfRW9MfdCEYi6gTyzXf"><img src="https://ipfs.io/ipfs/Qmb2ksUinB8nZsdJeMZ9yRvXAjUyfRW9MfdCEYi6gTyzXf" alt="" width=4500></a></td></tr>
 
 
-<tr><td>Au temps actuel, on peut mesurer les rapports <sup>87</sup>Sr/<sup>86</sup>Sr et <sup>87</sup>Rb/<sup>86</sup>Sr par spectrométrie de masse dans différents minéraux cogénétiques, et tracer le graphique **<sup>87</sup>Sr/<sup>86</sup>Sr = f (<sup>87</sup>Rb/<sup>86</sup>Sr)**.
+<tr><td>Au temps actuel, on peut mesurer les rapports <sup>87</sup>Sr/<sup>86</sup>Sr et <sup>87</sup>Rb/<sup>86</sup>Sr par spectrométrie de masse dans différents minéraux cogénétiques, et tracer le graphique <strong><sup>87</sup>Sr/<sup>86</sup>Sr = f (<sup>87</sup>Rb/<sup>86</sup>Sr)</strong>.
 
 On obtient alors une droite dite « isochrone » dont l’équation est de type y = a.x + b :
 
 <p align=center><strong><sup>87</sup>Sr/<sup>86</sup>Sr = (e<sup>λt</sup> – 1) * <sup>87</sup>Rb/<sup>86</sup>Sr + <sup>87</sup>Sr0/<sup>86</sup>Sr</strong></p>
 
-On observe que plus le temps écoulé depuis la fermeture du système est grand, plus la pente de la droite isochrone est élevée. On en déduit que la pente a = (e<sup>λt</sup> – 1) est fonction du temps écoulé depuis la fermeture du système. Donc, si <strong>a = e<sup>λt</sup> – 1</strong> Alors, <strong>t = [ln (a + 1) ]/ λ** </td></strong>
+On observe que plus le temps écoulé depuis la fermeture du système est grand, plus la pente de la droite isochrone est élevée. On en déduit que la pente a = (e<sup>λt</sup> – 1) est fonction du temps écoulé depuis la fermeture du système. Donc, si <strong>a = e<sup>λt</sup> – 1</strong> Alors, <strong>t = [ln (a + 1) ]/ λ</strong></td>
 
 <td><a href="https://ipfs.io/ipfs/QmdMFfYnLUWDEJ529wzjcVV4Ac6QU8wo1F2SkqsdJ4Spgz"><img src="https://ipfs.io/ipfs/QmdMFfYnLUWDEJ529wzjcVV4Ac6QU8wo1F2SkqsdJ4Spgz" alt="" width=4500></a></td></tr>
 
@@ -135,7 +135,7 @@ On observe que plus le temps écoulé depuis la fermeture du système est gra
 
 Le potassium 40 est un isotope instable qui se désintègre:
 
-- En argon 40: **<sup>40</sup>K → <sup>40</sup>Ar + énergie (γ)** , avec λ<sub>Ar</sub> = 5,81 . 10<sup>−11</sup> an<sup>−1</sup>
+- En argon 40: **<sup>40</sup>K → <sup>40</sup>Ar + énergie (γ)** , avec λ<sub>Ar</sub> = 0,581 . 10<sup>−10</sup> an<sup>−1</sup>
 
 - En calcium 40: **<sup>40</sup>K → <sup>40</sup>Ca + énergie (β<sup>-</sup>)** , avec λ<sub>Ca</sub> = 4,962 . 10<sup>−10</sup> an<sup>−1</sup>
 
