@@ -190,7 +190,7 @@ Pour chaque âge (par intervalle de 100 Ma), et pour chaque couple d’isotopes,
 
 Ainsi, plus une roche (ses minéraux) vieillit (vieillissent), plus elle se déplace sur la concordia ; c’est ce qu’on voit sur le graphique ci dessous où la roche se déplace jusqu’à avoir 500Ma.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmYNT9TrGYrv1MA4hBb3QGN4sr8gMNaWNWez5q7PHQJ2kP"><img src="https://ipfs.io/ipfs/QmYNT9TrGYrv1MA4hBb3QGN4sr8gMNaWNWez5q7PHQJ2kP" alt="" width=60%></a></div>
+<div align=center><a href="https://ipfs.io/ipfs/QmV826bUTHdqapZaTCJp1hC95LnraJYsYhGrHLmaf9vHLZ"><img src="https://ipfs.io/ipfs/QmV826bUTHdqapZaTCJp1hC95LnraJYsYhGrHLmaf9vHLZ" alt="" width=60%></a></div>
 
 
 Si un événement géologique (métamorphisme) réouvre le système, on a alors deux cas extrêmes :
