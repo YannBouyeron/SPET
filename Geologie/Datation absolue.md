@@ -190,10 +190,8 @@ Pour chaque âge (par intervalle de 100 Ma), et pour chaque couple d’isotopes,
 
 Ainsi, plus une roche (ses minéraux) vieillit (vieillissent), plus elle se déplace sur la concordia ; c’est ce qu’on voit sur le graphique ci dessous où la roche se déplace jusqu’à avoir 500Ma.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmNNDNaKf5KzjxhnNYqdyBnKSQgNcWSHNHibQYVWj9tUxF"><img src="https://ipfs.io/ipfs/QmNNDNaKf5KzjxhnNYqdyBnKSQgNcWSHNHibQYVWj9tUxF" alt="" width=60%></a></div>
+<div align=center><a href="https://ipfs.io/ipfs/QmYNT9TrGYrv1MA4hBb3QGN4sr8gMNaWNWez5q7PHQJ2kP"><img src="https://ipfs.io/ipfs/QmYNT9TrGYrv1MA4hBb3QGN4sr8gMNaWNWez5q7PHQJ2kP" alt="" width=60%></a></div>
 
-
-*<p align=center><a href="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/">Graphique: Tristan Ferroir</a></p>*
 
 Si un événement géologique (métamorphisme) réouvre le système, on a alors deux cas extrêmes :
 
@@ -206,10 +204,8 @@ Ainsi, les mesures des rapports <sup>206</sup>Pb / <sup>238</sup>U et <sup>207</
 En effet, selon les minéraux, plus ou moins de plomb sont perdus donc les minéraux vont se retrouver sur une droite comprise entre (0;0) et l’endroit ou la roche était arrivée sur la concordia. La discordia est donc une droite matérialisée par l’ensemble des minéraux qui ont perdu du plomb. Cette droite s’appelle la discordia car si on datait le minéral avec chacun des couples isotopiques, on trouverait des âges différents donc discordants.
 
 
-<div align=center><a href="https://ipfs.io/ipfs/QmSHKiZqeQ18oW1XbD8HEdtip1UaqCHHeVCfjJZjJLuL1U"><img src="https://ipfs.io/ipfs/QmSHKiZqeQ18oW1XbD8HEdtip1UaqCHHeVCfjJZjJLuL1U" alt="" width=60%></a></div>
+<div align=center><a href="https://ipfs.io/ipfs/QmfRjBmnuTNe9xtajEUFfy15Fiy8fx8nw2paKZwGGy2SRa"><img src="https://ipfs.io/ipfs/QmfRjBmnuTNe9xtajEUFfy15Fiy8fx8nw2paKZwGGy2SRa" alt="" width=60%></a></div>
 
-
-*<p align=center><a href="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/">Graphique: Tristan Ferroir</a></p>*
 
 Une fois cet événement passé, la désintégration de l’uranium en plomb se poursuit et les minéraux évoluent alors hors de la concordia mais restent alignés sur une discordia. La discordia va donc avoir deux intercepts avec la concordia :
 
@@ -217,9 +213,8 @@ Une fois cet événement passé, la désintégration de l’uranium en plomb se 
 
 - L’intercept inférieur qui correspondrait à un minéral qui aurait perdu tout son plomb, il se serait alors retrouvé au début de la concordia et aurait alors évolué dessus à nouveau, cet intercept correspond donc à l’âge de réouverture du système donc du métamorphisme
 
-<div align=center><a href="https://ipfs.io/ipfs/QmQCSKwErexCCj9QbQftfJmDDDbJ3KV55SytWKoaskTH4A"><img src="https://ipfs.io/ipfs/QmQCSKwErexCCj9QbQftfJmDDDbJ3KV55SytWKoaskTH4A" alt="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/" width=60%></a></div>
+<div align=center><a href="https://ipfs.io/ipfs/QmZ1Er5CTEckCWjypBQ1dDvkV7L8XVvVag3rVzGVkg787U"><img src="https://ipfs.io/ipfs/QmZ1Er5CTEckCWjypBQ1dDvkV7L8XVvVag3rVzGVkg787U" alt="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/" width=60%></a></div>
 
-*<p align=center><a href="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/">Graphique: Tristan Ferroir</a></p>*
 
 
 
