@@ -2,6 +2,11 @@
 
 _____
 
+- Travail de vacances: Faire les actiités du [chapitre 7](https://www.libmanuels.fr/demo/9791035813789/164/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin)
+
+
+_____
+
 - [Barème P1](https://ipfs.io/ipfs/QmWuUhsWgXrL4i77Gt9EvaeEiWSa8StJGmYhR4Xh8RocZC)
 
 - [Barème P2](https://ipfs.io/ipfs/QmevSohhohNWhf2qx2hnAaxBZwQr1kB2EKXgUmY1j9V8xp)
