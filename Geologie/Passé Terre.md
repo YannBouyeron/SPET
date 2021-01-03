@@ -2,6 +2,12 @@
 
 ### Des domaines continentaux révélant des âges variés.
 
+Si l’âge de la lithosphère océanique n’excède pas 200 Ma, les roches de la lithosphère continentale peuvent quant à elles avoir des âges très variés allant parfois jusqu’à près de 4 Ga.
+
+On observe ainsi au sein des chaînes de montagnes telles que les Vosges des associations de roches de nature (sédimentaire, magmatique, métamorphique), d’origine (océanique, continentale) et d’âges très différents.
+
+Ces roches se sont retrouvées associées suite aux mouvements tectoniques et à la collision des lithosphères continentales.
+
 ### Les ophiolites: vestiges océaniques au sein des chaînes de montagnes.
 
 On observe au sein des chaînes de montagnes (ou ceintures orogéniques) des  associations, appelées ophiolites, dont les successions des roches (basaltes recouvrant de gabbros, recouvrant eux mêmes des péridotites) sont similaires à la structure verticale de la lithosphère océanique. Les ophiolites sont donc des fragments de lithosphères océaniques charriées en altitude.
@@ -84,7 +90,7 @@ En certains endroits, lorsque les marges passives ont été conservées (en l’
 <tr><th>Activité</br>sismique</th><td align=center>Non</td><td align=center>Forte</td></tr>
 <tr><th>Activité</br>magmatique</th><td align=center>Non</td><td align=center>Forte au niveau de</br>l’arc volcanique sur la plaque chevauchante</td></tr>
 <tr><th>Topographie</th><td align=center>Plateau continental, pente,</br>glacis, plaine abyssale</td><td align=center>Fosse océanique (relief -)</br>Arc volcanique (relief +)</br>Parfois prisme d’accrétion dans la fosse</td></tr>
-<tr><th>Déformations</th><td align=center>Failles normales délimitant des blocs basculés</td><td align=center>Failles inverses, chevauchements</td></tr>
+<tr><th>Déformations</th><td align=center>Failles normales délimitant des blocs basculés</td><td align=center><a href="https://ipfs.io/ipfs/QmUzFnY4vwEdGQcqNgM4jgY7eX9kzSMMT8n6YwfoWqMEyT">Failles inverses</a>, chevauchements</td></tr>
 <tr><th>Contraintes</br>Contexte</th><td align=center>Extensives</br>Divergent</td><td align=center>Compressives</br>Convergent</td></tr>
 <tr><th>Origine des</br>lithosphères</br>raccordées</th><td align=center>Même plaque lithosphérique</td><td align=center>Deux plaques lithosphériques différentes</td></tr>
 </table>
