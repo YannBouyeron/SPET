@@ -9,7 +9,7 @@ Le développement des angiospermes (plantes à fleurs) est un phénomène infini
 
 La **croissance** est l’augmentation des dimensions des tissus, des organes et donc de la plante qu’ils constituent. La croissance fait intervenir deux mécanismes:
 
-- La merèse ou multiplication des cellules au niveau des méristèmes par division (mitose) des cellules meristématiques (cellule indifférenciées, de forme carrée et possédant un rappport nucléocytoplasmique élevé).
+- La merèse ou multiplication des cellules au niveau des méristèmes par division (mitose) des cellules meristématiques (cellules indifférenciées, de forme carrée et possédant un rappport nucléocytoplasmique élevé).
 
 - L’auxèse ou augmentation de la taille des cellules dans les zones d’élongations racinaires et caulinaires.
 
@@ -50,7 +50,7 @@ La coupe longitudinale d’un [bourgeon de marronnier](https://ipfs.io/ipfs/QmNc
 
 <p align=center><strong>Localisation des méristèmes caulinaires et racinaires</strong></p>
 
-<a href="https://ipfs.io/ipfs/Qmb2SgNWeE5Ymt5ooSxjtk1tkoQVXBeEaUqZHofTpaMbVN"><img src="https://ipfs.io/ipfs/Qmb2SgNWeE5Ymt5ooSxjtk1tkoQVXBeEaUqZHofTpaMbVN" width=40%></a>
+<div align=center><a href="https://ipfs.io/ipfs/Qmb2SgNWeE5Ymt5ooSxjtk1tkoQVXBeEaUqZHofTpaMbVN"><img src="https://ipfs.io/ipfs/Qmb2SgNWeE5Ymt5ooSxjtk1tkoQVXBeEaUqZHofTpaMbVN" width=40%></a></div>
 
 
 
