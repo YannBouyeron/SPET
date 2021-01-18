@@ -15,7 +15,7 @@ La **croissance** est l’augmentation des dimensions des tissus, des organes et
 
 La **différenciation** est l’acquisition de nouveaux caractères en relation avec l’acquisition d’une fonction donnée. La différenciation conduit à la mise en place:
 
-- De nouveaux type cellulaires: cellules spécialisées caractérisées par leur forme et leur contenu moléculaire et cytoplasmique en relation avec leur fonction, et par leur rapport nucléocytoplasmique faible.
+- De nouveaux types cellulaires: cellules spécialisées caractérisées par leur forme et leur contenu moléculaire et cytoplasmique en relation avec leur fonction, et par leur rapport nucléocytoplasmique faible.
 
 - De nouveau tissus (ensemble de cellules spécialisées)
 

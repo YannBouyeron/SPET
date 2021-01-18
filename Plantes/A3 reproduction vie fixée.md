@@ -1,6 +1,6 @@
 <p>Thème 3: Organisation fonctionnelle des plantes à fleurs</p>
 
-# Activité 3: La adaptations à la vie fixée: la reproduction.
+# Activité 3: Les adaptations à la vie fixée: la reproduction.
 
 La vie fixée des Angiospermes (ou plantes à fleurs) est une source de contraintes liées notamment à l'impossibilité de se déplacer pour se procurer de la nourriture, se mettre à l'abri, ou se reproduire.
 
