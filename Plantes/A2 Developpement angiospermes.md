@@ -17,7 +17,7 @@ La **différenciation** est l’acquisition de nouveaux caractères en relation 
 
 - De nouveaux types cellulaires: cellules spécialisées caractérisées par leur forme et leur contenu moléculaire et cytoplasmique en relation avec leur fonction, et par leur rapport nucléocytoplasmique faible.
 
-- De nouveau tissus (ensemble de cellules spécialisées)
+- De nouveaux tissus (ensemble de cellules spécialisées)
 
 - De nouveaux organes (ensemble de tissus)
 
