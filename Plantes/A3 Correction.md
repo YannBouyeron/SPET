@@ -1,6 +1,6 @@
 <p>Thème 3: Organisation fonctionnelle des plantes à fleurs</p>
 
-#Activité 3: Les adaptations à la vie fixée: la reproduction.
+# Activité 3: Les adaptations à la vie fixée: la reproduction.
 
 ### L’organisation de la fleur des angiospermes. 
 
