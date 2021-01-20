@@ -23,7 +23,7 @@ Les fleurs des angiospermes présentent une très grande diversité de formes; c
 
 *Il existe aussi des espèces dites monoïques (fleurs mâles et femelles séparées, portées par un même individu qui est donc hermaphrodite) et des espèces dioïques (individus mâles portant des fleurs mâles, individus femelles portant des fleurs femelles)*
 
-**Les fleurs hérmaphrodites (ou monoïque) des angiospermes est une adaptation évolutive à la reproduction en relation avec la vie fixée: elle permet chez de nombreuses espèces de pratiquer l’autofécondation ou autogamie et donc de se reproduire sans avoir à transporter le pollen vers une autre fleur distante.**
+**Les fleurs hérmaphrodites (ou monoïques) des angiospermes sont une adaptation évolutive à la reproduction en relation avec la vie fixée: elles permettent chez de nombreuses espèces de pratiquer l’autofécondation ou autogamie et donc de se reproduire sans avoir à transporter le pollen vers une autre fleur distante.**
 
 **Cependant , l’autofécondation est réductrice de diversité chez les zygotes ce qui réduit les possibilités d’adaptations à un milieu changeant ou nouveau** (Si il y’a moins de diversité, la probabilité d’avoir dans une population quelques individus possédant des caractères avantageux vis à vis d’une pression de séléction nouvelle du milieu ou d’un nouveau milieu colonisé est plus faible).
 
@@ -50,7 +50,7 @@ D’autre part on remarque que les expressions des gènes A et C s'excluent; lor
 
 ### L'auto-incompatibilité génétique. 
 
-Certaines espèces d’angiospermes ont conservées d’autres innovations évolutives (devenues des adaptations) leur permettant de se reproduire par fécondation croisée tout en limitant ou renonçant aux possibilités d’autofécondations (réductrices de diversité) offertes par leur organisation florale hérmaphrodite.
+Certaines espèces d’angiospermes ont conservé d’autres innovations évolutives (devenues des adaptations) leur permettant de se reproduire par fécondation croisée tout en limitant ou renonçant aux possibilités d’autofécondations (réductrices de diversité) offertes par leur organisation florale hérmaphrodite.
 
 Il existe ainsi chez les plantes hermaphrodites des gènes qualifiés de gène d'incompatibilité (S) existant sous forme de nombreux allèles. Les plantes hétérozygotes diploïdes disposent pour le gène S de deux allèles. Le pollen, gamétophyte mâle haploïde, ne contient qu'un de ces allèles. Les [expériences](https://ipfs.io/ipfs/QmRr3XZYAPpptCUrt9zwn1F4Q92CEZzD9eLbb6QKbuDwbu) de fécondations croisées et d'auto-fécondations montrent que la fécondation n'est possible que lorsque le génotype du pollen (1 allèle du gène S) est différent du génotype du pistil (2 allèles du gène S); dans le cas contraire, la [progression du tube pollinique](https://ipfs.io/ipfs/QmYBsxfTXc61B1SiRvXo5nXBdigBiKNmAaTChRdeF9b3QR) est empêchée, et la fécondation ne peut avoir lieu. Ce processus d'auto-incompatibilité génétique empêche ainsi l'auto-fécondation (autogamie) réductrice de diversité.
 
