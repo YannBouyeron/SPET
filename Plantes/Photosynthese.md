@@ -102,3 +102,17 @@ Lors de chaque cycle, 5 des 6 trioses P produits sont utilisés pour régéne
 
 <div align=center><a href="https://ipfs.io/ipfs/QmWyWeRqsYprxPk9cbPFBEfHkaXqAe1XA5tRokY9Y7v4JX"><img src="https://ipfs.io/ipfs/QmWyWeRqsYprxPk9cbPFBEfHkaXqAe1XA5tRokY9Y7v4JX" width=60%></a></div>
 
+
+###### Conclusion:
+
+La réduction du dioxyde de carbone au cours de la photosynthèse est assurée dans les chloroplastes en deux phases étroitement couplées.
+
+La phase photochimique correspond à la conversion de l’énergie des photons en énergie chimique sous forme d’ATP et de RH<sub>2</sub> : la chlorophylle a, excitée par les photons, devient un puissant réducteur qui alimente une chaîne d’oxydoréductions localisée dans la membrane des thylakoïdes. 
+
+Les électrons et protons nécessaires à la régénération de la chlorophylle a oxydée sont fournis par l’eau, l’oxydation de cette dernière étant à l’origine du dioxygène libéré. 
+
+La phase non photochimique utilise l’ATP et le RH<sub>2</sub> produits lors de la phase photochimique pour permettre la réduction du dioxyde de carbone dans le stroma ; celui-ci est incorporé dans des molécules organiques grâce à l’activité de la RuBP-carboxylase (Rubisco).
+
+C’est ainsi que le carbone minéral est intégré dans la matière organique des végétaux photo-autotrophes, eux-mêmes à la base de la majeure partie des chaînes alimentaires, les organismes hétérotrophes consommant, directement ou indirectement, cette matière organique qui leur fournit les constituants et l'énergie nécessaires à leur métabolisme.</strong>
+
+<p align=center><strong>6 CO<sub>2</sub> + 12 H<sub>2</sub>O → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O</strong></p>
