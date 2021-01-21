@@ -116,3 +116,7 @@ La phase non photochimique utilise l’ATP et le RH<sub>2</sub> produits lors de
 C’est ainsi que le carbone minéral est intégré dans la matière organique des végétaux photo-autotrophes, eux-mêmes à la base de la majeure partie des chaînes alimentaires, les organismes hétérotrophes consommant, directement ou indirectement, cette matière organique qui leur fournit les constituants et l'énergie nécessaires à leur métabolisme.</strong>
 
 <p align=center><strong>6 CO<sub>2</sub> + 12 H<sub>2</sub>O → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O</strong></p>
+
+*Compléments: [Mémo métabolisme](https://ipfs.io/ipfs/QmavKzdycbBrt9k6TjQxfh8vSWY43e2EiaCFiH6MnkXdXH)*
+
+
