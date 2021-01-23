@@ -78,7 +78,7 @@ En milieu naturel, les facteurs de l’environnement fluctuent. Ainsi, la répar
 
 - Le coléoptile ne se courbe pas lorsqu’on intercale une demie lamelle de mica entre l’apex et la base du coléoptile du côté non éclairé.
 
-- **On en déduit que la perception de l’orientation de la lumière par l’apex induirait la production par l’apex d’une molécule hydrophile repartie de façon non uniforme (plus abondante sur la face non éclairée) et dont la diffusion vers la base induirait la courbure (croissance orientée) du coléoptile.**
+- **On en déduit que la perception de l’orientation de la lumière par l’apex induirait la production par l’apex d’une molécule hydrophile dont la diffusion non uniforme (plus abondante sur la face non éclairée) vers la base induirait la courbure (croissance orientée) du coléoptile.**
 
 
 ###### Les expériences de [Soding](https://ipfs.io/ipfs/QmQAcEmnrn6uLeWhny3HnYpnPH86RwEYR471iRBEgcdPQb) montrent que:
