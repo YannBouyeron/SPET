@@ -2,7 +2,7 @@
 
 # Activité 6: L'absorption de la lumière par les végétaux.
 
-Le CO2 atmosphérique pénètre dans les cellules foliaires par l’intermédiaire des stomates. Au cours de la photosynthèse, il sera réduit en glucide à l’intérieur d’organites spécialisés, les chloroplastes. Mais la photosynthèse est un processus qui requiert également de l’énergie lumineuse.
+Le CO<sub>2</sub> atmosphérique pénètre dans les cellules foliaires par l’intermédiaire des stomates. Au cours de la photosynthèse, il sera réduit en glucide à l’intérieur d’organites spécialisés, les chloroplastes. Mais la photosynthèse est un processus qui requiert également de l’énergie lumineuse.
 
 <p align=center><strong>Comment l'énergie lumineuse est elle captée par la feuille ?</strong></p>
 
@@ -59,6 +59,7 @@ La chromatographie est une technique de séparation des substances présentes da
 
 <p align=center><strong>Quelques caractéristiques des pigments chlorophylliens.</strong></p>
 
+<div align=center>
 <table width=50%>
 <tr><th>Pigment</th><th>Couleur</th><th>Rf</th></tr>
 <tr><th>Carotène</th><td align=center>Orange</td><td align=center>0,96</td></tr>
@@ -66,6 +67,8 @@ La chromatographie est une technique de séparation des substances présentes da
 <tr><th>Clorophylle b</th><td align=center>Verte</td><td align=center>0,28</td></tr>
 <tr><th>Xanthophylle</th><td align=center>Jaune</td><td align=center>0,78</td></tr>
 </table>
+</div>
+
 
 ### Document 3: Protocole d’extraction d’une solution de chlorophylle brute: 
 
