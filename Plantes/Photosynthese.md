@@ -44,7 +44,7 @@ On en déduit que la chlorophylle brute (ensemble des pigments photosynthétique
 
 Le spectre d'absorption de la chlorophylle brute correspond à la combinaison des spectres d'absorption des différents pigments constituant la chlorophylle brute; la diversité des pigments permet d'élargir le spectre d'absorption de la chlorophylle brute ce qui permet à la plante d'absorber de nombreuses longueurs d'ondes différentes.
 
-Dans son expérience, [Engelmann](https://ipfs.io/ipfs/QmeppZoYnGEXEH4x7g1WXAdUWELKwVCysHDgYNYpEnefH5) montre que les bactéries se regroupent au niveau des cellules chlorophylliennes exposées aux longueurs d'ondes bleues (concentration bactérienne maximale vers 680 nm) et rouges (concentration bactérienne maximale vers 480 nm). On en déduit que ces longueurs d'ondes sont actives sur la production de di-oxygène et donc sur la photosynthèse. 
+Dans son expérience, [Engelmann](https://ipfs.io/ipfs/QmeppZoYnGEXEH4x7g1WXAdUWELKwVCysHDgYNYpEnefH5) montre que les bactéries se regroupent au niveau des cellules chlorophylliennes exposées aux longueurs d'ondes bleues (concentration bactérienne maximale vers 680 nm) et rouges (concentration bactérienne maximale vers 480 nm). On en déduit que ces longueurs d'ondes sont actives sur la production de dioxygène et donc sur la photosynthèse. 
 
 Comme le spectre d’absorption des pigments correspond au spectre d’action de la photosynthèse (ensemble des longueurs d’ondes actives sur la photosynthèse) mis en évidence par l’expérience d’Engelmann, on peut dire que c’est l’absorption de certaines longueurs d’ondes par les pigments qui permet la photosynthèse; on parle de pigments photosynthétiques.
 
@@ -117,6 +117,6 @@ C’est ainsi que le carbone minéral est intégré dans la matière organiq
 
 <p align=center><strong>6 CO<sub>2</sub> + 12 H<sub>2</sub>O → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O</strong></p>
 
-*Compléments: [Mémo métabolisme](https://ipfs.io/ipfs/QmavKzdycbBrt9k6TjQxfh8vSWY43e2EiaCFiH6MnkXdXH)*
+*Compléments: [Mémo métabolisme](https://ipfs.io/ipfs/QmTSSFdJ5SsYhEPb2fDGsbBeKreGVD6CvDNHBn9eKADXWw)*
 
 
