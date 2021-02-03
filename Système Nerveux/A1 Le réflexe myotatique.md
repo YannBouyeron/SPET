@@ -40,7 +40,7 @@ Sachant que la distance approximative entre le triceps sural et la moelle épini
 
 **Exploitez les [documents page 375](https://ipfs.io/ipfs/QmRnizYxWRf4P5Pmp4hQ5uxG5V147Z4CL5QBApYgpvoK87) et / ou l’expérience de [Sherrington](https://ipfs.io/ipfs/QmXTcaZxadhn9XbgGuCAhRpgorYGGb4wiR2qMR5faeEcyy) pour confirmer la localisation du centre intégrateur du réflexe myotatique. [Lien Libmanuel](https://www.libmanuels.fr/demo/9791035813789/375/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin)**
 
-#### Mise en évidence du circuit nerveux du réflexe myotatique: Les expérience de Magendie.
+#### Mise en évidence du circuit nerveux du réflexe myotatique: Les expériences de Magendie.
 
 >**Expériences de Magendie: lésions, stimulations et sections des racines dorsales, ventrales et du nerf rachidien.** 
 
@@ -53,6 +53,9 @@ Sachant que la distance approximative entre le triceps sural et la moelle épini
 #### Les structures impliquées dans l'arc réflexe
 
 **Identifiez les différentes structures impliquées dans l'arc réflexe [Livre pages 376](https://ipfs.io/ipfs/QmRtFKiiAAXvS4Efbp5TerTFDxfHCgSWh1D2GGBCxiMjyU). [Lien libmanuel](https://www.libmanuels.fr/demo/9791035813789/376/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin)**
+
+
+<p></br></p>
 
 #### Conclusion: 
 
