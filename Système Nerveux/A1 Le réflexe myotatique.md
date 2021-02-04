@@ -9,7 +9,7 @@ La position verticale chez l’homme est un état d’équilibre instable et per
 
 <div align=center><a href="https://ipfs.io/ipfs/QmU5d2eL1yGDTJ7R8XT4i3dt4BHLASCU5T5spn4JtMoaYe"><img src="https://ipfs.io/ipfs/QmU5d2eL1yGDTJ7R8XT4i3dt4BHLASCU5T5spn4JtMoaYe" width=80%></a></div>
 
-**Utilisez le document ci-dessus ainsi que le matériel disponible pour réaliser des enregistrements du réflexe myotatique afin de:**
+**Utilisez le document ci-dessus ainsi que le matériel disponible pour réaliser des [enregistrements](https://ipfs.io/ipfs/QmbB7nz8RyeYufrEqCZQxqcPBAvKv1GdNgmPUfrifygDj7) du réflexe myotatique afin de:**
 
 - Décrire les manifestations générales des réflexes myotatiques,
 
