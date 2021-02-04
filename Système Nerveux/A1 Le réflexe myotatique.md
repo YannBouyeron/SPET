@@ -52,8 +52,9 @@ Sachant que la distance approximative entre le triceps sural et la moelle épini
 
 #### Les structures impliquées dans l'arc réflexe
 
-**Identifiez les différentes structures impliquées dans l'arc réflexe [Livre pages 376](https://ipfs.io/ipfs/QmRtFKiiAAXvS4Efbp5TerTFDxfHCgSWh1D2GGBCxiMjyU). [Lien libmanuel](https://www.libmanuels.fr/demo/9791035813789/376/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin)**
+- Identifiez les différentes structures impliquées dans l'arc réflexe [Livre pages 376](https://ipfs.io/ipfs/QmRtFKiiAAXvS4Efbp5TerTFDxfHCgSWh1D2GGBCxiMjyU). [Lien libmanuel](https://www.libmanuels.fr/demo/9791035813789/376/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin)
 
+- Exploitez les <a href="https://ipfs.io/ipfs/QmbHg4cWszEYJM28GgToPohVuZJ8uroVexYokV4agxzFCn">expériences</a> de sections pour localiser les corps cellulaires des différents neurones impliqués.
 
 <p></br></p>
 
