@@ -3,7 +3,7 @@
 Le système nerveux assure une communication rapide d’informations dans l’organisme, c’est en outre le seul système qui permette la collecte d’informations en provenance du milieu extérieur. Il est essentiel au bon fonctionnement de l’organisme.
 La position verticale chez l’homme est un état d’équilibre instable et permanent en raison de la pesanteur. Le maintien de cette posture nécessite la mise en jeu de divers muscles (jambe, tête, tronc bras) et de façon coordonnée. C’est le système nerveux qui, de façon réflexe, ajuste en permanence la contraction des muscles permettant l’équilibre. Le réflexe myotatique sert d'outil diagnostique pour apprécier l'intégrité du système neuromusculaire : par un choc léger sur un tendon, on provoque la contraction du muscle étiré (réflexe rotulien ou achilléen).
 
-<p class=center><strong>Comment l’étude d’un arc-réflexe permet-elle de vérifier le bon fonctionnement du système neuromusculaire ?</strong></p>
+<p align=center><strong>Comment l’étude d’un arc-réflexe permet-elle de vérifier le bon fonctionnement du système neuromusculaire ?</strong></p>
 
 ### 1: Observation du réflexe myotatique achilléen: 
 
