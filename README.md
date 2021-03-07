@@ -1,5 +1,20 @@
 # SPE SVT Terminale
 
+
+______
+
+
+**Lundi 8 Mars:**
+
+
+- Terminer le schéma de l'activité sur le déclenchement de la contraction musculaire [pages 384-385](https://ipfs.io/ipfs/QmP6Q1G88FAH2bN5TSkwUkLgjutiWLyMg7jg1a4ARnHUNC)
+
+
+- Faire les exercices [4 et 5 page 394](https://ipfs.io/ipfs/QmVj2CjjDHbc53r14Bufohx3N8Q3KEWi6WHhvcKQ4F3wur)
+
+
+
+______
 ______
 
 
