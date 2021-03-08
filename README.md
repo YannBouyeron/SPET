@@ -1,5 +1,10 @@
 # SPE SVT Terminale
 
+______
+
+**Mardi 9 Mars:**
+
+- La [correction](https://ipfs.io/ipfs/QmRUyNx3YmpwjHysHrsiPMECFVEQq9NR6awj5r5DpUAEuS) des exercices 4 et 5 page 394 est disponible.
 
 ______
 
