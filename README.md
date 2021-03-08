@@ -4,7 +4,7 @@ ______
 
 **Mardi 9 Mars:**
 
-- La [correction](https://ipfs.io/ipfs/QmRUyNx3YmpwjHysHrsiPMECFVEQq9NR6awj5r5DpUAEuS) des exercices 4 et 5 page 394 est disponible.
+- La [correction](https://ipfs.io/ipfs/QmWGPAkQMDCtCpjJ4uzSku8vz5ZyFxuokKCQhkoog2ZDQ5) des exercices 4 et 5 page 394 est disponible.
 
 ______
 
