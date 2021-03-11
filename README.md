@@ -5,7 +5,7 @@ _______
 
 **Vendredi 12 Mars:**
 
-- Faire les activités pages [400 - 401](https://ipfs.io/ipfs/Qmf5paMzHVR6FMA8vr8yBcFcAiz8vmGt5hwRmsLL9fGpSE) et [404 - 405](https://ipfs.io/ipfs/QmXW6eJzrKMpSBLBJHAd2bQ7b4ay5WCwqZqniUpr1SEQCd) sur le controle du mouvement volontaire.
+- Faire les activités pages [400 - 401](https://ipfs.io/ipfs/QmXW6eJzrKMpSBLBJHAd2bQ7b4ay5WCwqZqniUpr1SEQCd) et [404 - 405](https://ipfs.io/ipfs/Qmf5paMzHVR6FMA8vr8yBcFcAiz8vmGt5hwRmsLL9fGpSE) sur le controle du mouvement volontaire.
 
 
 ______
