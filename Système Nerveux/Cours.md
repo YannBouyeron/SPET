@@ -1,3 +1,5 @@
+# Corps humain et santé.
+
 ## Chapitre 1: Le réflexe myotatique.
 
 Un réflexe myotatique est une réaction rapide et involontaire du corps: un muscle se contracte automatiquement en réponse à son propre étirement. Le réflexe myotatique sert d’outil diagnostique pour apprécier l’intégrité du système neuro-musculaire: par un choc léger sur un tendon, on provoque la contraction du muscle étiré (exemple du réflexe rotulien).
@@ -18,7 +20,9 @@ Le circuit nerveux du réflexe myotatique fait intervenir successivement :
 
 - un organe effecteur, le muscle, dont les fibres reçoivent le message nerveux moteur et, en se contractant, produisent la réponse réflexe.
 
-Les expériences de section montrent que le message sensitif issu d'un muscle étiré passe par le nerf puis par la racine dorsale avant d'atteindre la moelle épinière. Le message moteur est conduit de la moelle épinière vers le muscle en passant par la racine ventrale puis par le nerf rachidien. Ce circuit est appelé arc réflexe
+Les expériences de section montrent que le message sensitif issu d'un muscle étiré passe par le nerf puis par la racine dorsale avant d'atteindre la moelle épinière. Le message moteur est conduit de la moelle épinière vers le muscle en passant par la racine ventrale puis par le nerf rachidien. Ce circuit est appelé arc réflexe.
+
+<div align=center><a href="https://ipfs.io/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"><img src="https://ipfs.io/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"></a></div>
 
 ### II Les neurones de l'arc réflexe.
 
@@ -27,6 +31,8 @@ La communication nerveuse repose sur des réseaux de cellules nerveuses ou neur
 - les dendrites collectent les informations et conduisent le message nerveux au corps cellulaire.
 
 - l’axone qui conduit le message nerveux du corps cellulaire jusqu'à la terminaison synaptique.
+
+<div class=center><a href="https://ipfs.io/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs"><img src="https://ipfs.io/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs" width=100%></a></div>
 
 Deux types de neurones interviennent successivement au cours du réflexe myotatique : les neurones afférents, ou sensitifs, et les neurones efférents ou neurones moteurs (aussi appelés moto-neurones).
 
@@ -42,6 +48,9 @@ Le neurone moteur possède un corps cellulaire situé dans la partie antérie
 La différence de potentiel entre le cytoplasme et la face externe de la membrane plasmique du neurone définit le potentiel de membrane. En l’absence de stimulation, le potentiel de membrane vaut environ -70mV et constitue le potentiel de repos. 
 
 Lorsque le neurone est stimulé, le potentiel de membrane peut varier transitoirement. Cette variation est appelée potentiel d’action. Le potentiel d’action n’est observé que si l’intensité de la stimulation du neurone dépasse une valeur seuil. Au-delà de cette valeur, le potentiel d’action conserve toujours les mêmes caractéristiques (loi du tout ou rien).
+
+<p align=center><strong>Enregistrement de l’activité électrique d’un potentiel d’action.</strong></p>
+<div align=center><a href="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2"><img src="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2" title="PA"></a></div>
 
 La stimulation d’un neurone au-delà de la valeur seuil induit l’émission d’une succession (ou train) de potentiels d’action dont la fréquence est proportionnelle à l’intensité de la stimulation. Ce train de potentiels d’action se propage le long de l’axone vers les terminaisons synaptiques. Il constitue le message nerveux. Celui-ci est donc codé électriquement en fréquence de potentiels d’action.
 
@@ -111,6 +120,12 @@ Cette double sommation détermine la nature de la réponse du motoneurone (é
 
 ### III Les cellules du cerveau.
 
+Le cerveau n’est pas uniquement composé de neurones, il contient aussi des cellules gliales. Ces cellules assurent diverses fonctions qui permettent le bon fonctionnement de l’ensemble du système nerveux.
+
+Les cellules de Schwann (dans le système nerveux périphérique) et les oligodendrocytes (dans le système nerveux central) sont des cellules gliales formant une gaine de myéline (blanche) autour des axones ce qui permet d’augmenter la vitesse de conduction des messages nerveux (conduction saltatoire). 
+
+En cas d’atteinte de cette gaine de myéline, comme dans le cas de la sclérose en plaques, différents troubles apparaissent.
+
 ### IV Motricité et plasticité cérébrale.
 
 Les connexions qui s’établissent entre certains neurones du cortex cérébral d'un individu peuvent se modifier en fonction des expériences qu'il a vécues : c'est la plasticité cérébrale.
@@ -130,4 +145,4 @@ L'activité du cortex moteur peut être modifiée dans différentes situatio
 La plasticité du cortex existe ou non tout au long de la vie de l'individu, mais les capacités de remaniements se réduisent avec l'âge. Les capacités de remaniements du cerveau sont en relation avec le comportement de chaque individu: avoir un comportement responsable en matière de santé permet de maintenir son capital nerveux.
 
 
-[Diaporama Réflexes - Mouvements volontaire](https://ipfs.io/ipfs/QmVvidCbrvqK2azHSgW51VUK62N4BtBCd7LiyQUXpHee4g)
+[Diaporama Réflexes - Mouvements volontaires](https://ipfs.io/ipfs/QmVvidCbrvqK2azHSgW51VUK62N4BtBCd7LiyQUXpHee4g)
