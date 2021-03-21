@@ -132,15 +132,15 @@ Les connexions qui s’établissent entre certains neurones du cortex céréb
 
 <p align=center><strong>Comment la plasticité du cortex moteur est-elle mobilisée au cours de la vie d'un individu ?</strong></p>
 
-### Des variations individuelles.
+##### Des variations individuelles.
 
 Dans ses grandes lignes, l'organisation du cerveau et notamment du cortex est la même pour tous les individus: c'est une caractéristique propre à l’espèce. Cependant, la comparaison de cartes motrices de plusieurs individus révèle l'existence de variations: ces différences interindividuelles ne sont pas innées, elles s'acquièrent au cours du développement, par apprentissage des gestes. Même chez l'adulte, les effets d'un entraînement moteur se traduisent par une amélioration des performances que l'on peut associer à une extension de l'aire motrice concernée. De telles modifications peuvent être obtenues rapidement et ne sont pas nécessairement durables : c'est ce qu'on appelle la plasticité cérébrale.
 
-### Des capacités de récupération.
+##### Des capacités de récupération.
 
 L'activité du cortex moteur peut être modifiée dans différentes situations. Lors de certains accidents où le cortex moteur est endommagé, la plasticité permet d'expliquer la récupération de différentes fonctions: la récupération de la motricité est en relation avec une réorganisation du cortex moteur de l'individu. La plasticité permet donc de comprendre que l'organisation du cortex n’est pas figée lors du développement de l'individu mais peut également se modifier à l'âge adulte.
 
-### Préserver son capital nerveux.
+##### Préserver son capital nerveux.
 
 La plasticité du cortex existe ou non tout au long de la vie de l'individu, mais les capacités de remaniements se réduisent avec l'âge. Les capacités de remaniements du cerveau sont en relation avec le comportement de chaque individu: avoir un comportement responsable en matière de santé permet de maintenir son capital nerveux.
 
