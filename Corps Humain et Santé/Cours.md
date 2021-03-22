@@ -4,7 +4,7 @@
 
 Un réflexe myotatique est une réaction rapide et involontaire du corps: un muscle se contracte automatiquement en réponse à son propre étirement. Le réflexe myotatique sert d’outil diagnostique pour apprécier l’intégrité du système neuro-musculaire: par un choc léger sur un tendon, on provoque la contraction du muscle étiré (exemple du réflexe rotulien).
 
-[Activité 1](https://github.com/YannBouyeron/SPET/blob/master/Système%20Nerveux/A1%20correction.md)
+[Activité 1](https://github.com/YannBouyeron/SPET/blob/master/Corps%20Humain%20et%20Santé/A1%20correction.md)
 
 ### I Les voies nerveuses du réflexe myotatique.
 
@@ -45,7 +45,7 @@ Le neurone moteur possède un corps cellulaire situé dans la partie antérie
 
 ### III Nature et transmission du message nerveux.
 
-[Activité 2](https://github.com/YannBouyeron/SPET/blob/master/Système%20Nerveux/A2%20Messages%20nerveux.md)
+[Activité 2](https://github.com/YannBouyeron/SPET/blob/master/Corps%20Humain%20et%20Santé/A2%20Messages%20nerveux.md)
 
 La différence de potentiel entre le cytoplasme et la face externe de la membrane plasmique du neurone définit le potentiel de membrane. En l’absence de stimulation, le potentiel de membrane vaut environ -70mV et constitue le potentiel de repos. 
 
