@@ -4,13 +4,13 @@
 
 Un réflexe myotatique est une réaction rapide et involontaire du corps: un muscle se contracte automatiquement en réponse à son propre étirement. Le réflexe myotatique sert d’outil diagnostique pour apprécier l’intégrité du système neuro-musculaire: par un choc léger sur un tendon, on provoque la contraction du muscle étiré (exemple du réflexe rotulien).
 
-<p align=center><strong>Comment ce test montre-t-il le bon état de fonctionnement du système neuro-musculaire ? Comment le système nerveux intervient-il dans ce réflexe ?</strong></p>
+[Activité 1](https://github.com/YannBouyeron/SPET/blob/master/Système%20Nerveux/A1%20correction.md)
 
 ### I Les voies nerveuses du réflexe myotatique.
 
 Le circuit nerveux du réflexe myotatique fait intervenir successivement :
 
-- des récepteurs sensoriels (les fuseaux neuromusculaires), situés dans le muscle et le tendon, qui émettent un message nerveux lorsqu'ils sont stimulés par l'étirement provoqué par le choc;
+- des récepteurs sensoriels (les fuseaux neuromusculaires), situés dans le muscle, qui émettent un message nerveux lorsqu'ils sont stimulés par l'étirement provoqué par le choc;
 
 - des fibres nerveuses sensitives (situées dans un nerf rachidien) qui conduisent le message nerveux afférent (sensitif) vers les centres nerveux ;
 
@@ -18,7 +18,7 @@ Le circuit nerveux du réflexe myotatique fait intervenir successivement :
 
 - des fibres nerveuses motrices (situées elles aussi dans le nerf rachidien) qui conduisent le message efférent (moteur);
 
-- un organe effecteur, le muscle, dont les fibres reçoivent le message nerveux moteur et, en se contractant, produisent la réponse réflexe.
+- un organe effecteur, le muscle, dont les plaques motrices reçoivent le message nerveux moteur et, en se contractant, produisent la réponse réflexe.
 
 Les expériences de section montrent que le message sensitif issu d'un muscle étiré passe par le nerf puis par la racine dorsale avant d'atteindre la moelle épinière. Le message moteur est conduit de la moelle épinière vers le muscle en passant par la racine ventrale puis par le nerf rachidien. Ce circuit est appelé arc réflexe.
 
@@ -32,7 +32,7 @@ La communication nerveuse repose sur des réseaux de cellules nerveuses ou neur
 
 - l’axone qui conduit le message nerveux du corps cellulaire jusqu'à la terminaison synaptique.
 
-<div class=center><a href="https://ipfs.io/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs"><img src="https://ipfs.io/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs" width=100%></a></div>
+<div align=center><a href="https://ipfs.io/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs"><img src="https://ipfs.io/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs" width=100%></a></div>
 
 Deux types de neurones interviennent successivement au cours du réflexe myotatique : les neurones afférents, ou sensitifs, et les neurones efférents ou neurones moteurs (aussi appelés moto-neurones).
 
@@ -40,17 +40,19 @@ Un neurone sensitif relie directement un fuseau neuro-musculaire à la moelle e
 
 Dans la moelle épinière, il existe une connexion entre le neurone sensitif et le neurone moteur : c’est ce que l’on appelle une synapse. Le réflexe myotatique est qualifié de mono-synaptique car il n’existe qu’une seule synapse neuro-neuronique sur le trajet suivi par le message.
 
-Le neurone moteur possède un corps cellulaire situé dans la partie antérieure de la substance grise de la moelle épinière. Son axone, très long, emprunte la racine ventrale du nerf rachidien et constitue une fibre nerveuse efférente conduisant le message nerveux moteur jusqu’aux fibres musculaires via une synapse neuro-musculaire. 
+Le neurone moteur possède un corps cellulaire situé dans la partie antérieure de la substance grise de la moelle épinière. Son axone, très long, emprunte la racine ventrale du nerf rachidien et constitue une fibre nerveuse efférente conduisant le message nerveux moteur jusqu’aux plaques motrices des fibres musculaires via une synapse neuro-musculaire. 
 
 
 ### III Nature et transmission du message nerveux.
+
+[Activité 2](https://github.com/YannBouyeron/SPET/blob/master/Système%20Nerveux/A2%20Messages%20nerveux.md)
 
 La différence de potentiel entre le cytoplasme et la face externe de la membrane plasmique du neurone définit le potentiel de membrane. En l’absence de stimulation, le potentiel de membrane vaut environ -70mV et constitue le potentiel de repos. 
 
 Lorsque le neurone est stimulé, le potentiel de membrane peut varier transitoirement. Cette variation est appelée potentiel d’action. Le potentiel d’action n’est observé que si l’intensité de la stimulation du neurone dépasse une valeur seuil. Au-delà de cette valeur, le potentiel d’action conserve toujours les mêmes caractéristiques (loi du tout ou rien).
 
 <p align=center><strong>Enregistrement de l’activité électrique d’un potentiel d’action.</strong></p>
-<div align=center><a href="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2"><img src="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2" title="PA"></a></div>
+<div align=center><a href="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2"><img src="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2" width=40% title="PA"></a></div>
 
 La stimulation d’un neurone au-delà de la valeur seuil induit l’émission d’une succession (ou train) de potentiels d’action dont la fréquence est proportionnelle à l’intensité de la stimulation. Ce train de potentiels d’action se propage le long de l’axone vers les terminaisons synaptiques. Il constitue le message nerveux. Celui-ci est donc codé électriquement en fréquence de potentiels d’action.
 
@@ -60,7 +62,7 @@ Dans la substance grise de la moelle épinière, les boutons synaptiques de l'ar
 
 L'arrivée d'un message nerveux (PA) dans le bouton synaptique du neurone pré-synaptique induit l'exocytose des vésicules de neurotransmetteurs et la libération des neurotransmetteurs dans la fente synaptique. 
 
-La fixation des neurotransmetteurs sur des récepteurs spécifiques implantés dans la membrane plasmique des dendrites du neurone post synaptique induit une modification du potentiel de membrane du neurone post synaptique qui peut entraîner la genèse d'un potentiel d'action post synaptique à condition que la dépolarisation dépasse la valeur seuil (loi du tout ou rien).
+La fixation des neurotransmetteurs sur des récepteurs spécifiques implantés dans la membrane plasmique des dendrites (ou du corps cellulaire) du neurone post synaptique induit une modification du potentiel de membrane du neurone post synaptique qui peut entraîner la genèse d'un potentiel d'action post synaptique à condition que la dépolarisation dépasse la valeur seuil (loi du tout ou rien).
 
 La quantité de neuromédiateurs libérés dans la fente synaptique est proportionnelle à l’intensité de la stimulation du neurone pré-synaptique. Au niveau d’une synapse neuro-neuronique, le message nerveux est donc codé chimiquement par la concentration du neuromédiateur.
 
@@ -83,8 +85,6 @@ La propagation du potentiel d’action musculaire le long des tubules en T de la
 ## Chapitre 2: Le cerveau: son rôle dans les mouvements volontaires et sa fragilité.
 
 Le réflexe myotatique est un exemple de commande involontaire des muscles. Mais, bien entendu, les muscles peuvent aussi être commandés par la volonté : dans ce cas, il y a intervention des structures cérébrales. Des accidents ou des anomalies affectant le système nerveux central peuvent ainsi se traduire par des dysfonctionnements musculaires.
-
-<p align=center><strong>Quelle est l’organisation motrice du cerveau ? Où se connectent les neurones moteurs issus du cerveau ?</strong></p>
 
 ### I Cerveau et mouvements volontaires.
 
@@ -126,11 +126,10 @@ Les cellules de Schwann (dans le système nerveux périphérique) et les oligode
 
 En cas d’atteinte de cette gaine de myéline, comme dans le cas de la sclérose en plaques, différents troubles apparaissent.
 
+
 ### IV Motricité et plasticité cérébrale.
 
 Les connexions qui s’établissent entre certains neurones du cortex cérébral d'un individu peuvent se modifier en fonction des expériences qu'il a vécues : c'est la plasticité cérébrale.
-
-<p align=center><strong>Comment la plasticité du cortex moteur est-elle mobilisée au cours de la vie d'un individu ?</strong></p>
 
 ##### Des variations individuelles.
 
@@ -146,3 +145,112 @@ La plasticité du cortex existe ou non tout au long de la vie de l'individu, ma
 
 
 [Diaporama Réflexes - Mouvements volontaires](https://ipfs.io/ipfs/QmVvidCbrvqK2azHSgW51VUK62N4BtBCd7LiyQUXpHee4g)
+
+## Chapitre 3: Le fonctionnement des cellules musculaires
+
+### I La contraction musculaire aux différentes échelles.
+
+Un muscle est un assemblage de fibres musculaires. Chaque fibre musculaire est une cellule géante (syncytium), de plusieurs centimètres de long. Chaque fibre musculaire renferme un grand nombre de myofibrilles chacune formées d'une succession de sarcomères. Chaque sarcomère est un assemblage de deux types de filaments de nature protéique: les filaments fins d'actine, et les filaments épais de myosine. Le raccourcissement coordonné des sarcomères induit la contraction des myofibrilles, et donc du muscle.
+
+<div align=center><a href="https://ipfs.io/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ"><img src="https://ipfs.io/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ" width=90% title="PA"></a></div>
+
+
+Lors de la contraction musculaire, les sarcomères raccourcissent; le raccourcissement [s'observe](https://ipfs.io/ipfs/QmWhaND8ingA5gatNQ75GGib6VpbVTvQ6TQ9cyaXseYHt5) uniquement au niveau des bandes claires (bandes I) et au niveau de la bande H. La bande sombre (bande A) conserve la même longueur.
+
+Le raccourcissement des sarcomères correspond à un coulissage relatif des filaments d'actine le long des filaments de myosine; chaque type de filament conserve la même longueur, mais le rapprochement relatif des filaments d'actine au niveau de la bande H induit un raccourcissement du sarcomère.
+
+<div align=center><a href="https://ipfs.io/ipfs/QmcWBee1woVp8zcfFo9h6ZHcCJHZ3MnMECijaGQ3NVMdQA"><img src="https://ipfs.io/ipfs/QmcWBee1woVp8zcfFo9h6ZHcCJHZ3MnMECijaGQ3NVMdQA" width=90% title="PA"></a></div>
+
+
+### II La contraction musculaire nécessite de l'ATP et du Ca<sup>2+</sup>
+
+Les filaments épais de myosine possèdent des extrémités globuleuses: les [têtes de myosine](https://ipfs.io/ipfs/QmXPWSGBq9b98xNyC1tPBkhCVSsJs5g9mr1ZpPSGgGVryV) qui peuvent se fixer ou se détacher des filaments fins d'actine. 
+
+Les cycles successifs d'attachement - détachement actine / myosine provoquent le glissement des filaments à l'origine du raccourcissement du sarcomère et de la myofibrille. Le raccourcissement coordonné des différentes myofibrilles et des différentes fibres musculaires permet la contraction du muscle et le mouvement.
+
+
+L'étude de la contraction des myofibrilles in vitro (Document 1 page 52) montre que la contraction n'est possible qu'en présence d'ATP qui est alors hydrolysé en ADP + Pi.
+
+Le raccourcissement des sarcomères nécessite de l'ATP:
+
+- La fixation d'une molécule d'ATP sur la tête de myosine induit la rupture du complexe myosine - actine.
+
+- L'hydrolyse de l’ATP en ADP et Pi induit un changement de conformation de la tête de myosine
+
+	- La présence de Ca<sup>2+</sup> permet la formation d'un complexe entre la tête de myosine et la molécule d'actine suivante.
+	- En l’absence de Ca<sup>2+</sup> la formation du complexe actine-myosine n’est pas possible, le cycle s’arrête et le muscle se décontracte.
+
+- La libération de l'ADP + Pi induit le pivotement de la tête de myosine ce qui entraîne le glissement du filament d'actine par rapport au filament de myosine vers le centre du sarcomère.
+
+<div align=center><a href="https://ipfs.io/ipfs/Qmai2CqzS2pEJevdgsa6jAea1MrB2J5gsVeedjnXBCKfz3"><img src="https://ipfs.io/ipfs/Qmai2CqzS2pEJevdgsa6jAea1MrB2J5gsVeedjnXBCKfz3" width=70% title="PA"></a></div>
+
+Le détachement induit par la fixation de l'ATP sur la tête de myosine est nécessaire à la poursuite du cycle et donc à la contraction musculaire; mais il est aussi nécessaire à la décontraction musculaire, ce qui explique la rigidité cadavérique (en l'absence d'ATP le muscle ne peut se contracter davantage, et il ne peut pas non plus se décontracter)
+
+
+Le sarcomère est donc l'unité contractile et structurale du muscle strié. Le glissement relatif des filaments protéiques d'actine et de myosine constitue le mécanisme moléculaire à la base de la contraction musculaire. Le mouvement des myofilaments est couplé à l'hydrolyse de l'ATP qui fournit ainsi l'énergie nécessaire au travail mécanique.
+
+
+
+### III L’origine de l’ATP dans la cellule musculaire.
+
+L’ATP est nécessaire à la contraction musculaire (et à l’ensemble des réactions métaboliques endergoniques). Les réserves d’ATP à un instant donné ne permettent que 2 secondes d’éfforts musculaires. On [observe](https://ipfs.io/ipfs/QmcExU9k6Bjy73Fn3Ri9RDtCKfLR8La49dcCkKUmwqiGhi) cependant que le stock d’ATP est constant dans les muscles contrairement au stock de glycogène (polymère de glucose) qui diminue après un effort, ce qui suggère que l’utilisation (oxydation) du glucose permettrait une production et donc un renouvellement constant de l’ATP.
+
+##### A: La glycolyse: oxydation incomplète du glucose dans le cytoplasme.
+
+La [glycolyse](https://ipfs.io/ipfs/QmTQta7PTrtbctYPjZGv62QLepjFxwmuvm2LjFGr2MbGHJ) est une oxydation incomplète du glucose en pyruvate. Elle a lieu dans le cytoplasme, et elle aboutit à la production de deux molécules de pyruvates à partir d’une molécule de glucose. 
+
+Cette réaction est une déshydrogénation et correspond à une oxydoréduction : le glucose est oxydé tandis qu’un coenzyme NAD<sup>+</sup> (proche des composés R impliqués dans la photosynthèse) est réduit en NADH + H<sup>+</sup>. Cette oxydoréduction libère de l’énergie permettant la synthèse d’ATP (phosphorylation de l’ADP) par couplage des réactions.
+
+- Oxydation du glucose: 1 Glucose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> → 2 Pyruvates CH<sub>3</sub> CO COOH + 4H<sup>+</sup> + 4 e<sup>-</sup> 
+- Réduction du coenzyme NAD<sup>+</sup>: 2 NAD<sup>+</sup> + 4 H<sup>+</sup> + 4 e<sup>-</sup> → 2 NADH + H<sup>+</sup>
+- Phosphorylation de l'ADP: 2 ADP + 2 Pi → 2 ATP
+
+<p align=center><strong>Bilan: 1 glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) + 2 NAD<sup>+</sup> + 2 ADP+ 2 Pi --> 2 pyruvates (CH<sub>3</sub> CO COOH ) + 2 NADH + H<sup>+</sup> + 2 ATP</strong></p>
+
+##### B: En aérobie, la respiration mitochondriale est une oxydation complète du glucose
+
+**Mise en évidence de la respiration mitochondriale:**
+
+Des mitochondries isolées ne consomment pas de O<sub>2</sub> lorsqu'elles sont placées dans un milieu contenant du glucose; en revanche elles consomment du O<sub>2</sub> si l'on ajoute du pyruvate dans le milieu. Les mitochondries ne peuvent pas utiliser directement le glucose pour respirer. Le glucose doit être préalablement dégradé dans le cytoplasme en pyruvate qui est ensuite utilisé par les mitochondries: c’est la respiration cellulaire. L’étape de dégradation du glucose en pyruvate est la glycolyse.
+
+**Structure des mitochondries:**
+
+La mitochondrie est un organite cellulaire clos de quelques micromètres de long sur 0,5 à 1 μm de diamètre. Les mitochondries sont limitées par une double membrane (enveloppe) qui délimite un espace interne: la matrice, isolée du cytoplasme. La membrane interne émet de nombreux replis transversaux dans la matrice, appelés crêtes mitochondriales.
+
+
+<div align=center><a href="https://ipfs.io/ipfs/Qma6QaDajJMsZEJyjHBZTSogKJCVbwrDCBMARK5UN78qGg"><img src="https://ipfs.io/ipfs/Qma6QaDajJMsZEJyjHBZTSogKJCVbwrDCBMARK5UN78qGg" width=70% title="PA"></a></div>
+
+
+**Le cycle de [Krebs](https://ipfs.io/ipfs/QmQKR8w9X3qSAA51pybrk4Azj6FBPnVuX8jEnruKAAmytD): oxydation complète du pyruvate dans la matrice des mitochondries:**
+
+Grâce aux enzymes de la matrice, le pyruvate est totalement oxydé : du dioxyde de carbone est libéré et des composés NAD<sup>+</sup> sont réduits en NADH + H<sup>+</sup>. Cette oxydoréduction libère de l’énergie permettant la synthèse d’ATP (phosphorylation de l’ADP) par couplage des réactions.
+
+- Oxydation du pyruvate: 2 pyruvates (CH<sub>3</sub> CO COOH ) + 6 H<sub>2</sub>0 --> 6 CO<sub>2</sub> + 20 H<sup>+</sup> + 20 e<sup>-</sup> 
+- Réduction du coenzyme NAD<sup>+</sup>: 10 NAD<sup>+</sup> + 20 H<sup>+</sup> + 20 e<sup>-</sup> → 10 NADH + H<sup>+</sup>
+- Phosphorylation de l'ADP: 2 ADP + 2 Pi → 2 ATP
+
+<p align=center><strong>Bilan: 2 CH<sub>3</sub> CO COOH + 6 H<sub>2</sub>0 + 10 NAD<sup>+</sup> + 2 ADP + 2 Pi --> 6 CO<sub>2</sub> + 10 NADH + H<sup>+</sup> + 2 ATP</strong></p>
+
+
+**La ré oxydation des composés NADH + H<sup>+</sup> dans la membrane interne mitochondriale:**
+
+Les coenzymes réduits NADH + H<sup>+</sup> formés au cours des étapes précédentes sont oxydés grâce à des molécules spécialisées de la membrane interne mitochondriale formant une chaîne respiratoire : il s’agit de transporteurs d’électrons qui assurent une série d’oxydoréductions à partir des composés réduits NADH + H<sup>+</sup>, l’accepteur final étant le dioxygène. Il y' a régénération des coenzymes oxydés NAD<sup>+</sup> utilisés lors des étapes précédentes.
+
+L’énergie libérée au cours de ces réactions d’oxydoréduction sert à la synthèse d’ATP à partir d’ADP et Pi : il y a couplage énergétique. Ceci est possible car coexistent au sein de la membrane interne des mitochondries des enzymes catalysant les réactions d’oxydoréduction et des ATP synthases.
+
+- Oxydation des coenzymes réduits NADH + H<sup>+</sup>: 12 NADH + H<sup>+</sup> --> 12 NAD<sup>+</sup> + 24 H<sup>+</sup> + 24 e<sup>-</sup>
+- Réduction du di-oxygène: 6 O<sub>2</sub> + 24 H<sup>+</sup> + 24 e<sup>-</sup> --> 12 H<sub>2</sub>0
+- Phosphorylation de l'ADP: 32 ADP + 32 Pi --> 32 ATP Bilan: 12 NADH + H<sup>+</sup> + 6 O<sub>2</sub> + 32 ADP + 32 Pi --> 12 NAD<sup>+</sup> + 12 H<sub>2</sub>0 + 32 ATP
+
+<p align=center><strong>Bilan: 12 NADH + H<sup>+</sup> + 6 O<sub>2</sub> + 32 ADP + 32 Pi --> 12 NAD<sup>+</sup> + 12 H<sub>2</sub>O + 32 ATP</strong></p>
+
+**[Bilan](https://ipfs.io/ipfs/Qmah81kwW7dNhpK2FsQwjzcNSvfBLuwjHqWjmbBj4mkGQT) de la dégradation du glucose par respiration:**
+
+<div align=center><a href="https://ipfs.io/ipfs/QmbU5y1hMWiMWRiLeLsW9fAYpKxmkWAxZh2vPUCbo7HoX2"><img src="https://ipfs.io/ipfs/QmbU5y1hMWiMWRiLeLsW9fAYpKxmkWAxZh2vPUCbo7HoX2" width=70% title="PA"></a></div>
+
+<p></br></p>
+
+<p align=center><strong>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O + 36 ADP + 36 Pi --> 6 CO<sub>2</sub> + 12 H<sub>2</sub>O + 36 ATP</strong></p>
+
+
+Rendement énergétique: L'oxydation complète d'une molécule de glucose libère 2840 kj/mol. La respiration produit 36 molécules d'ATP renfermant chacune 30 kj/mol soit 1080 kj/mol de glucose. Le rendement est donc de 1080/2840 , soit 40 %
