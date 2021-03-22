@@ -169,9 +169,9 @@ Les filaments épais de myosine possèdent des extrémités globuleuses: les
 Les cycles successifs d'attachement - détachement actine / myosine provoquent le glissement des filaments à l'origine du raccourcissement du sarcomère et de la myofibrille. Le raccourcissement coordonné des différentes myofibrilles et des différentes fibres musculaires permet la contraction du muscle et le mouvement.
 
 
-L'étude de la contraction des myofibrilles in vitro (Document 1 page 52) montre que la contraction n'est possible qu'en présence d'ATP qui est alors hydrolysé en ADP + Pi.
+L'étude de la contraction des myofibrilles in vitro montre que la contraction n'est possible qu'en présence d'ATP qui est alors hydrolysé en ADP + Pi.
 
-Le raccourcissement des sarcomères nécessite de l'ATP:
+Le raccourcissement des sarcomères nécessite de l'ATP et du Ca<sup>2+</sup>:
 
 - La fixation d'une molécule d'ATP sur la tête de myosine induit la rupture du complexe myosine - actine.
 
