@@ -240,7 +240,7 @@ L’énergie libérée au cours de ces réactions d’oxydoréduction sert 
 
 - Oxydation des coenzymes réduits NADH + H<sup>+</sup>: 12 NADH + H<sup>+</sup> --> 12 NAD<sup>+</sup> + 24 H<sup>+</sup> + 24 e<sup>-</sup>
 - Réduction du di-oxygène: 6 O<sub>2</sub> + 24 H<sup>+</sup> + 24 e<sup>-</sup> --> 12 H<sub>2</sub>0
-- Phosphorylation de l'ADP: 32 ADP + 32 Pi --> 32 ATP Bilan: 12 NADH + H<sup>+</sup> + 6 O<sub>2</sub> + 32 ADP + 32 Pi --> 12 NAD<sup>+</sup> + 12 H<sub>2</sub>0 + 32 ATP
+- Phosphorylation de l'ADP: 32 ADP + 32 Pi --> 32 ATP
 
 <p align=center><strong>Bilan: 12 NADH + H<sup>+</sup> + 6 O<sub>2</sub> + 32 ADP + 32 Pi --> 12 NAD<sup>+</sup> + 12 H<sub>2</sub>O + 32 ATP</strong></p>
 
