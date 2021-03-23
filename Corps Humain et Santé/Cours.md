@@ -12,11 +12,11 @@ Le circuit nerveux du réflexe myotatique fait intervenir successivement :
 
 - des récepteurs sensoriels (les fuseaux neuromusculaires), situés dans le muscle, qui émettent un message nerveux lorsqu'ils sont stimulés par l'étirement provoqué par le choc;
 
-- des fibres nerveuses sensitives (situées dans un nerf rachidien) qui conduisent le message nerveux afférent (sensitif) vers les centres nerveux ;
+- des fibres nerveuses sensitives (situées dans un nerf rachidien) qui conduisent le message nerveux afférent (sensitif) vers les centres nerveux
 
-- un centre nerveux intégrateur (la moelle épinière) qui traite les informations sensorielles reçues et élabore le message nerveux moteur ;
+- un centre nerveux intégrateur (la moelle épinière) qui traite les informations sensorielles reçues et élabore le message nerveux moteur 
 
-- des fibres nerveuses motrices (situées elles aussi dans le nerf rachidien) qui conduisent le message efférent (moteur);
+- des fibres nerveuses motrices (situées elles aussi dans le nerf rachidien) qui conduisent le message efférent (moteur)
 
 - un organe effecteur, le muscle, dont les plaques motrices reçoivent le message nerveux moteur et, en se contractant, produisent la réponse réflexe.
 
@@ -169,9 +169,9 @@ Les filaments épais de myosine possèdent des extrémités globuleuses: les
 Les cycles successifs d'attachement - détachement actine / myosine provoquent le glissement des filaments à l'origine du raccourcissement du sarcomère et de la myofibrille. Le raccourcissement coordonné des différentes myofibrilles et des différentes fibres musculaires permet la contraction du muscle et le mouvement.
 
 
-L'étude de la contraction des myofibrilles in vitro montre que la contraction n'est possible qu'en présence d'ATP qui est alors hydrolysé en ADP + Pi.
+L'étude de la contraction des myofibrilles in vitro montre que la contraction n'est possible qu'en présence de Ca<sup>2+</sup> et d'ATP qui est alors hydrolysé en ADP + Pi.
 
-Le raccourcissement des sarcomères nécessite de l'ATP et du Ca<sup>2+</sup>:
+Le raccourcissement des sarcomères nécessite donc de l'ATP et du Ca<sup>2+</sup>:
 
 - La fixation d'une molécule d'ATP sur la tête de myosine induit la rupture du complexe myosine - actine.
 
@@ -236,7 +236,7 @@ Grâce aux enzymes de la matrice, le pyruvate est totalement oxydé : du dioxy
 
 Les coenzymes réduits NADH + H<sup>+</sup> formés au cours des étapes précédentes sont oxydés grâce à des molécules spécialisées de la membrane interne mitochondriale formant une chaîne respiratoire : il s’agit de transporteurs d’électrons qui assurent une série d’oxydoréductions à partir des composés réduits NADH + H<sup>+</sup>, l’accepteur final étant le dioxygène. Il y' a régénération des coenzymes oxydés NAD<sup>+</sup> utilisés lors des étapes précédentes.
 
-L’énergie libérée au cours de ces réactions d’oxydoréduction sert à la synthèse d’ATP à partir d’ADP et Pi : il y a couplage énergétique. Ceci est possible car coexistent au sein de la membrane interne des mitochondries des enzymes catalysant les réactions d’oxydoréduction et des ATP synthases.
+L’énergie libérée au cours de ces réactions d’oxydoréduction sert à la synthèse d’ATP à partir d’ADP et Pi : il y a couplage énergétique. Ceci est possible car coexistent au sein de la membrane interne des mitochondries des enzymes catalysant les réactions d’oxydoréductions et des ATP synthases.
 
 - Oxydation des coenzymes réduits NADH + H<sup>+</sup>: 12 NADH + H<sup>+</sup> --> 12 NAD<sup>+</sup> + 24 H<sup>+</sup> + 24 e<sup>-</sup>
 - Réduction du di-oxygène: 6 O<sub>2</sub> + 24 H<sup>+</sup> + 24 e<sup>-</sup> --> 12 H<sub>2</sub>0
