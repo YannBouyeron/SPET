@@ -5,7 +5,7 @@ Au cours de la digestion, les enzymes digestives hydrolysent les glucides comple
 Ainsi, l'alimentation permet l'approvisionnement de l'organisme en glucose de façon discontinue, alors que les cellules de l'organisme utilisent en permanence le glucose sanguin mais en quantité variable selon leurs besoins.
 
 
-<p class=center><strong>Comment un organisme en bonne santé assure-t-il un apport continu en glucose à ses cellules ?</strong></p>
+<p align=center><strong>Comment un organisme en bonne santé assure-t-il un apport continu en glucose à ses cellules ?</strong></p>
 
 L'homéostasie désigne le maintien des conditions du milieu interne constantes malgré l'influence de facteurs externes qui tendent à les modifier.
 
@@ -25,13 +25,15 @@ L' activité physique nécessite une production d'énergie par les muscles et
 
 ### Mise en évidence des organes de stockage du glucose et de la forme de stockage du glucose.
 
-On émet l'hypothèse selon laquelle le foie et les muscle seraient capables de stocker du glucose.
+On cherche à tester l'hypothèse selon laquelle le foie et les muscles seraient capables de stocker du glucose.
 
 [L’expérience](https://ipfs.io/ipfs/QmTdxhk6strFbDgmo1b7fnnJA9jS6CDU7LU4eMViBBLXAC) montre que le test a l'eau iodée réalisé sur le filtrat de foie présente la même coloration marron que le témoin 3 (eau iodé plus glycogène), le glycogène est un polymère de glucose; on en déduit que le foie stocke du glucose sous forme de glycogène.
 
 Un test à l'eau iodée réalisé sur le filtrat de muscle présente la même coloration marron caractéristique de la présence de glycogène; on en déduit que le muscle stocke du glucose sous forme de glycogène.
 
 ### Mise en évidence de la capacité à re-libérer le glucose stocké.
+
+On cherche à tester l'hypothèse selon laquelle le foie et les muscles seraient capables de re-libérer le glucose sotcké.
 
 Des petits morceaux de foie ou de muscles sont lavés plusieurs fois pour éliminer le glucose sanguin, les morceaux sont ensuite laissés immergés dans l'eau distillée pendant 20 minutes. Un test de détection du glucose est réalisé.
 
