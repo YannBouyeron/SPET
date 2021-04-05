@@ -282,7 +282,7 @@ Rendement énergétique: L'oxydation complète d'une molécule de glucose li
 
 ##### D: Les différentes voies métaboliques dans les cellules musculaires en fonction du type d’effort.
 
-Le cytoplasme des cellules musculaire contient des réserves de glycogène (polymère de glucose) et selon les fibres (=cellules musculaires), plus ou moins de mitochondries:
+Le cytoplasme des cellules musculaires contient des réserves de glycogène (polymère de glucose) et selon les fibres (=cellules musculaires), plus ou moins de mitochondries:
 
 - Les fibres de types I, riches en mitochondries, utilisent principalement la voie respiratoire ce qui leur permet de se contracter longtemps mais lentement (temps d'adaptation). 
 
