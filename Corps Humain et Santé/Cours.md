@@ -199,15 +199,15 @@ L’ATP est nécessaire à la contraction musculaire (et à l’ensemble des ré
 
 La [glycolyse](https://ipfs.io/ipfs/QmTQta7PTrtbctYPjZGv62QLepjFxwmuvm2LjFGr2MbGHJ) est une oxydation incomplète du glucose en pyruvate. Elle a lieu dans le cytoplasme, et elle aboutit à la production de deux molécules de pyruvates à partir d’une molécule de glucose. 
 
-Cette réaction est une déshydrogénation et correspond à une oxydoréduction : le glucose est oxydé tandis qu’un coenzyme NAD<sup>+</sup> (proche des composés R impliqués dans la photosynthèse) est réduit en NADH + H<sup>+</sup>. Cette oxydoréduction libère de l’énergie permettant la synthèse d’ATP (phosphorylation de l’ADP) par couplage des réactions.
+Cette réaction est une déshydrogénation et correspond à une oxydoréduction : le glucose est oxydé tandis qu’un coenzyme NAD<sup>+</sup> (proche des composés R impliqués dans la photosynthèse) est réduit en (NADH + H<sup>+</sup>). Cette oxydoréduction libère de l’énergie permettant la synthèse d’ATP (phosphorylation de l’ADP) par couplage des réactions.
 
 - Oxydation du glucose: 1 Glucose C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> → 2 Pyruvates CH<sub>3</sub> CO COOH + 4H<sup>+</sup> + 4 e<sup>-</sup> 
-- Réduction du coenzyme NAD<sup>+</sup>: 2 NAD<sup>+</sup> + 4 H<sup>+</sup> + 4 e<sup>-</sup> → 2 NADH + H<sup>+</sup>
+- Réduction du coenzyme NAD<sup>+</sup>: 2 NAD<sup>+</sup> + 4 H<sup>+</sup> + 4 e<sup>-</sup> → 2 (NADH + H<sup>+</sup>)
 - Phosphorylation de l'ADP: 2 ADP + 2 Pi → 2 ATP
 
-<p align=center><strong>Bilan: 1 glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) + 2 NAD<sup>+</sup> + 2 ADP+ 2 Pi --> 2 pyruvates (CH<sub>3</sub> CO COOH ) + 2 NADH + H<sup>+</sup> + 2 ATP</strong></p>
+<p align=center><strong>Bilan: 1 glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) + 2 NAD<sup>+</sup> + 2 ADP+ 2 Pi --> 2 pyruvates (CH<sub>3</sub> CO COOH ) + 2 (NADH + H<sup>+</sup>) + 2 ATP</strong></p>
 
-##### B: En aérobie, la respiration mitochondriale est une oxydation complète du glucose
+##### B: En aérobie, la respiration mitochondriale est une oxydation complète du glucose.
 
 **Mise en évidence de la respiration mitochondriale:**
 
@@ -223,26 +223,26 @@ La mitochondrie est un organite cellulaire clos de quelques micromètres de lon
 
 **Le cycle de [Krebs](https://ipfs.io/ipfs/QmQKR8w9X3qSAA51pybrk4Azj6FBPnVuX8jEnruKAAmytD): oxydation complète du pyruvate dans la matrice des mitochondries:**
 
-Grâce aux enzymes de la matrice, le pyruvate est totalement oxydé : du dioxyde de carbone est libéré et des composés NAD<sup>+</sup> sont réduits en NADH + H<sup>+</sup>. Cette oxydoréduction libère de l’énergie permettant la synthèse d’ATP (phosphorylation de l’ADP) par couplage des réactions.
+Grâce aux enzymes de la matrice, le pyruvate est totalement oxydé : du dioxyde de carbone est libéré et des composés NAD<sup>+</sup> sont réduits en (NADH + H<sup>+</sup>). Cette oxydoréduction libère de l’énergie permettant la synthèse d’ATP (phosphorylation de l’ADP) par couplage des réactions.
 
 - Oxydation du pyruvate: 2 pyruvates (CH<sub>3</sub> CO COOH ) + 6 H<sub>2</sub>0 --> 6 CO<sub>2</sub> + 20 H<sup>+</sup> + 20 e<sup>-</sup> 
-- Réduction du coenzyme NAD<sup>+</sup>: 10 NAD<sup>+</sup> + 20 H<sup>+</sup> + 20 e<sup>-</sup> → 10 NADH + H<sup>+</sup>
+- Réduction du coenzyme NAD<sup>+</sup>: 10 NAD<sup>+</sup> + 20 H<sup>+</sup> + 20 e<sup>-</sup> → 10 (NADH + H<sup>+</sup>)
 - Phosphorylation de l'ADP: 2 ADP + 2 Pi → 2 ATP
 
-<p align=center><strong>Bilan: 2 CH<sub>3</sub> CO COOH + 6 H<sub>2</sub>0 + 10 NAD<sup>+</sup> + 2 ADP + 2 Pi --> 6 CO<sub>2</sub> + 10 NADH + H<sup>+</sup> + 2 ATP</strong></p>
+<p align=center><strong>Bilan: 2 CH<sub>3</sub> CO COOH + 6 H<sub>2</sub>0 + 10 NAD<sup>+</sup> + 2 ADP + 2 Pi --> 6 CO<sub>2</sub> + 10 (NADH + H<sup>+</sup>) + 2 ATP</strong></p>
 
 
-**La ré oxydation des composés NADH + H<sup>+</sup> dans la membrane interne mitochondriale:**
+**La ré oxydation des composés (NADH + H<sup>+</sup>) dans la membrane interne mitochondriale:**
 
-Les coenzymes réduits NADH + H<sup>+</sup> formés au cours des étapes précédentes sont oxydés grâce à des molécules spécialisées de la membrane interne mitochondriale formant une chaîne respiratoire : il s’agit de transporteurs d’électrons qui assurent une série d’oxydoréductions à partir des composés réduits NADH + H<sup>+</sup>, l’accepteur final étant le dioxygène. Il y' a régénération des coenzymes oxydés NAD<sup>+</sup> utilisés lors des étapes précédentes.
+Les coenzymes réduits (NADH + H<sup>+</sup>) formés au cours des étapes précédentes sont oxydés grâce à des molécules spécialisées de la membrane interne mitochondriale formant une chaîne respiratoire : il s’agit de transporteurs d’électrons qui assurent une série d’oxydoréductions à partir des composés réduits (NADH + H<sup>+</sup>), l’accepteur final étant le dioxygène. Il y' a régénération des coenzymes oxydés NAD<sup>+</sup> utilisés lors des étapes précédentes.
 
 L’énergie libérée au cours de ces réactions d’oxydoréduction sert à la synthèse d’ATP à partir d’ADP et Pi : il y a couplage énergétique. Ceci est possible car coexistent au sein de la membrane interne des mitochondries des enzymes catalysant les réactions d’oxydoréductions et des ATP synthases.
 
-- Oxydation des coenzymes réduits NADH + H<sup>+</sup>: 12 NADH + H<sup>+</sup> --> 12 NAD<sup>+</sup> + 24 H<sup>+</sup> + 24 e<sup>-</sup>
+- Oxydation des coenzymes réduits (NADH + H<sup>+</sup>): 12 (NADH + H<sup>+</sup>) --> 12 NAD<sup>+</sup> + 24 H<sup>+</sup> + 24 e<sup>-</sup>
 - Réduction du di-oxygène: 6 O<sub>2</sub> + 24 H<sup>+</sup> + 24 e<sup>-</sup> --> 12 H<sub>2</sub>0
 - Phosphorylation de l'ADP: 32 ADP + 32 Pi --> 32 ATP
 
-<p align=center><strong>Bilan: 12 NADH + H<sup>+</sup> + 6 O<sub>2</sub> + 32 ADP + 32 Pi --> 12 NAD<sup>+</sup> + 12 H<sub>2</sub>O + 32 ATP</strong></p>
+<p align=center><strong>Bilan: 12 (NADH + H<sup>+</sup>) + 6 O<sub>2</sub> + 32 ADP + 32 Pi --> 12 NAD<sup>+</sup> + 12 H<sub>2</sub>O + 32 ATP</strong></p>
 
 **[Bilan](https://ipfs.io/ipfs/Qmah81kwW7dNhpK2FsQwjzcNSvfBLuwjHqWjmbBj4mkGQT) de la dégradation du glucose par respiration:**
 
@@ -254,3 +254,45 @@ L’énergie libérée au cours de ces réactions d’oxydoréduction sert 
 
 
 Rendement énergétique: L'oxydation complète d'une molécule de glucose libère 2840 kj/mol. La respiration produit 36 molécules d'ATP renfermant chacune 30 kj/mol soit 1080 kj/mol de glucose. Le rendement est donc de 1080/2840 , soit 40 %
+
+##### C: En anaérobie, la fermentation lactique est une oxydation incomplète du glucose.
+
+La dégradation du glucose lors de la respiration cellulaire, qui permet la production de 36 molécules d’ATP par molécule de glucose oxydée, nécessite du dioxygène. Cependant, les cellules musculaires (de même que certains champignons et bactéries) peuvent utiliser la voie de la fermentation lactique en anaérobiose. 
+
+La dégradation d‘une molécule de glucose par fermentation débute également par la glycolyse qui aboutit à la production de deux molécules de pyruvates, deux molécules de coenzymes réduits (NADH + H<sup>+</sup>) et la synthèse de deux molécules d’ATP:
+
+<p align=center>1 glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) + 2 NAD<sup>+</sup> + 2 ADP+ 2 Pi --> 2 pyruvates (CH<sub>3</sub> CO COOH ) + 2 (NADH + H<sup>+</sup>) + 2 ATP</p>
+
+En l'absence de dioxygène, le pyruvate est partiellement décarboxylé par fermentation lactique dans le cytoplasme:
+
+- Oxydation des composés réduits (NADH + H<sup>+</sup>) : 2 (NADH + H<sup>+</sup>) --> 2 NAD<sup>+</sup> + 4 H<sup>+</sup> + 4 e<sup>-</sup>
+
+- Réduction du pyruvate: 2 pyruvates (CH<sub>3</sub> CO COOH) + 4 H<sup>+</sup> + 4 e<sup>-</sup> --> 2 acides lactiques (CH<sub>3</sub> CHOH COOH) 
+
+<p align=center><strong>Bilan : 2 pyruvates (CH<sub>3</sub> CO COOH) + 2 (NADH + H<sup>+</sup>) --> 2 acides lactiques (CH<sub>3</sub> CHOH COOH) + 2  NAD<sup>+</sup></strong></p>
+
+
+
+>Il existe un autre type de fermentation: la [fermentation éthylique](https://ipfs.io/ipfs/QmT26qn51Pzg4X6FQBA9UBisaKTWyg8N6BHujk4RaHqvWF) (non réalisée par les cellules musculaires)
+
+La fermentation ne produit pas d'ATP supplémentaires mais permet de régénérer des coenzymes NAD<sup>+</sup> oxydés indispensables à la continuité de la glycolyse qui constitue alors la seule source d'ATP pour les cellules musculaires en anaérobie.
+
+Rendement énergétique: L'oxydation complète d'une molécule de glucose libère 2840 kj/mol. La fermentation produit 2 molécules d'ATP (lors de la glycolyse) renfermant chacune 30 kj/mol soit 60 kj/mol de glucose. Le rendement est donc de 60/2840 , soit 2 %.
+
+
+##### D: Les différentes voies métaboliques dans les cellules musculaires en fonction du type d’effort.
+
+Le cytoplasme des cellules musculaire contient des réserves de glycogène (polymère de glucose) et selon les fibres (=cellules musculaires), plus ou moins de mitochondries:
+
+- Les fibres de types I, riches en mitochondries, utilisent principalement la voie respiratoire ce qui leur permet de se contracter longtemps mais lentement (temps d'adaptation). 
+
+- Les fibres de type II pauvres en mitochondries, utilisent principalement la voie de la fermentation lactique ce qui leur permet de se contracter rapidement mais peu longtemps. Un muscle squelettique est un assemblage de fibres de types I et II.
+
+Lors d’un effort intense de courte durée, le système cardio-respiratoire n’a pas le temps d’adapter son fonctionnement pour apporter suffisamment de dioxygène aux muscles en activité; la voie de la fermentation lactique est alors la seule voie de régénération de l’ATP. Les réserves de glycogène musculaires fournissent le glucose nécessaire. Ce mécanisme consomme cependant beaucoup de réserves glucidiques pour une faible production d'ATP (2 ATP par mole de glucose), et produit de l'acide lactique qui abaisse le pH musculaire (ce qui provoque fatigue, points de côtés..)
+
+Lors d’un effort plus long, la voie de la fermentation lactique sera d’abord requise le temps que le système cardio-respiratoire s’adapte. La voie de la respiration sera ensuite utilisée pour permettre une production durable d’ATP avec un rendement élévé.
+
+
+
+
+
