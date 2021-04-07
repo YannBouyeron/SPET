@@ -44,7 +44,7 @@ La plupart des venins de serpents tels que la fasciculine et l’α-bungarotoxin
 
 ### Le fonctionnement des synapses neuro-musculaires.
 
-L’arrivé d’un message nerveux moteur au niveau des boutons synaptiques de la terminaison synaptique d’un motoneurone induit l’exocytose des vésicules presynaptiques qui déversent leurs neurotransmetteurs (l’acétylcholine) dans la fente synaptique des synapses neuro-musculaires au niveau des plaques motrices. 
+L’arrivée d’un message nerveux moteur au niveau des boutons synaptiques de la terminaison synaptique d’un motoneurone induit l’exocytose des vésicules presynaptiques qui déversent leurs neurotransmetteurs (l’acétylcholine) dans la fente synaptique des synapses neuro-musculaires au niveau des plaques motrices. 
 
 La fixation de l’acétylcholine sur ses récepteurs musculaires au niveau des synapses neuro-musculaires induit une entrée de cations (ions positifs) dans la cellule musculaire , ce qui entraîne la dépolarisation et la genèse d’un PA musculaire à l’origine de la contraction musculaire.
 
