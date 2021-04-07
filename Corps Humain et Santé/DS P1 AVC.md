@@ -50,3 +50,11 @@ Un accident vasculaire cérébral (AVC) est un trouble de la circulation sangu
 Ainsi, si les aires motrices situées dans l’hémisphère gauche sont affectées par un AVC, l’individu présentera une hémiplégie droite.
 
 Cependant, l’AVC affectant uniquement le cerveau , et non pas la moelle épinière, les réflexes myotatiques dont le centre intégrateur est la moelle épinière ne seront donc pas affectés, et l’individu conservera une activté réflexe normale.
+
+
+<p></br></p>
+
+<p align=center><strong>Barème.</strong></p>
+
+<div align=center><a href="https://ipfs.io/ipfs/QmZrbQWmx6BcpsFnEYb4LPuEG6ER8gcsrV6yoJeX4mQwex"><img src="https://ipfs.io/ipfs/QmZrbQWmx6BcpsFnEYb4LPuEG6ER8gcsrV6yoJeX4mQwex" width=100%></a></div>
+
