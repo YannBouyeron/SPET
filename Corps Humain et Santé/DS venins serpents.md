@@ -39,7 +39,7 @@ La plupart des venins de serpents tels que la fasciculine et l’α-bungarotoxin
 
 <p align=center><strong>Comment expliquer l’effet paralysant de la fasciculine et de l’α-bungarotoxine ?</strong></p>
 
-*<p class=center>Hypothèse : Ces venins perturberaient le fonctionnement des synapses neuro-musculaires. </p>*
+<p align=center><em>Hypothèse : Ces venins perturberaient le fonctionnement des synapses neuro-musculaires.</em></p>
 
 
 ### Le fonctionnement des synapses neuro-musculaires.
