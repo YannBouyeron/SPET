@@ -19,9 +19,9 @@ Un patient a subi un Accident Vasculaire Cérébral (= AVC) ayant entrainé une 
 
 #### La commande corticale de la motricité volontaire.
 
-La motricité volontaire est une réponse à des stimuli très divers (visuels, tactiles, olfactifs, nociceptifs..). Le cerveau est le centre intégrateur de la motricité volontaire. L’intégration, par le cerveau, des différents messages nerveux sensitifs issus des différents récepteurs sensoriels conduit à la stimulation des aires pré-motrices puis de l’aire motrice primaire constituant le cortex moteur.
+Le cerveau est le centre intégrateur de la motricité volontaire. L’intégration, par les aires pré-motrice (impliquées dans la planification des mouvements volontaires), des différents messages nerveux issus d’autres aires corticales et issus des différents récepteurs sensoriels (visuels, tactiles, olfactifs, nociceptifs..) conduit à la stimulation de l’aire motrice primaire (cortex moteur).
 
-Les messages nerveux moteurs émis par le cortex moteur cheminent par des faisceaux de neurones pyramidaux et descendent dans la moelle épinière. À différents niveaux, ces neurones sont en connexion avec les moto-neurones. Ces voies motrices sont croisées, de telle sorte que la commande des mouvements volontaires et contra-latérale : c’est l’aire motrice corticale de l’hémisphère cérébral droit qui commande la partie gauche du corps, et inversement.
+Les messages nerveux moteurs alors émis par le cortex moteur cheminent par des faisceaux de neurones pyramidaux et descendent dans la moelle épinière. À différents niveaux, ces neurones sont en connexion (synapse neuro-neuronique) avec les moto-neurones qui innervent les plaques motrices des différents muscles. Ces voies motrices sont croisées, de telle sorte que la commande des mouvements volontaires et contra-latérale : c’est l’aire motrice corticale de l’hémisphère cérébral droit qui commande la partie gauche du corps, et inversement.
 
 #### La commande médullaire de la motricité réflexe (involontaire).
 
