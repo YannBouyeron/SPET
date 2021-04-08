@@ -60,7 +60,7 @@ En présence de fasciculine le site actif de l’acétylcholinestérase étant o
 
 ### Le mode d’action de l’α-bungarotoxine.
 
-L’α-bungarotoxine est une molécule présente dans le venin de serpent Bongare. On observe que plus la concentration en α-bungarotoxine est forte dans la fente synaptique des synapses neuro-musculaires plus l’intensité du courant entrant (induit par l’acétylcholine) dans les cellules est faible. On en déduit que l’α-bungarotoxine inhibe le courant entrant stimulé par l’acétylcholine.
+L’α-bungarotoxine est une molécule présente dans le venin de serpent Bongare. On observe que plus la concentration en α-bungarotoxine est forte dans la fente synaptique des synapses neuro-musculaires plus l’intensité du courant entrant de cations (induit par l’acétylcholine) dans les cellules est faible. On en déduit que l’α-bungarotoxine inhibe le courant entrant de cations induit par l’acétylcholine.
 
 Les modèles moléculaires montrent que l’α-bungarotoxine est un analogue structural de l’acétylcholine, capable d’interagir avec les récepteurs musculaires de l’acétylcholine au niveau des synapses neuro-musculaires. 
 
