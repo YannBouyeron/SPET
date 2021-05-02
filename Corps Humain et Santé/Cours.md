@@ -295,4 +295,90 @@ Lors d’un effort plus long, la voie de la fermentation lactique sera d’abord
 
 
 
+## Chapitre 4: Le contrôle des flux de glucose.
+
+Le glucose est un nutriment distribué aux cellules de l’organisme par le sang et la lymphe (milieu intérieur). C’est la principale source d’énergie des cellules. La glycémie est la concentration du glucose dans le sang.
+
+Comment évolue la glycémie en fonction du temps, des apports, de l’activité de l’individu ?
+Quels sont les mécanismes à l’origine de la régulation de la glycémie ?
+
+### I: Existence et importance d'une régulation de la glycémie 
+
+La présence constante de glucose dans le sang est indispensable au bon fonctionnement de l’organisme car les cellules utilisent en permanence cette molécule énergétique. Le glucose constitue même la seule source d’énergie pour les neurones dits gluco-dépendants.
+
+##### 1: Variation de la glycémie chez une personne en bonne santé  
+
+Malgré des apports en glucose intermittents et une utilisation cellulaire permanente, mais variable, la glycémie oscille autour d’une valeur moyenne de 1 g de glucose par L de sang. En effet, on constate qu’après un repas, la glycémie s’accroît temporairement, puis retrouve sa valeur de consigne. 
+
+Inversement, un jeûne de quelques heures, voir de quelques jours, ne diminue pas sensiblement la glycémie, malgré l’utilisation permanente des  cellules. Un exercice physique, qui mobilise de grande quantité d’énergie n’entraîne pas la baisse de la glycémie. Cela implique l’existence de mécanismes qui s’opposent à une variation de la glycémie: il existe un système de régulation de la glycémie ou homéostat glycémique.
+
+L'homéostasie désigne le maintien des conditions du milieu interne constantes malgré l'influence de facteurs externes qui tendent à les modifier.
+
+##### 2: Les anomalies de la glycémie et conséquences  
+
+L’homéostat glycémique est indispensable au bon fonctionnement de l’organisme. En cas d’anomalie de la glycémie, des troubles sérieux surviennent. L’hypoglycémie ( < 0,7 g/L) se manifeste par un mauvais fonctionnement du système nerveux et s’explique par le déficit dans l’apport de glucose aux neurones glucodépendants. Une glycémie inférieure à 0,5 g/ l peut entraîner un coma mortel. L’hyperglycémie chronique ( > 1,2 g/L) entraîne des complications vasculaires graves à long terme.
+
+
+### II: Stockage et libération du glucose dans l'organisme
+
+Le système de régulation de la glycémie suppose une gestion des réserves du glucose de l’organisme
+
+##### 1: Devenir du glucose après un repas  
+
+Une partie du glucose sanguin pénètre en permanence dans les cellules où il est consommé comme source d’énergie. Lorsque, après un repas, l’apport en glucose est plus important que son utilisation par les cellules, l’excès de glucose est stocké ce qui permet à la glycémie de retrouver rapidement sa valeur de consigne. Le stockage s’effectue sous forme de lipides (triglycérides) dans le tissu adipeux sous-cutané, ou sous forme de glycogène dans les fibres musculaires des muscles squelettiques et dans les cellules du foie: c’est la glycogénogenèse.
+
+Quelques heures après un repas, le glucose d’origine alimentaire est donc distribué de façon inégale entre les différents organes du corps: il se retrouve en grande quantité dans le muscle, en quantité intermédiaire dans le foie et le tissu adipeux et en plus petite quantité dans le sang et la lymphe.
+
+##### 2: L’approvisionnement en glucose pendant un jeûne de courte durée  
+
+Entre les repas, il n’y a plus d’apport en glucose. Ce sont alors les cellules du foie qui libèrent du glucose dans la circulation sanguine.  
+
+Le glucose libéré provient essentiellement de la dégradation du glycogène hépatique: c’est la glycogénolyse. Les cellules musculaires dégradent également le glycogène, mais contrairement aux cellules hépatiques, elles ne peuvent libérer le glucose dans le sang en raison d’un équipement enzymatique particulier: le glucose produit ne sert qu’à couvrir leurs besoins énergétiques propres.
+
+Seul le foie est capable de libérer du glucose dans le sang. Il est donc le siège de 2 fonctions opposées: le stockage du glucose quand la glycémie est supérieure à la valeur de consigne et la libération du glucose lorsque la glycémie est inférieure à cette valeur. Le foie est le principal organe effecteur de la régulation de la glycémie.
+
+### III: La régulation hormonale de la glycémie
+
+Chez une personne en bonne santé, la glycémie varie peu autour de la valeur de consigne (1g/L). Cette stabilité implique un équilibre dynamique permanent entre la consommation du glucose sanguin par les cellules, les différentes formes de stockage du glucose alimentaire et les apports irréguliers par l’alimentation. Le foie stocke du glucose excédentaire en cas d’apport alimentaire et produit du glucose au cours des périodes de jeûne: il apparaît comme le principal organe effecteur de la régulation de la glycémie. Il existe donc un système de régulation de la glycémie qui corrige en permanence les écarts à sa valeur de consigne: c’est l’homéostat glycémique et il fait intervenir le pancréas.
+
+
+#### A: Le pancréas: un organe complexe
+
+##### 1: Les multiples fonctions du pancréas  
+
+A la fin du XIXe siècle, les médecins et les physiologistes savent déjà que le pancréas secrète des enzymes (suc pancréatique) nécessaires à la digestion des aliments. Ils découvrent que cet organe est également impliqué dans la régulation de la glycémie.
+
+##### 2: La structure complexe du pancréas   
+
+Les différentes fonctions du pancréas sont réalisées par des ensembles cellulaires distincts. 99% de la masse du pancréas est constituée de structures en forme de glandes: les acini dont les cellules sécrètent le suc pancréatique qui est déversé dans l’intestin par des canaux collecteurs (fonction exocrine). 
+
+Le reste du pancréas est constitué d’amas cellulaires isolés entre les acini: les îlots de Langerhans, entourés de nombreux vaisseaux sanguins, ils sont nécessaires à la régulation de la glycémie.
+
+#### B: Insuline et glucagon, les deux hormones  
+
+Les cellules des îlots de Langerhans sécrètent des hormones; ce sont des cellules endocrines. Les hormones sont des messagers chimiques libérés par des cellules spécialisées qualifiées de cellules endocrines et qui agissent à distance via le sang, sur des cellules cibles qui possèdent des récepteurs spécifiques, membranaires ou cytoplasmiques, à ces hormones. La formation d'un complexe hormone-récepteur modifie l’activité biologique des cellules cibles
+
+La première hormone mise en évidence a été l’insuline: l’ablation du pancréas est à l’origine d’une hyperglycémie chronique (diabète); la greffe de cet organe dans une région richement vascularisée (le cou) supprime l’hyperglycémie consécutive à l’ablation; l’injection d’extraits pancréatiques produit le même effet que la greffe; l’isolation d’une molécule dans les extraits puis son injection chez un individu à jeun, induit une diminution de la glycémie. On montre ainsi que le pancréas produit une molécule qui est transportée par le sang et qui agit sur d’autres cellules de l’organisme pour réduire la glycémie: il s’agit d’une hormone hypoglycémiante: l’insuline. Une seconde hormone pancréatique a été mise en évidence: le glucagon, dont l'action est hyperglycémiante. 
+
+Insuline et glucagon sont des molécules de nature polypeptidique, chacune étant synthétisée par une catégorie de cellules différentes: les cellules α, situées à la périphérie des îlots de Langerhans produisent le glucagon; les cellules β, plus nombreuses et en position centrale, élaborent l’insuline.
+
+#### C: Contrôle de la sécrétion d'insuline et de glucagon   
+
+La concentration du glucose dans le sang traversant l’intestin est l’élément déterminant la sécrétion d’insuline ou de glucagon. Les îlots de Langerhans sont capables de détecter les écarts par rapport à la glycémie de consigne. Lorsque la glycémie est égale à sa valeur de consigne, l’insuline et le glucagon sont sécrétés en petite quantité: c’est la sécrétion de base. 
+
+Une augmentation de la glycémie (suite à un repas) induit une augmentation de la sécrétion d’insuline et une augmentation de sa concentration plasmatique. Elle entraîne au contraire une diminution de la sécrétion de glucagon. 
+
+Une diminution de la glycémie (suite à un jeûne prolongé) induit une augmentation de la sécrétion de glucagon et une augmentation de la concentration plasmatique de cette hormone. Elle entraîne au contraire une diminution de la sécrétion d’insuline. Plus le signal qui déclenche la sécrétion est important (écart avec la valeur de consigne), plus la quantité d’hormone sécrétée est élevée.
+
+#### D: Le mode d'action des hormones pancréatiques   
+
+Les molécules d’insuline et de glucagon peuvent atteindre toutes les cellules de l’organisme: la voie de communication hormonale est publique. Cependant, seules certaines cellules répondent à ces hormones: ce sont les cellules cibles. Les cellules cibles d’une hormone possèdent des récepteurs spécifiques situés au niveau de la membrane plasmique et sur lesquels cette hormone peut se fixer avec une grande affinité. La liaison entre l’hormone et son récepteur déclenche une série d’évènements cellulaires complexes qui modifient le métabolisme des cellules cibles.
+
+Les cellules cibles de l’insuline sont les cellules hépatiques, les cellules musculaires et les cellules adipeuses. L’insuline augmente la pénétration du glucose sanguin dans chacune d’elles et active la synthèse de molécules de stockage du glucose (glycogène dans le foie et le muscle, lipides dans le tissu adipeux). Ces modifications entraînent une diminution de la glycémie. (effet hypoglycémiant)
+
+Les cellules cibles du glucagon sont les cellules hépatiques. Le glucagon active la dégradation du glycogène (glycogénolyse) et stimule la sécrétion de glucose dans le sang. Ces modifications entraînent une augmentation de la glycémie. (effet hyperglycémiant)
+
+L’effet du glucagon ou de l’insuline sur une cellule cible est d’autant plus intense que la concentration plasmatique de l’hormone est élevée: le message hormonal est codé en concentration plasmatique de l’hormone. Ce codage est effectué par les cellules endocrines selon l’écart entre la glycémie et la valeur de consigne.
+
+L’activité biologique des hormones cesse avec leur disparition. En effet, comme toute molécule, les hormones sont dégradées au fil du temps. La demi-vie (temps nécessaire à la disparition de la moitié des molécules produites à un temps t) d’une telle molécule est de l’ordre de la minute. Le codage du message hormonal se fait en quantité d’hormone.
 
