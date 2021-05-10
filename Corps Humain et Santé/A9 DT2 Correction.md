@@ -1,8 +1,30 @@
-<!DOCTYPE html>
-<html>
-<head><meta charset="utf-8"/></head>
-<body>
-<h1 align=center>Le diabète de type 2</h1>
+<h1 align=center>Le diabète de type 2.</h1>
+
+[Lien vers les documents](https://github.com/YannBouyeron/SPET/blob/master/Corps%20Humain%20et%20Santé/A9%20Diabètes.md)
+
+<p>On observe (doc 3 p 188) que :</p>
+
+<p>Chez un individu témoin (sain):</p>
+
+<ul>
+
+<li>La glycémie reste constante (autour de 1 g/L) après l'ingestion des 75g de glucose. Le système de régulation de la glycémie est donc fonctionnel.</li>
+
+<li>L'insulinémie augmente fortement au cours des trois heures qui suivent l'ingestion du glucose. L'insuline est sécrétée de manière adaptée: le système de régulation de la glycémie permet d'augmenter la production d'insuline de manière a stocker le glucose apporté lors de l'ingestion des 75 g , pour ainsi éviter une hyperglycémie.</li>
+
+</ul>
+
+<p>Chez un individu diabétique de type 2:</p>
+
+<ul>
+
+<li>La glycémie augmente fortement au cours des trois heures suivant l'ingestion du glucose. Le système de régulation de la glycémie n'est donc pas fonctionnel.</li>
+
+<li>L'insulinémie semble à peu près adaptée à la glycémie: l'ingestion de glucose est suivie d'une augmentation de l'insulinémie</li>
+
+</ul>
+
+<p align=center><strong>On en déduit que le  diabète de type 2 est du à une "résistance" aux effets de l'insuline (qui est cependant bien produite).</strong></p>
 
 <h2>Le déterminisme du DT2.</h2>
 
@@ -54,5 +76,3 @@
 
 <p>Le diabète de type 2 affecte surtout les adultes (même si il est de plus en plus fréquent chez les enfants et adolescents) et correspond à un phénotype cellulaire pancréatique normal. Cependant, les cellules cibles de l’insuline présentent une insensibilité à l&#39;insuline (transporteurs du glucose non fonctionnels ou enzyme du métabolisme du glucose non fonctionnelle ou récepteurs à l&#39;insuline défaillants ou absents) ce qui induit une absence de stockage du glucose: c’est l’insulino-résistance. Ce diabète est associé, dans un premier temps, à une augmentation de la sécrétion d’insuline, puis, le pancréas s’épuisant, on observe une déficience de la sécrétion. On parle de Diabète  Non Insulino-Dépendant (DNID) car l’injection d’insuline ne peut soigner ces patients. Le DT2 a un déterminisme génétique (de nombreux gènes de prédisposition sont impliqués), et environnemental: son développement est très fréquemment associé à l’obésité et à la sédentarité.</p>
 
-</body>
-</html>

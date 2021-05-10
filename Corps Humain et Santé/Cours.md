@@ -382,3 +382,50 @@ L’effet du glucagon ou de l’insuline sur une cellule cible est d’autant pl
 
 L’activité biologique des hormones cesse avec leur disparition. En effet, comme toute molécule, les hormones sont dégradées au fil du temps. La demi-vie (temps nécessaire à la disparition de la moitié des molécules produites à un temps t) d’une telle molécule est de l’ordre de la minute. Le codage du message hormonal se fait en quantité d’hormone.
 
+
+### IV: Les diabètes.
+
+[Activité DT1](https://github.com/YannBouyeron/SPET/blob/master/Corps%20Humain%20et%20Santé/A9%20DT1%20Correction.md)
+
+[Activité DT2](https://github.com/YannBouyeron/SPET/blob/master/Corps%20Humain%20et%20Santé/A9%20DT2%20Correction.md)
+
+Le nombre de diabétiques dans le monde ne cesse d’augmenter (1985: 30 millions; 2000: 177 millions;  2014: 422 millions): il s’agit d’une véritable épidémie. Le phénotype diabétique est défini par une hyperglycémie chronique, survenant lorsque le système de régulation de la glycémie ne fonctionne pas correctement, mais il existe plusieurs formes de diabètes. La compréhension de ces maladies, souvent très invalidantes, a récemment beaucoup progressé grâce aux avancées de la génétique et de la biologie moléculaire. Le développement du diabète correspond à l’interaction entre de nombreux gènes et plusieurs facteurs de l’environnement. L’espoir réside dans la mise au point de méthodes plus performantes de prévention et de traitement de ces maladies.
+
+
+####  A: Diagnostiquer les diabètes
+
+
+##### 1: Les critères de diagnostic  
+
+Le principal critère de diagnostic du diabète est biochimique: c’est l’hyperglycémie (> 1,26 g/L à jeun). Cette maladie se caractérise aussi par la présence de glucose dans l’urine, une urine abondante, une soif importante et un amaigrissement. Les complications les plus graves sont les lésions de la rétines, des reins et les maladies cardio-vasculaires.
+
+##### 2: Les 2 types de diabète:
+
+**Le diabète de type 1** survient surtout chez les jeunes et se caractérise par un phénotype cellulaire précis: les cellules β des îlots de Langerhans sont progressivement détruites (réaction auto-immune) entraînant une très faible production et donc concentration plasmatique réduite d’insuline à l’origine de l’hyperglycémie. On parle de Diabète Insulino-Dépendant (DID); l’injection régulière d’insuline est la condition de survie pour le malade.
+
+**Le diabète de type 2** affecte surtout les adultes et correspond à un phénotype cellulaire pancréatique normal. Cependant, les cellules cibles de l’insuline présentent une insensibilité à l'insuline (structure insuline modifiée en raison d'une mutation, ou transporteurs du glucose non fonctionnels ou enzyme du métabolisme du glucose non fonctionnelle ou récepteurs à l'insuline défaillants) ce qui induit une absence de stockage du glucose: c’est l’insulino-résistance. Ce diabète est associé, dans un 1er temps, à une augmentation de la sécrétion d’insuline, puis, le pancréas s’épuisant, on observe une déficience de la sécrétion. On parle de Diabète  Non Insulino-Dépendant (DNID) car l’injection d’insuline ne peut soigner ces patients.
+
+#### B: Prévenir et traiter le diabète de type 1
+
+##### 1: Une affection multifactorielle:
+
+Les personnes souffrant d’un diabète de type 1 sont à 90 % porteuses  de certains allèles de gènes appartenant au système HLA (Human leukocyte antigen). Il existe donc une prédisposition génétique, ou plutôt une susceptibilité car il ne suffit pas de posséder ces allèles pour développer la maladie. En effet certains facteurs de l’environnement semblent contribuer au déclenchement de la maladie: virus, aliments, médicaments, stress physique ou psychique...
+
+##### 2: Moyens de lutte:
+
+Le dépistage du DID repose sur la recherche des gènes de susceptibilité et le traitement consiste à administrer de l’insuline exogène, et/ou à réaliser des greffes de pancréas et d’îlots de Langerhans dans la limite des organes disponibles.
+
+
+#### C: Prévenir et traiter le diabète de type 2
+
+##### 1: Les facteurs génétiques:
+
+Les études épidémiologiques mettent en évidence l'existence de gènes de prédisposition, certains allèles de ces gènes rendent plus probable l'apparition de la maladie sans pour autant la rendre certaine. Ces gènes "diabétogènes" sont souvent impliqués dans la sécrétion de l’insuline ou dans son action sur les cellules cibles. Chez 95% des malades, plusieurs gènes sont en cause.
+
+##### 2: Les facteurs environnementaux:
+
+Le diabète de type 2 est causé par la combinaison de facteurs génétiques et environnementaux. La maladie est associée à l’obésité (80% des malades sont obèses) qui est le principal facteur de risque du DNID. Ainsi, une alimentation hyper calorique et un manque d’activité physique augmentent le risque d’obésité et donc de diabète.
+
+##### 3: Moyens de lutte:
+
+La prévention et le traitement reposent essentiellement sur une meilleure hygiène de vie: régime et activité sportive contribuent à régulariser la glycémie. Si cela ne suffit pas, des médicaments (hypoglycémiants) sont nécessaires. Le dépistage précoce de ces maladies peut éviter certaines complications, mais la difficulté consiste à déterminer la population à risque chez qui le dépistage doit être effectué.
