@@ -24,7 +24,7 @@ Les faits qui suggèrent à Mendel la réalisation d’expériences c’est 
 
 Pour ses travaux, Mendel choisit un modèle biologique idéal: la fleur de pois. En effet, la fleur de pois présente des caractéristiques interessantes pour mener des hybridations et pour étudier la transmission des caractères héréditaires:
 
-- La fleur de pois est hermaphrodite, elle produit des gamètes mâles et femelles. De plus, sa structure impose naturellement l’auto-fécondation (ou auto-gamine): le pollen étant libéré avant l’ouverture de la fleur, il ne peut que féconder les ovules de la fleur. Les différentes variétés déjà existantes sont donc de lignées pures c’est à dire des plantes avec des caractères différentiels constants qui ne changent pas au cours des générations successives d'auto-fécondation. Ce sont donc, avec nos connaissances actuelles, des plantes homozygotes pour les gènes considérés.
+- La fleur de pois est hermaphrodite, elle produit des gamètes mâles et femelles. De plus, sa structure impose naturellement l’auto-fécondation (ou auto-gamie): le pollen étant libéré avant l’ouverture de la fleur, il ne peut que féconder les ovules de la fleur. Les différentes variétés déjà existantes sont donc de lignées pures c’est à dire des plantes avec des caractères différentiels constants qui ne changent pas au cours des générations successives d'auto-fécondation. Ce sont donc, avec nos connaissances actuelles, des plantes homozygotes pour les gènes considérés.
 
 - La fleur étant suffisamment grosse, il est possible, par une intervention manuelle, d’effectuer des fécondations croisées (hybridations) artificielles.
 
