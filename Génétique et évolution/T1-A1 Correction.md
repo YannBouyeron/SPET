@@ -32,7 +32,7 @@ Pour ses travaux, Mendel choisit un modèle biologique idéal: la fleur de pois.
 
 Mendel fait en sorte de choisir des caractères différentiels constants, c’est à dire ayant une caractéristique bien définie qui varie d’une variété de pois à l’autre mais qui reste constante pour chaque variété et qui peut être très facilement suivie dans les différentes générations. Par exemple quelques caractéristiques des graines comme la forme (lisse ou ridée) ou la couleur (jaune ou verte). Il retient ainsi 22 caractères différents.
 
-Mendel prend soin de travailler sur un très grand nombre de plants. Plus le nombre de plants observés est grand, plus il est facile d’en déduire une loi générale sur ls reproduction et la transmission des caractères. C’est la loi des grands nombres en statistique : si on répète un grand nombre de fois une même expérience aléatoire, qui a comme résultat une valeur numérique, alors la moyenne des résultats obtenus tend à se rapprocher de l'espérance mathématique de l'expérience.
+Mendel prend soin de travailler sur un très grand nombre de plants. Plus le nombre de plants observés est grand, plus il est facile d’en déduire une loi générale sur la reproduction et la transmission des caractères. C’est la loi des grands nombres en statistique : si on répète un grand nombre de fois une même expérience aléatoire, qui a comme résultat une valeur numérique, alors la moyenne des résultats obtenus tend à se rapprocher de l'espérance mathématique de l'expérience.
 
 Pour chacun des 22 caractères différentiels constants retenus, Mendel répète ses expériences d’hybridation - autofécondation (document 4) un  grand nombre de fois. 
 
