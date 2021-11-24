@@ -1,4 +1,4 @@
-# Activité 4: Mouvement volontaire et plasticité cérébrale.
+# Activité 4: Les conséquences d'un AVC - Motricité volontaire et plasticité cérébrale.
 
 
 Monsieur X montre d’importants dysfonctionnements musculaires. Il présente une hémiplégie droite (paralysie du côté droit du corps : face, membres supérieurs, membres inférieurs). 
