@@ -85,7 +85,7 @@ Le nom de l'étage est souvent dérivé d'un lieu géographique (actuel ou ancie
 
 Ces étages sont regroupés en systèmes eux-mêmes associés en ères. Les limites entre les différentes ères peuvent correspondre à des crises biologiques majeures ; ainsi, la limite entre le Secondaire et le Tertiaire correspond à la crise qui a conduit à la disparition de nombreux organismes continentaux (les dinosaures) et marins (les ammonites)
 
-Cette [échelle stratigraphique](http://sigespoc.brgm.fr/IMG/pdf/charte_brgm_de_l_echelle_des_temps_geologiques.pdf) est admise par la communauté scientifique, et les divisions et subdivisions ont pu être datées avec précision grâce à la chronologie absolue.
+Cette [échelle stratigraphique](https://ipfs.io/ipfs/QmRRRQahPMRV6jU3ZSBQHBEFiWWdymKjwoqvti9NxtRMbv) est admise par la communauté scientifique, et les divisions et subdivisions ont pu être datées avec précision grâce à la chronologie absolue.
 
 >**Échelle stratigraphique / Échelle chronostratigraphique:**
 >
