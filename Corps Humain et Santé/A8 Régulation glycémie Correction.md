@@ -35,8 +35,7 @@
 
 La cybernétique est la science des systèmes (vivants ou non vivants). Tous les systèmes de régulation comprennent:
 
-Un **système réglé**: avec une fonction réglée et un paramètre réglé; la variation de ce paramètre (écart par rapport à une valeur de référence)  
-déclenche la mise en route d'un système réglant.
+Un **système réglé**: avec une fonction réglée et un paramètre réglé; la variation de ce paramètre (écart par rapport à une valeur de référence) déclenche la mise en route d'un système réglant.
 
 Un **système réglant** comprenant: 
 
