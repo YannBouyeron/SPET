@@ -384,7 +384,7 @@ L’activité biologique des hormones cesse avec leur disparition. En effet, com
 
 ### Schéma bilan de la régulation de la glycémie
 
-<a href="https://ipfs.io/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"><img src="https://ipfs.io/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"></a>
+<div align=center><a href="https://ipfs.io/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"><img src="https://ipfs.io/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"></a></div>
 
 ### IV: Les diabètes.
 
