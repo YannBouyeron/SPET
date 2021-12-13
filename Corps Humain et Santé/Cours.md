@@ -382,6 +382,9 @@ L’effet du glucagon ou de l’insuline sur une cellule cible est d’autant pl
 
 L’activité biologique des hormones cesse avec leur disparition. En effet, comme toute molécule, les hormones sont dégradées au fil du temps. La demi-vie (temps nécessaire à la disparition de la moitié des molécules produites à un temps t) d’une telle molécule est de l’ordre de la minute. Le codage du message hormonal se fait en quantité d’hormone.
 
+### Schéma bilan de la régulation de la glycémie
+
+<a href="https://ipfs.io/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"><img src="https://ipfs.io/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"></a>
 
 ### IV: Les diabètes.
 
