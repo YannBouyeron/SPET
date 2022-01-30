@@ -241,7 +241,7 @@ Ainsi, le recensement des pollens présents à une même profondeur d'une carott
 
 ### La reconstitution des variations paléo-climatiques à partir de l'analyse des diagrammes polliniques 
 
-Un spectre pollinique permet de réaliser un « instantané » sur le climat régional à l’époque de la sédimentation. Différents spectres polliniques superposés forment un diagramme pollinique qui permet de reconstituer les fluctuations climatiques au cours du temps. On distingue ainsi 4 périodes sur le diagramme pollinique de la vallée de Wormsa (pages [82](https://ipfs/io/ipfs/Qmb3QVGXo3gJSLhsKwBWYfWzmBZesNeEcYVmaVWynBFeDy)-[83](https://ipfs.io/ipfs/QmQiSRTfMP5a96RMVh2zt5JRzp9oTuQqF3WTijrq1dvpd1)):
+Un spectre pollinique permet de réaliser un « instantané » sur le climat régional à l’époque de la sédimentation. Différents spectres polliniques superposés forment un diagramme pollinique qui permet de reconstituer les fluctuations climatiques au cours du temps. On distingue ainsi 4 périodes sur le diagramme pollinique de la vallée de Wormsa (pages [82](https://ipfs.io/ipfs/Qmb3QVGXo3gJSLhsKwBWYfWzmBZesNeEcYVmaVWynBFeDy)-[83](https://ipfs.io/ipfs/QmQiSRTfMP5a96RMVh2zt5JRzp9oTuQqF3WTijrq1dvpd1)):
 
 - De -17000 à -13500 ans: peuplement de type steppe caractéristique d'un climat sec.
 
