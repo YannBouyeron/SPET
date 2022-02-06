@@ -77,7 +77,7 @@ Au cours du trajet du nuage vers le pôle, les phénomènes de condensations suc
 Arrivée au pôle, la neige qui tombe des nuages est très appauvrie en <sup>18</sup>O. La glace qui se forme à alors un δ<sup>18</sup>O très négatif (-40 à -50 pour mille)
 
 
-<a href="https://ipfs.io/ipfs/QmQLSQqs6p25Gpm9vUoVcAtQJuJGjqMBQJEaEsSDGwcPGr"><img src="https://ipfs.io/ipfs/QmQLSQqs6p25Gpm9vUoVcAtQJuJGjqMBQJEaEsSDGwcPGr"></a>
+<div align=center><a href="https://ipfs.io/ipfs/QmQLSQqs6p25Gpm9vUoVcAtQJuJGjqMBQJEaEsSDGwcPGr"><img src="https://ipfs.io/ipfs/QmQLSQqs6p25Gpm9vUoVcAtQJuJGjqMBQJEaEsSDGwcPGr"></a></div>
 
 Le fractionnement isotopique du <sup>18</sup>O <sup>16</sup>O dépend de la température. La vaporisation du <sup>18</sup>O nécessitant davantage d’énergie que celle du <sup>16</sup>O, il y’a donc davantage de <sup>18</sup>O qui s’évapore lors d’une période chaude que lors d’une période froide.
 
