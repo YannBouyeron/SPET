@@ -80,9 +80,9 @@ Plus récemment, on observe un réchauffement puisque la quantité de pollen d�
 
 ##### Le δ<sup>18</sup>O des foraminifères benthiques permet de reconstituer des variations paléo climatiques globales durant l’Holocène.
 
-Les foraminifères sont des organismes unicellulaires hétérotrophes (protozoaires) aquatiques. Ils vivent dans un test calcaire («coquille» constituée de carbonate de calcium: CaCO3 contenant du <sup>18</sup>O et du <sup>16</sup>O) qui s'accumule à leur mort dans certaines conditions sur les fonds marins. Le groupe est très diversifié tant d'un point de vue morphologique que biologique. Ainsi certaines espèces sont planctoniques alors que d'autres vivent sur les fonds océaniques (on les dit alors benthiques) où la température est considérée constante au cours du temps.
+Les foraminifères sont des organismes unicellulaires hétérotrophes (protozoaires) aquatiques. Ils vivent dans un test calcaire («coquille» constituée de carbonate de calcium: CaCO<sub>3</sub> contenant du <sup>18</sup>O et du <sup>16</sup>O) qui s'accumule à leur mort dans certaines conditions sur les fonds marins. Le groupe est très diversifié tant d'un point de vue morphologique que biologique. Ainsi certaines espèces sont planctoniques alors que d'autres vivent sur les fonds océaniques (on les dit alors benthiques) où la température est considérée constante au cours du temps.
 
-Il existe une corrélation négative entre le δ<sup>18</sup>O des foraminifères benthiques et le climat global:   
+Il existe une corrélation négative entre le [δ<sup>18</sup>O des foraminifères benthiques](https://github.com/YannBouyeron/SPET/blob/master/Climats/Le%20d18O%20des%20foraminifères%20benthiques.md) et le climat global:   
 
 <h6 align="center"> <b>δ<sup>18</sup>O foraminifères benthiques = - f (T° globale)</b></h6>
 
@@ -109,11 +109,11 @@ On observe que:
 
 *Une autre utilisation climatique des foraminifère est envisageable : elle consiste à distinguer parmi les espèces rencontrées dans un échantillon celles qui correspondent à une eau froide ou une eau chaude.*
 
-### L’évolution climatique au Pléistocène
+### III: L’évolution climatique au Pléistocène
 
 Le Pléistocène (-1,7 Ma -> -12000 ans) est l’avant dernière époque (avant l’Holocène) au sein de la période quaternaire au sein de l’ère cénozoïque. [Lien vers l’activité](https://ipfs.io/ipfs/QmchpV8FVxuNkMSiBBbCzmZxbyNFA1tWGZCZhyNJQztHBJ)
 
-**Le [δ<sup>18</sup>O des glaces polaires]() témoigne d’une alternance de périodes glaciaires et interglaciaires au Pléistocène.**
+**Le [δ<sup>18</sup>O des glaces polaires](https://github.com/YannBouyeron/SPET/blob/master/Climats/Le%20d18O%20des%20glaces%20polaires.md) témoigne d’une alternance de périodes glaciaires et interglaciaires au Pléistocène.**
 
 Au niveau des calottes polaires, le delta isotopique (δ<sup>18</sup>O ou δD) de la glace est fonction de la température de l'air qui régnait au dessus de la calotte lors des précipitations neigeuses à l'origine de la glace. Plus le delta isotopique de la glace est élevé plus la température de l'air était élevée lors de la précipitation neigeuse.
 
@@ -135,7 +135,7 @@ On observe dans les Vosges des déformations et altérations datées du Pléisto
 
 Ces roches témoignent d’un épisodes froids dans les Vosges au Pléistocène.
 
-### L’origine des alternances des périodes glaciaires et interglaciaires au Pléistocène: Les paramètres orbitaux de Milankovitch.
+#### L’origine des alternances des périodes glaciaires et interglaciaires au Pléistocène: Les paramètres orbitaux de Milankovitch.
 
 [Lien vers l’activité](https://ipfs.io/ipfs/QmXDuoRMTesdho6eF3QwTwc3jE4rtQNGzNwRPRqf1qkEW9)
 
@@ -174,7 +174,7 @@ La fonte d'une calotte polaire dans l'HN est favorisée par un fort contraste sa
 
 La corrélation entre les variations des paramètres orbitaux et les variations climatiques ainsi que la similitude des périodicités plaident en faveur de la théorie astronomique des climats. Cependant, l'impact sur l'insolation reste très modeste: les variations sont de l'ordre de 0,1% ce qui entraîne une variation de la température moyenne du globe de quelques dixièmes de degrés, or l'amplitude des variations thermiques mesurées entre les périodes glaciaires et interglaciaires est de l'ordre de 5°C à 10°C. Les variations des paramètres orbitaux agissent comme un mécanisme initiateur des variations climatiques qui sont ensuite amplifiées par la teneur en CO<sub>2</sub> et l'albédo.
 
-### L’évolution climatique au Cénozoïque
+### IV: L’évolution climatique au Cénozoïque
 
 Le Cénozoïque ou ère tertiaire s’étend de -66 Ma à l’actuel. [Lien vers l’activité](https://ipfs.io/ipfs/QmevrZ793jyBcUdPeGbNf2vyZnGmwRfA8oAjMu8db1jaVn)
 
