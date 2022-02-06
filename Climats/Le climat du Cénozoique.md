@@ -133,7 +133,7 @@ On observe dans les Vosges des déformations et altérations datées du Pléisto
 
 - Des blocs erratiques: rochers de grande taille transporté, le plus souvent, par un glacier loin de son lieu d’origine.
 
-Ces roches témoignent d’un épisodes froids dans les Vosges au Pléistocène.
+Ces roches témoignent d’un épisode froid dans les Vosges au Pléistocène.
 
 #### L’origine des alternances des périodes glaciaires et interglaciaires au Pléistocène: Les paramètres orbitaux de Milankovitch.
 
