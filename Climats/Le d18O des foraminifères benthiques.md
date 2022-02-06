@@ -70,7 +70,7 @@ Les forages des fonds océaniques donnent accès à des sédiments océaniques c
 
 <p align=center>Variations du δ<sup>18</sup>O des foraminifères benthiques à l’Holocène</p>
 
-<a href="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL"><img src="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL" width=60%></a>
+<div align=center><a href="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL"><img src="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL" width=60%></a></div>
 
 On observe que:
 

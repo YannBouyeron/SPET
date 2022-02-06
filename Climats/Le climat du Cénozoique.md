@@ -24,7 +24,7 @@ Si les prévisions sont défavorables, la quasi-totalité des biomes alpins, bor
 
 **L’effet du CO<sub>2</sub> sur l’équilibre des réactions physico-chimiques dans l’eau.**
 
-Une fois dissous dans l’eau, le CO<sub>2</sub> interagit avec 3 molécules d’eau pour former un ion carbonate pouvant interagir avec les ions Ca2+ pour faire de la calcite, mais aussi deux ions hydroniums. Plus la concentration en ions hydronium augmente sous l’effet de l’apport de CO<sub>2</sub>, plus le pH diminue. 
+Une fois dissous dans l’eau, le CO<sub>2</sub> interagit avec 3 molécules d’eau pour former un ion carbonate pouvant interagir avec les ions Ca<sup>2+</sup> pour faire de la calcite, mais aussi deux ions hydroniums. Plus la concentration en ions hydronium augmente sous l’effet de l’apport de CO<sub>2</sub>, plus le pH diminue. 
 
 
 **Les conséquences de la dissolution du CO<sub>2</sub> dans l’eau sur les communautés des biomes marins.**
@@ -68,7 +68,7 @@ En effet, les pollens présentent des caractéristiques favorables à ce type d'
 
 **Les variations climatiques dans les Vosges à l’Holocène.**
 
-<a href="https://ipfs.io/ipfs/QmP1bU8TPkeewWqi1niG6AKehaT9fFZd2NsqouVXCtDDX7"><img src="https://ipfs.io/ipfs/QmP1bU8TPkeewWqi1niG6AKehaT9fFZd2NsqouVXCtDDX7" width=50%></a>
+<div align=center><a href="https://ipfs.io/ipfs/QmP1bU8TPkeewWqi1niG6AKehaT9fFZd2NsqouVXCtDDX7"><img src="https://ipfs.io/ipfs/QmP1bU8TPkeewWqi1niG6AKehaT9fFZd2NsqouVXCtDDX7" width=50%></a></div>
 
 Au début de l’Holocène, on compte environ 30 % de pollens de poacées et d’armoises (plantes qui résistent à la sécheresse et aux grands froids), 65 % de plantes tels que le bouleau et l’épicéa (résistent au froid, mais le bouleau craint la sécheresse) et à peine 5 % de plantes comme le chêne, le hêtre et le noisetier qui sont plus sensibles au froid. Ceci indique que le climat était froid.
 
@@ -96,7 +96,7 @@ Les forages des fonds océaniques donnent accès à des sédiments océaniques c
 
 <p align=center>Variations du δ<sup>18</sup>O des foraminifères benthiques à l’Holocène</p>
 
-<a href="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL"><img src="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL" width=60%></a>
+<div align=center><a href="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL"><img src="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL" width=60%></a></div>
 
 On observe que:
 
@@ -148,9 +148,9 @@ La teneur en CO2 atmosphérique et l'albédo amplifient les variations climatiqu
 
 Au début du XX° siècle, un mathématicien Serbe: Milutin Milankovitch étudie les causes des variations climatiques au cours du Pléistocène. Il émet l'hypothèse d'une influence astronomique, et il teste son hypothèse en étudiant les variations de certains paramètres orbitaux: l'excentricité, l'obliquité, et la précession des équinoxes.
 
-<a href="https://ipfs.io/ipfs/QmWxPJbRhZXYpwhjo2zWmdkFkBYyMsHR5miVi2HcEeJB89"><img src="https://ipfs.io/ipfs/QmWxPJbRhZXYpwhjo2zWmdkFkBYyMsHR5miVi2HcEeJB89"></a>
+<div align=center><a href="https://ipfs.io/ipfs/QmWxPJbRhZXYpwhjo2zWmdkFkBYyMsHR5miVi2HcEeJB89"><img src="https://ipfs.io/ipfs/QmWxPJbRhZXYpwhjo2zWmdkFkBYyMsHR5miVi2HcEeJB89"></a></div>
 
-<a href="https://ipfs.io/ipfs/QmcFjDCeNTMgxpnmydTJiztRB8QtxBGApnzVWgxQbv9fcG"><img src="https://ipfs.io/ipfs/QmcFjDCeNTMgxpnmydTJiztRB8QtxBGApnzVWgxQbv9fcG"></a>
+<div align=center><a href="https://ipfs.io/ipfs/QmcFjDCeNTMgxpnmydTJiztRB8QtxBGApnzVWgxQbv9fcG"><img src="https://ipfs.io/ipfs/QmcFjDCeNTMgxpnmydTJiztRB8QtxBGApnzVWgxQbv9fcG"></a></div>
 
 **Conditions d'installation d'une calotte polaire:** 
 
