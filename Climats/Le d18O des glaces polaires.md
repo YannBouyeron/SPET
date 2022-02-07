@@ -61,8 +61,25 @@ Le dossier temp_<sup>18</sup>O contient des fichiers xlsx mettant en relation la
 </tr>
 </table>
 
-
 En fonction du lieu choisi, il n'existe pas toujours une corrélation entre les valeurs du δ<sup>18</sup>O des eaux de précipitations et la moyenne mensuelle (ou annuelle) des températures de l'air. La corrélation est forte (les points s'alignent) aux hautes latitudes (Pôles), mais très faibles (mauvais alignement, points dispersés) aux faibles latitudes (Équateur).
+
+<div align=center>
+<table>
+<tr>
+<th></th><th>Amderma</th><th>Ascension</th><th>Kinshasa</th><th>Murmansk</th><th>Halley Bay</th><th>Barrow</th>
+</tr>
+<tr>
+<th>Latitude</th><td align=center>+ 69°</td><td align=center>+ 7°</td><td align=center>+ 4°</td><td align=center>+ 68°</td><td align=center>+ 75°</td><td align=center>+ 71°</td>
+</tr>
+<tr>
+<th>Équation</th><td align=center>y = 0,29 x - 13,39</td><td align=center>y = -0,33 x + 8,89</td><td align=center>y = -0,64 x + 12</td><td align=center>y = 0,25 x - 12</td><td align=center>y = 0,43 x - 13</td><td align=center>y = 0,37 x - 13</td>
+</tr>
+<tr>
+<th>Coefficient de corrélation</th><td align=center>0,75</td><td align=center>-0,44</td><td align=center>-0,25</td><td align=center>0,74</td><td align=center>0,93</td><td align=center>0,84</td>
+</tr>
+</table>
+</div>
+
 
 La corrélation observée entre t° et δ<sup>18</sup>O aux hautes latitudes est une corrélation positive: une augmentation de la température de l'air est corrélée à une augmentation du δ<sup>18</sup>O des précipitations. Les informations relatives à la notion de δ isotopique et au principe de fractionnement isotopique de l'oxygène, permettent de préciser le sens de la corrélation: c'est l'augmentation de la température de l'air qui induit l'augmentation du δ<sup>18</sup>O des eaux de précipitations. Une augmentation du δ<sup>18</sup>O traduit donc une augmentation de la température. Et inversement. 
 
