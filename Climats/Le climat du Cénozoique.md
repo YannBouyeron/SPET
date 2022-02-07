@@ -137,7 +137,7 @@ Ces roches témoignent d’un épisode froid dans les Vosges au Pléistocène.
 
 #### L’origine des alternances des périodes glaciaires et interglaciaires au Pléistocène: Les paramètres orbitaux de Milankovitch.
 
-[Lien vers l’activité](https://ipfs.io/ipfs/QmXDuoRMTesdho6eF3QwTwc3jE4rtQNGzNwRPRqf1qkEW9)
+[Lien vers l’activité](https://ipfs.io/ipfs/QmTuFxG91FSsvLHa6QpH4Hw6D5gyDtgAQcndtw2L7yH18i)
 
 L'étude des variations climatiques des 700 000 dernières années met en évidence une alternance de périodes glaciaires et inter-glaciaires. On dénombre 7 périodes glaciaires au cours des 700 000 dernières années; on observe ainsi une périodicité de 100 000 ans entre 2 maxima glaciaires. Au sein de ces périodes de 100 000 ans, on distingue des variations climatiques de moindre amplitude sur des périodes de 41.000, 23.000 et 19.000 ans.
 
@@ -168,7 +168,7 @@ La fonte d'une calotte polaire dans l'HN est favorisée par un fort contraste sa
 
 **Deux arguments principaux permettent de valider la théorie astronomique des climats:**
 
-1. Les variations de l’insolation calculées en tenant compte de l’excentricité, de l’obliquité et de la précession des équinoxes au cours des 700 000 dernières années sont corrélées à celles du δ<sup>18</sup>O des carbonates: plus l’insolation est élevée, plus le δ<sup>18</sup>O est faible. Or plus le δ<sup>18</sup>O dans les carbonates est faible, plus la t° globale de la Terre était élevée. Les variations de l’insolation calculées à partir des paramètres orbitaux sont en cause dans les variations climatiques de la Terre au cours des 700 000 dernières années.
+1. Les [variations de l’insolation](https://ipfs.io/ipfs/QmbPWdahEZ6cG8hSAuqDVWCQUuFvBoUzEw3Hfbva4TWbXm) calculées en tenant compte de l’excentricité, de l’obliquité et de la précession des équinoxes au cours des 700 000 dernières années sont corrélées à celles du δ<sup>18</sup>O des carbonates: plus l’insolation est élevée, plus le δ<sup>18</sup>O est faible. Or plus le δ<sup>18</sup>O dans les carbonates est faible, plus la t° globale de la Terre était élevée. Les variations de l’insolation calculées à partir des paramètres orbitaux sont en cause dans les variations climatiques de la Terre au cours des 700 000 dernières années.
 
 2. L’excentricité de la Terre varie selon des cycles de 100 000 ans, l’obliquité varie selon des cycles de 41 000 ans et la précession varie selon des cycles de 23 000 et 19 000 ans. Or les variations climatiques de la Terre ont une périodicité de 100 000, 41 000 et 23 000 et 19 000 ans. Les variations de l’excentricité de la Terre sont responsables des variations climatiques de périodicité 100 000 ans (cycles climatiques), les variations de l’obliquité de la Terre sont responsables des variations climatiques de périodicité 41 000 ans et la précession des équinoxes est responsable des variations climatiques de périodicités 23 000 et 19 000 ans
 
