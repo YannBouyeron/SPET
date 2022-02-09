@@ -22,21 +22,17 @@ Selon les prévisions favorables, cette ceinture boréale va pratiquement dispar
 
 Si les prévisions sont défavorables, la quasi-totalité des biomes alpins, boréaux et tempérée froide disparait. La ceinture boréale remonte de plus d’1 km en altitude.
 
-**L’effet du CO<sub>2</sub> sur l’équilibre des réactions physico-chimiques dans l’eau.**
+**L’effet du CO<sub>2</sub> sur l’équilibre des réactions physico-chimiques dans l’eau et sur les communautés des biomes marins.**
 
 Une fois dissous dans l’eau, le CO<sub>2</sub> interagit avec 3 molécules d’eau pour former un ion carbonate pouvant interagir avec les ions Ca<sup>2+</sup> pour faire de la calcite, mais aussi deux ions hydroniums. Plus la concentration en ions hydronium augmente sous l’effet de l’apport de CO<sub>2</sub>, plus le pH diminue. 
-
-
-**Les conséquences de la dissolution du CO<sub>2</sub> dans l’eau sur les communautés des biomes marins.**
 
 La baisse du pH peut dissoudre le calcaire des coquilles et tests de certains organismes. Les moules et les récifs coralliens sont très sensibles à la baisse du pH. D’autres organismes comme les algues sont en revanche favorisés et prolifèrent.
 
 
 **L’origine anthropique des perturbations climatiques.**
 
-Le seul graphique dont la pente suit une élévation régulière des anomalies thermiques depuis 1876 est celui qui est montre sa relation avec l’activité humaine. Ni le volcanisme, ni l’activité solaire ne sont corrélés avec les anomalies thermiques.
+On observe une corrélation positive entre les émissions de carbone anthropiques et l’élévation de température récente (depuis la révolution industrielle). Ni le volcanisme, ni l’activité solaire ne sont corrélés avec les anomalies thermiques. Cela montre que les activités humaines sont résponsables des changements climatiques actuels. Les rejets de CO<sub>2</sub> dans l’atmosphère accroissent l’effet de serre. (Voir cours enseignement scientifique.)
 
-Le diagramme montre les émissions de CO<sub>2</sub> liées aux activités humaines. Ce gaz produit un fort effet de serre. Les travaux des climatologues montrent que ces émissions de gaz à effet de serre par les humains sont responsables du changement climatique actuel.
 
 ### II: L’évolution climatique à l’Holocène
 
