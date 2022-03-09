@@ -57,7 +57,7 @@ Au Crétacé supérieur, la production de lithosphère océanique est plus inten
 
 - aspects topographiques au niveau des zones d’accrétions et aussi de subduction.
 
-### Impact de la géodynamique sur l’espace d’accommodation
+###### Impact de la géodynamique sur l’espace d’accommodation
 
 La topographie générale du fond océanique montre que 
 
@@ -69,7 +69,7 @@ L’espace disponible pour l’eau dans le bassin (espace d’accommodation) est
 
 L’augmentation de l’activité des dorsales a donc induit une diminution de l’espace d’accommodation ce qui a contribué à la transgression marine.  
 
-### Impact de la géodynamique sur la concentration en CO<sub>2</sub> atmosphérique
+###### Impact de la géodynamique sur la concentration en CO<sub>2</sub> atmosphérique
 
 Au Crétacé, de très nombreuses provinces magmatiques ont été en éruption. L’archipel des Kerguelen est la partie émergée d’un LIP (larges provinces ignées) d’âge crétacé. La succession des couches de lave constituant les trapps datées du crétacé témoigne de l’activité magmatique intense.
  
@@ -79,7 +79,7 @@ Cela correspond à une masse de CO<sub>2</sub> émise de 103 501 millions de gig
 
 Malgré la forte activité magmatique liée aux dorsales océaniques et au LIPs, la concentration en CO<sub>2</sub> atmosphérique augmente cependant peu du fait de l’altération continentale qui consomme du CO<sub>2</sub> (Le δ<sup>87</sup>Sr est un indicateur de l’intensité de l’altération continentale.)
 
-### Impact de la géodynamique sur le bombement lithosphérique
+###### Impact de la géodynamique sur le bombement lithosphérique
 
 La tomographie sismique montre que un flux mantellique ascendant et chaud génère un déficit de densité sous la lithosphère, qui va entraîner une flottabilité plus importante de cette dernière. Ce phénomène est à l’origine de bombements de la lithosphère sur des distances de l’ordre du millier de kilomètre. À l’inverse, les flux descendants et froids génèrent des anomalies de densité positive qui entraînent une baisse de flottabilité de la lithosphère et induisent la mise en place de dépression de cette dernière sur de grandes distances. 
 
