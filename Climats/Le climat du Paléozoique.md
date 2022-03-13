@@ -1,16 +1,12 @@
 # Le climat du Paléozoïque 
 
-[Activité 4](https://ipfs.io/ipfs/QmPa4dmKnwmV8CRFXgNZd5Uk5SUFAsD9ZfxMdJBurGZ2Za)
+[Activité 4](https://ipfs.io/ipfs/QmPa4dmKnwmV8CRFXgNZd5Uk5SUFAsD9ZfxMdJBurGZ2Za) , [Activité 5](https://ipfs.io/ipfs/QmNoguBrpM6ewYas22fJHrULfW7LpnidQTgWw56cSo1DSg), <a href="https://ipfs.io/ipfs/QmRRRQahPMRV6jU3ZSBQHBEFiWWdymKjwoqvti9NxtRMbv">Échelle Chrono-Stratigraphique</a>
 
-[Activité 5](https://ipfs.io/ipfs/QmNoguBrpM6ewYas22fJHrULfW7LpnidQTgWw56cSo1DSg)
-
-<a href="https://ipfs.io/ipfs/QmRRRQahPMRV6jU3ZSBQHBEFiWWdymKjwoqvti9NxtRMbv">Échelle Chrono-Stratigraphique</a>
-
-Le paléozoïque (-540 Ma à -251 Ma) ou ère primaire est la première ère du phanérozoique. On s’intéresse ici particulièrement au climat du Permo-Carbonifère couvrant la fin du paléozoïque: périodes Carbonifère (-358 Ma à -298 Ma) et Permien (-298 Ma à -251 Ma).
+Le Paléozoïque (-540 Ma à -251 Ma) ou ère primaire est la première ère du phanérozoique. On s’intéresse ici particulièrement au climat du Permo-Carbonifère couvrant la fin du Paléozoïque: périodes Carbonifère (-358 Ma à -298 Ma) et Permien (-298 Ma à -251 Ma).
 
 ###### Les indices climatiques témoignent d’un climat contrasté.
 
-Les bauxites, les latérites et le charbon retrouvés en Europe et datés du carbonifère témoignent d'un climat tropical / équatorial en Europe au carbonifère puis d’un climat plus aride (formations rubéfiées du Permien dans les Vosges) au Pemien. 
+Les bauxites, les latérites et le charbon retrouvés en Europe et datés du carbonifère témoignent d'un climat tropical / équatorial en Europe au Carbonifère puis d’un climat plus aride (formations rubéfiées du Permien dans les Vosges) au Pemien. 
 
 Les tillites du carbonifère observées en Amérique du Sud, en Afrique du Sud, en Australie et en Inde témoignent de la présence d'une calotte glaciaires recouvrant ces régions à cette époque. La terre se trouvait dans une ère glaciaire au Permo-Carbonifère, avec des variations (alternances de périodes glaciaires et interglaciaires) de l’expansion de la calotte polaire.
 
@@ -31,14 +27,14 @@ Du Dévonien au Carbonifère la chaîne de montagnes varisque (ou chaîne hercyn
 
 La photosynthèse (flux de carbone atmosphère → biosphère) et la respiration (flux de carbone biosphère → atmosphère) sont normalement équilibrées. Les rejets de CO<sub>2</sub> liés à la respiration de la plante ou des organismes qui décomposent la matière organique de la plante compensent normalement la consommation de CO<sub>2</sub> liée à la potosynthèse. 
 
-Cependant, au Carbonifère, la croissance importante (forte productivité primaire) de la forêt couvrant la zone inter-tropicale consomme du CO<sub>2</sub> prélevé dans l’atmosphère. Une partie de la matière organique produite se retrouve enfouie et se retrouve en condition d’anoxie, échappant alors à la décomposition. Avec le temps, et l’augmentation de la pression et de la température liée à l’enfouissement, cette matière organique partiellement décomposée se transforme en charbon. Le carbon atmosphérique se retrouve donc piégé durablement dans le charbon (flux de carbone atmosphère → biosphère → lithosphère) induisant ainsi une diminution de la concentration en CO<sub>2</sub> atmosphérique.
+Cependant, au Carbonifère, la croissance importante (forte productivité primaire) de la forêt couvrant la zone inter-tropicale consomme du CO<sub>2</sub> prélevé dans l’atmosphère. Une partie de la matière organique produite se retrouve enfouie et se retrouve en condition d’anoxie, échappant alors à la décomposition. Avec le temps, et l’augmentation de la pression et de la température liée à l’enfouissement, cette matière organique partiellement décomposée se transforme en charbon. Le carbone atmosphérique se retrouve donc piégé durablement dans le charbon (flux de carbone atmosphère → biosphère → lithosphère) induisant ainsi une diminution de la concentration en CO<sub>2</sub> atmosphérique.
 
 Le fait que les végétaux aient acquis la lignine (mécanisme créateur de diversité = innovation évolutive devenue adaptation évolutive car conférant un avantage) et que les décomposeurs ne possèdent pas encore d’enzyme capable de la dégrader, a aussi contribué grandement à ce piégeage du CO<sub>2</sub> atmosphérique dans le charbon.
 
 **L’altération de la chaîne Hercynienne piège du CO<sub>2</sub>**
 
 
-Il y a 320 Ma,  suite à la collision entre le Gondwana et le Laurentia, une immense chaîne de montagnes se met en place. Cette chaîne, dite hercynienne, sera totalement érodée 50 Ma plus tard. Le Massif Central, la Bretagne et les Vosges en sont les vestiges actuels. Les rivières transportent des particules solides et des ions résultant de l’altération des roches par l’eau. Pour quasiment toutes les rivières du monde, même celles qui drainent des régions granitiques ou basaltiques, l’anion hydrogénocarbonate HCO<sub>3</sub> est le plus abondant. Cet ion provient du CO<sub>2</sub> atmosphérique. Dissous dans l’eau de pluie, il forme l’acide carbonique H2CO<sub>3</sub> en réalité dissocié en HCO<sub>3</sub> et protons. Ces protons attaquent les réseaux cristallins des minéraux silicatés (Feldspaths, pyroxènes...). Pour un pyroxène calcique, cette réaction s’écrit :
+Il y a 320 Ma, suite à la collision entre le Gondwana et le Laurentia, une immense chaîne de montagnes se met en place. Cette chaîne, dite hercynienne, sera totalement érodée 50 Ma plus tard. Le Massif Central, la Bretagne et les Vosges en sont les vestiges actuels. Les rivières transportent des particules solides et des ions résultant de l’altération des roches par l’eau. Pour quasiment toutes les rivières du monde, même celles qui drainent des régions granitiques ou basaltiques, l’anion hydrogénocarbonate HCO<sub>3</sub> est le plus abondant. Cet ion provient du CO<sub>2</sub> atmosphérique. Dissous dans l’eau de pluie, il forme l’acide carbonique H2CO<sub>3</sub> en réalité dissocié en HCO<sub>3</sub> et protons. Ces protons attaquent les réseaux cristallins des minéraux silicatés (Feldspaths, pyroxènes...). Pour un pyroxène calcique, cette réaction s’écrit :
 
 <div align=center>
 
