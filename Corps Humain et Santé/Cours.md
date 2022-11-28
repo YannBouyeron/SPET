@@ -236,7 +236,7 @@ Grâce aux enzymes de la matrice, le pyruvate est totalement oxydé : du dioxy
 
 Les coenzymes réduits (NADH + H<sup>+</sup>) formés au cours des étapes précédentes sont oxydés grâce à des molécules spécialisées de la membrane interne mitochondriale formant une chaîne respiratoire : il s’agit de transporteurs d’électrons qui assurent une série d’oxydoréductions à partir des composés réduits (NADH + H<sup>+</sup>), l’accepteur final étant le dioxygène. Il y' a régénération des coenzymes oxydés NAD<sup>+</sup> utilisés lors des étapes précédentes.
 
-L’énergie libérée au cours de ces réactions d’oxydoréduction sert à la synthèse d’ATP à partir d’ADP et Pi : il y a couplage énergétique. Ceci est possible car coexistent au sein de la membrane interne des mitochondries des enzymes catalysant les réactions d’oxydoréductions et des ATP synthases.
+L’énergie libérée au cours de ces réactions d’oxydoréduction sert à la synthèse d’ATP à partir d’ADP et Pi : il y a couplage énergétique. Ceci est possible car coexistent au sein de la [membrane interne](https://oversas.org/ipfs/QmcN3ENUwpZpX4JELQxU6uSAqjQWXwXS3v1kKTkfji29Et) des mitochondries des enzymes catalysant les réactions d’oxydoréductions et des ATP synthases.
 
 - Oxydation des coenzymes réduits (NADH + H<sup>+</sup>): 12 (NADH + H<sup>+</sup>) --> 12 NAD<sup>+</sup> + 24 H<sup>+</sup> + 24 e<sup>-</sup>
 - Réduction du di-oxygène: 6 O<sub>2</sub> + 24 H<sup>+</sup> + 24 e<sup>-</sup> --> 12 H<sub>2</sub>0
