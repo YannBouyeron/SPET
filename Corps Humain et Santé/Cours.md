@@ -263,7 +263,7 @@ La dégradation d‘une molécule de glucose par fermentation débute égale
 
 <p align=center>1 glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) + 2 NAD<sup>+</sup> + 2 ADP+ 2 Pi --> 2 pyruvates (CH<sub>3</sub> CO COOH ) + 2 (NADH + H<sup>+</sup>) + 2 ATP</p>
 
-En l'absence de dioxygène, le pyruvate est partiellement décarboxylé par fermentation lactique dans le cytoplasme:
+En l'absence de dioxygène, le pyruvate est  réduit lors de la fermentation lactique dans le cytoplasme:
 
 - Oxydation des composés réduits (NADH + H<sup>+</sup>) : 2 (NADH + H<sup>+</sup>) --> 2 NAD<sup>+</sup> + 4 H<sup>+</sup> + 4 e<sup>-</sup>
 
