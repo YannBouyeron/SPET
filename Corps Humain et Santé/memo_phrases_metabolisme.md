@@ -14,6 +14,6 @@ Le cycle de Krebs a lieu dans la matrice mitochondriale. C'est l'oxydation total
 
 Dans la membrane interne (de part et d'autre) mitochondriale, il y'a oxydation des 12 NADH+H<sup>+</sup> produits au cours de la glycolyse et du cycle de Krebs, couplée à la réduction de 6 O<sub>2</sub>, et à la phosphorylation de 32 ADP
 
-##### Fermentation lactique (en anaerobie)
+### Fermentation lactique (en anaerobie)
 
 Dans le cytoplasme, oxydation des 2 NADH+H<sup>+</sup> produits lors de la glycolyse, couplée à la réduction des 2 pyruvates produisant 2 acides lactiques CH<sub>3</sub> CHOH COOH
