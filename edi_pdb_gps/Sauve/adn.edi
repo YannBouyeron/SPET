@@ -1,0 +1,43 @@
+; Anagène - Fenêtre Edition
+; ADNbacterieEC.adn
+; Type 1
+; Dec  0
+;  ADN-bactÚrie-EC 
+; 
+AGCTTGCCTTGAG
+;-
+; ADNhumain1.adn
+; Type 1
+; Dec  0
+;  ADN-humain-1 
+; 
+TTTCCTAGACTTGCCCAATTA
+;-
+; ADNhumain2.adn
+; Type 1
+; Dec  0
+;  ADN-humain-2 
+; 
+GGGCGCCTATAAAAGGGG
+;-
+; ADNlevure.adn
+; Type 1
+; Dec  0
+;  ADN-levure 
+; 
+CGATTAATCG
+;-
+; ADNrat.adn
+; Type 1
+; Dec  0
+;  ADN-Rat 
+; 
+AGGCGTCG
+;-
+; ADNvirusherpes.adn
+; Type 1
+; Dec  0
+;  ADN-virusHerpes 
+; 
+GGGAAGCATATGCTTCCC
+;-

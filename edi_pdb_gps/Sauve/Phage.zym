@@ -1,0 +1,47 @@
+; Anagène - Enzymes
+; Phage.Zym
+:
+:                   LISTE D'ENZYMES DE RESTRICTION
+:
+:		format reconnu par : Anagène (ne pas modifier les premières lignes)
+:                                    SeqAid II
+:
+:
+:  Bases:   A,C,G,T, N= base quelconque, Y=pyrimidine,  R=purine, M=A ou C,
+:           K=G ou T, S=G ou C, W=A ou T, H=A, C ou T, B=G, T ou C,
+:           V=G, C ou A, D=G, A ou T.
+:
+:
+:  Lignes de commentaires : doivent commencer par un caractère non 
+:  alphabétique en première colonne.
+:
+:  Lignes de données : doivent commencer par un nombre entier 
+:  (le nombre de bases du site de reconnaissance).
+:
+:
+:  Entrer les enzymes dans l'ordre correspondant au nombre de bases du site 
+:  de reconnaissance. Pour chaque ligne, entrer dans l'ordre :
+:
+:     -  nombre de bases du site, 
+:     -  nom du site, 
+:     -  séquence reconnue, 
+:     -  décalage entre la première base de la séquence reconnue 
+:        et l'extrémité 5' de l'enzyme de restriction, 
+:     -  deuxième séquence reconnue (optionnelle) et décalage éventuel.
+:
+:  Noter que :
+:
+: - Aucune ligne ne doit dépasser 80 caractères. 
+: - Aucun site de reconnaissance ne doit dépasser 50 caractères.  
+: - Si aucun décalage n'est souhaité, lui attribuer néanmoins la valeur 0.
+: - La longueur du fichier ne doit pas dépasser 255 lignes de données,
+:   (lignes de commentaires exclues). 
+:
+:  Il est préférable de maintenir la liste des enzymes de restriction
+:  dans l'ordre correspondant au nombre de bases du site de reconnaissance
+:  figurant dans la première colonne, afin de les sélectionner plus facilement
+:  dans SeqAid II
+:  
+6,Eco RI,GAATTC,0
+6,Hind III,AAGCTT,0
+6,Xba I,TCTAGA,0 
