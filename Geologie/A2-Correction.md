@@ -45,7 +45,7 @@ On détermine les âges relatifs et absolus des zircons et du granite pour pouvo
 
 **Ce que j’attends:**
 
-- Si l’âge absolu du granite est infférieur à l’âge absolu des zircons alors l’hypothèse sera confirmée.
+- Si l’âge absolu du granite est inférieur à l’âge absolu des zircons alors l’hypothèse sera confirmée.
 
 <h2 class=center>Synthèse</h2>
 
