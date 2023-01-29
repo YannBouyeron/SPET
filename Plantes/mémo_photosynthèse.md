@@ -65,7 +65,7 @@ Les deux phases de la photosynthèse sont couplées:
 
 - L'utilisation de l'énergie chimique (hydrolyse de l'ATP et oxydation du NADPH+H<sup>+</sup>) lors de la phase non photochimique permet la régénération d'ADP + Pi et de NADP utilisés lors de la phase photochimique
 
-<p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p><p></br></p>
+<p></br></p>
 
 <h3 align=center>Bilan</h3>
 
@@ -84,6 +84,6 @@ C’est ainsi que le carbone minéral est intégré dans la matière organiq
 
 <p align=center><strong>6 CO<sub>2</sub> + 12 H<sub>2</sub>O → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> + 6 H<sub>2</sub>O</strong></p>
 
-<p></br></p><p></br></p><p></br></p>
+
 
 <a href="https://ipfs.io/ipfs/QmQvNKRiavrdJRUfBHuBpRtJzDFNCZ21zX67suCosv9eNn"><img src="https://ipfs.io/ipfs/QmQvNKRiavrdJRUfBHuBpRtJzDFNCZ21zX67suCosv9eNn"></a>
