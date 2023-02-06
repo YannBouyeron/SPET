@@ -137,7 +137,7 @@ Ces roches témoignent d’un épisode froid dans les Vosges au Pléistocène.
 
 L'étude des variations climatiques des 700 000 dernières années met en évidence une alternance de périodes glaciaires et inter-glaciaires. On dénombre 7 périodes glaciaires au cours des 700 000 dernières années; on observe ainsi une périodicité de 100 000 ans entre 2 maxima glaciaires. Au sein de ces périodes de 100 000 ans, on distingue des variations climatiques de moindre amplitude sur des périodes de 41.000, 23.000 et 19.000 ans.
 
-La teneur en CO2 atmosphérique et l'albédo amplifient les variations climatiques selon un mécanisme de rétroaction positive; ce qui devrait s'opposer à l'alternance de périodes glaciaires et interglaciaires observée au cours des 700 000 dernières années; il existerait donc un mécanisme initiateur des variations climatiques.
+La teneur en CO2 atmosphérique et [l'albédo](https://oversas.org/ipfs/Qmed3Q5fzhWpqQ6DocSkPTVroKXoEqRP5M97iNLRSUmUq8) amplifient les variations climatiques selon un mécanisme de rétroaction positive; ce qui devrait s'opposer à l'alternance de périodes glaciaires et interglaciaires observée au cours des 700 000 dernières années; il existerait donc un mécanisme initiateur des variations climatiques.
 
 <div align=center><a href="https://ipfs.io/ipfs/QmNVCxVFAAB6Gw33qhc3mRUpgCbx8bdUugPCs2vnH3LDQB"><img src="https://ipfs.io/ipfs/QmNVCxVFAAB6Gw33qhc3mRUpgCbx8bdUugPCs2vnH3LDQB" width=100%></a></div>
 
