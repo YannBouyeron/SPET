@@ -222,3 +222,5 @@ Ainsi pour 2 CO<sub>2</sub> prélevés dans l’atmosphère lors de l’altérat
 
 
 **L’orogénèse alpine et son altération ainsi que les modifications de la circulation océanique ont ainsi contribué au refroidissement du climat au Cénozoïque.**
+
+[Bilan Climats](https://oversas.org/ipfs/QmV94TRudryJAGUVGsUvYermqQhS2AFKKHzuauQt7xbYV6)

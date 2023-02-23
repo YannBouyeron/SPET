@@ -84,3 +84,6 @@ Malgré la forte activité magmatique liée aux dorsales océaniques et au LIPs,
 La tomographie sismique montre que un flux mantellique ascendant et chaud génère un déficit de densité sous la lithosphère, qui va entraîner une flottabilité plus importante de cette dernière. Ce phénomène est à l’origine de bombements de la lithosphère sur des distances de l’ordre du millier de kilomètre. À l’inverse, les flux descendants et froids génèrent des anomalies de densité positive qui entraînent une baisse de flottabilité de la lithosphère et induisent la mise en place de dépression de cette dernière sur de grandes distances. 
 
 En fonction de la localisation du flux (continent ou océan), l’effet sur le relief sera différent. Au crétacé  (100 Ma), lorsque l’Atlantique Sud s’est ouvert, le flux mantellique a diminué et le dôme lithosphérique mis en place au Jurassique (200 Ma) s’est affaissé au niveau de ces surfaces continentales ; le niveau relatif de la mer a donc augmenté contribuant ainsi aussi à la transgression marine.
+
+
+[Bilan Climats](https://oversas.org/ipfs/QmV94TRudryJAGUVGsUvYermqQhS2AFKKHzuauQt7xbYV6)
