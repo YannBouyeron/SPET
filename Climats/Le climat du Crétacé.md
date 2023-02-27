@@ -72,8 +72,8 @@ L’augmentation de l’activité des dorsales a donc induit une diminution de l
 ###### Impact de la géodynamique sur la concentration en CO<sub>2</sub> atmosphérique
 
 Au Crétacé, de très nombreuses provinces magmatiques ont été en éruption. L’archipel des Kerguelen est la partie émergée d’un LIP (larges provinces ignées) d’âge crétacé. La succession des couches de lave constituant les trapps datées du crétacé témoigne de l’activité magmatique intense.
- 
-Par extrapolation avec les données du Deccan, il est possible de déterminer les flux de CO<sub>2</sub> liés à ces LIPs au Crétacé intérieur et au Crétacé supérieur : 183,73  ́106 km3 au Crétacé inférieur et 46,61  ́106 km3 au Crétacé supérieur. 
+
+Par extrapolation avec les données du Deccan, il est possible de déterminer les flux de CO<sub>2</sub> liés à ces LIPs au Crétacé intérieur et au Crétacé supérieur : 183,73 x 10<sup>6</sup> km<sup>3</sup> au Crétacé inférieur et 46,61 x 10<sup>6</sup> km<sup>3</sup> au Crétacé supérieur. 
  
 Cela correspond à une masse de CO<sub>2</sub> émise de 103 501 millions de gigatonnes au Crétacé inférieur et 26 257 millions de gigatonnes au Crétacé supérieur, soit 2300 gigatonnes/an au Crétacé inférieur et 596 gigatonnes/an au Crétacé supérieur. Pour comparaison, en 2018, les activités humaines ont conduit au rejet de 37 gigatonnes dans l’atmosphère...
 
