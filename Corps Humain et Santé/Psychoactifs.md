@@ -14,7 +14,9 @@ Les substances psychoactives sont des analogues structurels des neurotransmetteu
 
 Ces substances peuvent être soit des agonistes fonctionnels (même effet que le neurotransmetteur endogène), soit des antagonistes fonctionnels (effet opposé à celui du neurotransmetteur endogène, ou plus exactement elles empêchent l’interaction entre le neurotransmetteur endogène et son récepteur post synaptique ce qui empêche l’action du neurotransmetteur malgré sa présence dans la fente synaptique, conduisant ainsi à l’effet inverse)
 
+<div align=center>
 <img src="https://oversas.org/ipfs/QmQcz1QorxJM64sEqrXRHH3YX4B5WzfiTDKqkw14SArGRw" width=60%>
+</div>
 
 **La nicotine** est un analogue structurel et un agoniste fonctionnel de l’acetylcholine. Elle peut se fixer sur les récepteurs à l’acétylcholine des neurones dopaminergiques du système de la récompense et  stimuler ces neurones (malgré l’absence d’acetylcholine), ce qui conduit à la libération de dopamine et donc à la sensation de plaisir.
 
