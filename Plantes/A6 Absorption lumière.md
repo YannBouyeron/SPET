@@ -20,7 +20,7 @@ Le CO<sub>2</sub> atmosphérique pénètre dans les cellules foliaires par l’i
 
 - Exploiter les résultats de l’expérience d’Engelmann (document 4) pour déterminer le spectre d’action de la lumière sur la photosynthèse (les longueurs d’ondes de la lumière pour lesquelles la photosynthèse est effective)
 
-- Conclure quant aux rôles des pigments dans l’absorption lumineuse nécessaire à la photosynthèse et discuter de l’importance de leur diversité ([Document 4 page 223](https://ipfs.io/ipfs/QmfEHdqoU4PDxdQACkh3zyLA3TnxusjChyfU1va3LpyGnf))
+- Conclure quant aux rôles des pigments dans l’absorption lumineuse nécessaire à la photosynthèse et discuter de l’importance de leur diversité ([Document 4 page 223](https://oversas.org/ipfs/QmfEHdqoU4PDxdQACkh3zyLA3TnxusjChyfU1va3LpyGnf))
 
 
 Matériel:
@@ -38,7 +38,7 @@ Matériel:
 
 ### Document 1: Electronographie d'un chloroplaste
 
-<div align=center><a heref="https://ipfs.io/ipfs/QmR3wXTLVdure4en8AqKVE2YJdgUW3TjvaNaw4Ae8MPJYM"><img src="https://ipfs.io/ipfs/QmR3wXTLVdure4en8AqKVE2YJdgUW3TjvaNaw4Ae8MPJYM" width=60%></a></div>
+<div align=center><a heref="https://oversas.org/ipfs/QmR3wXTLVdure4en8AqKVE2YJdgUW3TjvaNaw4Ae8MPJYM"><img src="https://oversas.org/ipfs/QmR3wXTLVdure4en8AqKVE2YJdgUW3TjvaNaw4Ae8MPJYM" width=60%></a></div>
 
 ### Document 2: Protocole de la séparation des pigments d'une feuille verte par chromatographie.
 
