@@ -89,5 +89,5 @@ Une préparation microscopique, réalisée en plaçant une algue verte filamente
 
 Des bactéries mobiles, recherchant le dioxygène, sont alors ajoutées dans la préparation. Le schéma ci-dessous présente la répartition des bactéries après quelques minutes.
 
-<div align=center><a heref="https://ipfs.io/ipfs/QmeozQMcb7iWi1Z5V3VmYX6WWYkqsvbnT3facdBXGs2EFP"><img src="https://ipfs.io/ipfs/QmeozQMcb7iWi1Z5V3VmYX6WWYkqsvbnT3facdBXGs2EFP" width=60%></a></div>
+<div align=center><a heref="https://oversas.org/ipfs/QmeozQMcb7iWi1Z5V3VmYX6WWYkqsvbnT3facdBXGs2EFP"><img src="https://oversas.org/ipfs/QmeozQMcb7iWi1Z5V3VmYX6WWYkqsvbnT3facdBXGs2EFP" width=60%></a></div>
 
