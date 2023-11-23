@@ -152,7 +152,7 @@ La plasticité du cortex existe ou non tout au long de la vie de l'individu, ma
 
 Un muscle est un assemblage de fibres musculaires. Chaque fibre musculaire est une cellule géante (syncytium), de plusieurs centimètres de long. Chaque fibre musculaire renferme un grand nombre de myofibrilles chacune formées d'une succession de sarcomères. Chaque sarcomère est un assemblage de deux types de filaments de nature protéique: les filaments fins d'actine, et les filaments épais de myosine. Le raccourcissement coordonné des sarcomères induit la contraction des myofibrilles, et donc du muscle.
 
-<div align=center><a href="https://ipfs.io/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ"><img src="https://ipfs.io/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ" width=90% title="PA"></a></div>
+<div align=center><a href="https://ipfs.io/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ"><img src="https://oversas.org/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ" width=90% title="PA"></a></div>
 
 
 Lors de la contraction musculaire, les sarcomères raccourcissent; le raccourcissement [s'observe](https://ipfs.io/ipfs/QmWhaND8ingA5gatNQ75GGib6VpbVTvQ6TQ9cyaXseYHt5) uniquement au niveau des bandes claires (bandes I) et au niveau de la bande H. La bande sombre (bande A) conserve la même longueur.
