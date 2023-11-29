@@ -22,7 +22,7 @@ Le circuit nerveux du réflexe myotatique fait intervenir successivement :
 
 Les expériences de section montrent que le message sensitif issu d'un muscle étiré passe par le nerf puis par la racine dorsale avant d'atteindre la moelle épinière. Le message moteur est conduit de la moelle épinière vers le muscle en passant par la racine ventrale puis par le nerf rachidien. Ce circuit est appelé arc réflexe.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"><img src="https://ipfs.io/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"><img src="https://oversas.org/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"></a></div>
 
 ### II Les neurones de l'arc réflexe.
 
