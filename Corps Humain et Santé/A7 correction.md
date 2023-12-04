@@ -27,7 +27,7 @@ L' activité physique nécessite une production d'énergie par les muscles et
 
 On cherche à tester l'hypothèse selon laquelle le foie et les muscles seraient capables de stocker du glucose.
 
-[L’expérience](https://ipfs.io/ipfs/QmTdxhk6strFbDgmo1b7fnnJA9jS6CDU7LU4eMViBBLXAC) montre que le test a l'eau iodée réalisé sur le filtrat de foie présente la même coloration marron que le témoin 3 (eau iodé plus glycogène), le glycogène est un polymère de glucose; on en déduit que le foie stocke du glucose sous forme de glycogène.
+[L’expérience](https://oversas.org/ipfs/QmTdxhk6strFbDgmo1b7fnnJA9jS6CDU7LU4eMViBBLXAC) montre que le test a l'eau iodée réalisé sur le filtrat de foie présente la même coloration marron que le témoin 3 (eau iodé plus glycogène), le glycogène est un polymère de glucose; on en déduit que le foie stocke du glucose sous forme de glycogène.
 
 Un test à l'eau iodée réalisé sur le filtrat de muscle présente la même coloration marron caractéristique de la présence de glycogène; on en déduit que le muscle stocke du glucose sous forme de glycogène.
 
@@ -51,4 +51,4 @@ En cas de jeûne ou lorsque les cellules ont des besoins accrus en énergie et
 
 Quand le glycogène hépatique est épuisé, certaines cellules activent ou synthétisent les enzymes de la néoglucogenèse: du glucose est produit à partir des lipides (acides gras et glycérol du tissu adipeux par lipolyse), des acides aminés (issus des protéines musculaires) et de l’acide lactique issu des hématies et des muscles. A jeun, 25% du glucose est produit par cette voie.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmQnaHudKDJRJxxSuPYgZnnkApiCubp9TxjsQaoFNgWnKF"><img src="https://ipfs.io/ipfs/QmQnaHudKDJRJxxSuPYgZnnkApiCubp9TxjsQaoFNgWnKF"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmQnaHudKDJRJxxSuPYgZnnkApiCubp9TxjsQaoFNgWnKF"><img src="https://oversas.org/ipfs/QmQnaHudKDJRJxxSuPYgZnnkApiCubp9TxjsQaoFNgWnKF"></a></div>
