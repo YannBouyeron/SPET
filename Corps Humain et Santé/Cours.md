@@ -32,7 +32,7 @@ La communication nerveuse repose sur des réseaux de cellules nerveuses ou neur
 
 - l’axone qui conduit le message nerveux du corps cellulaire jusqu'à la terminaison synaptique.
 
-<div align=center><a href="https://ipfs.io/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs"><img src="https://ipfs.io/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs" width=100%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs"><img src="https://oversas.org/ipfs/Qme8Wn9KiNub2rYPwEEfF3FiwFQ85pfgWyA6vEmqFqN4Qs" width=100%></a></div>
 
 Deux types de neurones interviennent successivement au cours du réflexe myotatique : les neurones afférents, ou sensitifs, et les neurones efférents ou neurones moteurs (aussi appelés moto-neurones).
 
@@ -52,7 +52,7 @@ La différence de potentiel entre le cytoplasme et la face externe de la membra
 Lorsque le neurone est stimulé, le potentiel de membrane peut varier transitoirement. Cette variation est appelée potentiel d’action. Le potentiel d’action n’est observé que si l’intensité de la stimulation du neurone dépasse une valeur seuil. Au-delà de cette valeur, le potentiel d’action conserve toujours les mêmes caractéristiques (loi du tout ou rien).
 
 <p align=center><strong>Enregistrement de l’activité électrique d’un potentiel d’action.</strong></p>
-<div align=center><a href="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2"><img src="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2" width=40% title="PA"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2"><img src="https://oversas.org/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2" width=40% title="PA"></a></div>
 
 La stimulation d’un neurone au-delà de la valeur seuil induit l’émission d’une succession (ou train) de potentiels d’action dont la fréquence est proportionnelle à l’intensité de la stimulation. Ce train de potentiels d’action se propage le long de l’axone vers les terminaisons synaptiques. Il constitue le message nerveux. Celui-ci est donc codé électriquement en fréquence de potentiels d’action.
 
@@ -144,7 +144,7 @@ L'activité du cortex moteur peut être modifiée dans différentes situatio
 La plasticité du cortex existe ou non tout au long de la vie de l'individu, mais les capacités de remaniements se réduisent avec l'âge. Les capacités de remaniements du cerveau sont en relation avec le comportement de chaque individu: avoir un comportement responsable en matière de santé permet de maintenir son capital nerveux.
 
 
-[Diaporama Réflexes - Mouvements volontaires](https://ipfs.io/ipfs/QmVvidCbrvqK2azHSgW51VUK62N4BtBCd7LiyQUXpHee4g)
+[Diaporama Réflexes - Mouvements volontaires](https://oversas.org/ipfs/QmVvidCbrvqK2azHSgW51VUK62N4BtBCd7LiyQUXpHee4g)
 
 ## Chapitre 3: Le fonctionnement des cellules musculaires
 
@@ -152,19 +152,19 @@ La plasticité du cortex existe ou non tout au long de la vie de l'individu, ma
 
 Un muscle est un assemblage de fibres musculaires. Chaque fibre musculaire est une cellule géante (syncytium), de plusieurs centimètres de long. Chaque fibre musculaire renferme un grand nombre de myofibrilles chacune formées d'une succession de sarcomères. Chaque sarcomère est un assemblage de deux types de filaments de nature protéique: les filaments fins d'actine, et les filaments épais de myosine. Le raccourcissement coordonné des sarcomères induit la contraction des myofibrilles, et donc du muscle.
 
-<div align=center><a href="https://ipfs.io/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ"><img src="https://oversas.org/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ" width=90% title="PA"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ"><img src="https://oversas.org/ipfs/Qme6hwvNjgBYorJNvUA1T5PEjnEWTfVxkzwh1XpubEGPcZ" width=90% title="PA"></a></div>
 
 
-Lors de la contraction musculaire, les sarcomères raccourcissent; le raccourcissement [s'observe](https://ipfs.io/ipfs/QmWhaND8ingA5gatNQ75GGib6VpbVTvQ6TQ9cyaXseYHt5) uniquement au niveau des bandes claires (bandes I) et au niveau de la bande H. La bande sombre (bande A) conserve la même longueur.
+Lors de la contraction musculaire, les sarcomères raccourcissent; le raccourcissement [s'observe](https://oversas.org/ipfs/QmWhaND8ingA5gatNQ75GGib6VpbVTvQ6TQ9cyaXseYHt5) uniquement au niveau des bandes claires (bandes I) et au niveau de la bande H. La bande sombre (bande A) conserve la même longueur.
 
 Le raccourcissement des sarcomères correspond à un coulissage relatif des filaments d'actine le long des filaments de myosine; chaque type de filament conserve la même longueur, mais le rapprochement relatif des filaments d'actine au niveau de la bande H induit un raccourcissement du sarcomère.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmcWBee1woVp8zcfFo9h6ZHcCJHZ3MnMECijaGQ3NVMdQA"><img src="https://ipfs.io/ipfs/QmcWBee1woVp8zcfFo9h6ZHcCJHZ3MnMECijaGQ3NVMdQA" width=90% title="PA"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmcWBee1woVp8zcfFo9h6ZHcCJHZ3MnMECijaGQ3NVMdQA"><img src="https://oversas.org/ipfs/QmcWBee1woVp8zcfFo9h6ZHcCJHZ3MnMECijaGQ3NVMdQA" width=90% title="PA"></a></div>
 
 
 ### II La contraction musculaire nécessite de l'ATP et du Ca<sup>2+</sup>
 
-Les filaments épais de myosine possèdent des extrémités globuleuses: les [têtes de myosine](https://ipfs.io/ipfs/QmXPWSGBq9b98xNyC1tPBkhCVSsJs5g9mr1ZpPSGgGVryV) qui peuvent se fixer ou se détacher des filaments fins d'actine. 
+Les filaments épais de myosine possèdent des extrémités globuleuses: les [têtes de myosine](https://oversas.org/ipfs/QmXPWSGBq9b98xNyC1tPBkhCVSsJs5g9mr1ZpPSGgGVryV) qui peuvent se fixer ou se détacher des filaments fins d'actine. 
 
 Les cycles successifs d'attachement - détachement actine / myosine provoquent le glissement des filaments à l'origine du raccourcissement du sarcomère et de la myofibrille. Le raccourcissement coordonné des différentes myofibrilles et des différentes fibres musculaires permet la contraction du muscle et le mouvement.
 
@@ -182,7 +182,7 @@ Le raccourcissement des sarcomères nécessite donc de l'ATP et du Ca<sup>2+</
 
 - La libération de l'ADP + Pi induit le pivotement de la tête de myosine ce qui entraîne le glissement du filament d'actine par rapport au filament de myosine vers le centre du sarcomère.
 
-<div align=center><a href="https://ipfs.io/ipfs/Qmai2CqzS2pEJevdgsa6jAea1MrB2J5gsVeedjnXBCKfz3"><img src="https://ipfs.io/ipfs/Qmai2CqzS2pEJevdgsa6jAea1MrB2J5gsVeedjnXBCKfz3" width=70% title="PA"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/Qmai2CqzS2pEJevdgsa6jAea1MrB2J5gsVeedjnXBCKfz3"><img src="https://oversas.org/ipfs/Qmai2CqzS2pEJevdgsa6jAea1MrB2J5gsVeedjnXBCKfz3" width=70% title="PA"></a></div>
 
 Le détachement induit par la fixation de l'ATP sur la tête de myosine est nécessaire à la poursuite du cycle et donc à la contraction musculaire; mais il est aussi nécessaire à la décontraction musculaire, ce qui explique la rigidité cadavérique (en l'absence d'ATP le muscle ne peut se contracter davantage, et il ne peut pas non plus se décontracter)
 
@@ -193,11 +193,11 @@ Le sarcomère est donc l'unité contractile et structurale du muscle strié. 
 
 ### III L’origine de l’ATP dans la cellule musculaire.
 
-L’ATP est nécessaire à la contraction musculaire (et à l’ensemble des réactions métaboliques endergoniques). Les réserves d’ATP à un instant donné ne permettent que 2 secondes d’éfforts musculaires. On [observe](https://ipfs.io/ipfs/QmcExU9k6Bjy73Fn3Ri9RDtCKfLR8La49dcCkKUmwqiGhi) cependant que le stock d’ATP est constant dans les muscles contrairement au stock de glycogène (polymère de glucose) qui diminue après un effort, ce qui suggère que l’utilisation (oxydation) du glucose permettrait une production et donc un renouvellement constant de l’ATP.
+L’ATP est nécessaire à la contraction musculaire (et à l’ensemble des réactions métaboliques endergoniques). Les réserves d’ATP à un instant donné ne permettent que 2 secondes d’éfforts musculaires. On [observe](https://oversas.org/ipfs/QmcExU9k6Bjy73Fn3Ri9RDtCKfLR8La49dcCkKUmwqiGhi) cependant que le stock d’ATP est constant dans les muscles contrairement au stock de glycogène (polymère de glucose) qui diminue après un effort, ce qui suggère que l’utilisation (oxydation) du glucose permettrait une production et donc un renouvellement constant de l’ATP.
 
 ##### A: La glycolyse: oxydation incomplète du glucose dans le cytoplasme.
 
-La [glycolyse](https://ipfs.io/ipfs/QmTQta7PTrtbctYPjZGv62QLepjFxwmuvm2LjFGr2MbGHJ) est une oxydation incomplète du glucose en pyruvate. Elle a lieu dans le cytoplasme, et elle aboutit à la production de deux molécules de pyruvates à partir d’une molécule de glucose. 
+La [glycolyse](https://oversas.org/ipfs/QmTQta7PTrtbctYPjZGv62QLepjFxwmuvm2LjFGr2MbGHJ) est une oxydation incomplète du glucose en pyruvate. Elle a lieu dans le cytoplasme, et elle aboutit à la production de deux molécules de pyruvates à partir d’une molécule de glucose. 
 
 Cette réaction est une déshydrogénation et correspond à une oxydoréduction : le glucose est oxydé tandis qu’un coenzyme NAD<sup>+</sup> (proche des composés R impliqués dans la photosynthèse) est réduit en (NADH + H<sup>+</sup>). Cette oxydoréduction libère de l’énergie permettant la synthèse d’ATP (phosphorylation de l’ADP) par couplage des réactions.
 
@@ -218,10 +218,10 @@ Des mitochondries isolées ne consomment pas de O<sub>2</sub> lorsqu'elles sont
 La mitochondrie est un organite cellulaire clos de quelques micromètres de long sur 0,5 à 1 μm de diamètre. Les mitochondries sont limitées par une double membrane (enveloppe) qui délimite un espace interne: la matrice, isolée du cytoplasme. La membrane interne émet de nombreux replis transversaux dans la matrice, appelés crêtes mitochondriales.
 
 
-<div align=center><a href="https://ipfs.io/ipfs/Qma6QaDajJMsZEJyjHBZTSogKJCVbwrDCBMARK5UN78qGg"><img src="https://ipfs.io/ipfs/Qma6QaDajJMsZEJyjHBZTSogKJCVbwrDCBMARK5UN78qGg" width=70% title="PA"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/Qma6QaDajJMsZEJyjHBZTSogKJCVbwrDCBMARK5UN78qGg"><img src="https://oversas.org/ipfs/Qma6QaDajJMsZEJyjHBZTSogKJCVbwrDCBMARK5UN78qGg" width=70% title="PA"></a></div>
 
 
-**Le cycle de [Krebs](https://ipfs.io/ipfs/QmQKR8w9X3qSAA51pybrk4Azj6FBPnVuX8jEnruKAAmytD): oxydation complète du pyruvate dans la matrice des mitochondries:**
+**Le cycle de [Krebs](https://oversas.org/ipfs/QmQKR8w9X3qSAA51pybrk4Azj6FBPnVuX8jEnruKAAmytD): oxydation complète du pyruvate dans la matrice des mitochondries:**
 
 Grâce aux enzymes de la matrice, le pyruvate est totalement oxydé : du dioxyde de carbone est libéré et des composés NAD<sup>+</sup> sont réduits en (NADH + H<sup>+</sup>). Cette oxydoréduction libère de l’énergie permettant la synthèse d’ATP (phosphorylation de l’ADP) par couplage des réactions.
 
@@ -244,9 +244,9 @@ L’énergie libérée au cours de ces réactions d’oxydoréduction sert 
 
 <p align=center><strong>Bilan: 12 (NADH + H<sup>+</sup>) + 6 O<sub>2</sub> + 32 ADP + 32 Pi --> 12 NAD<sup>+</sup> + 12 H<sub>2</sub>O + 32 ATP</strong></p>
 
-**[Bilan](https://ipfs.io/ipfs/Qmah81kwW7dNhpK2FsQwjzcNSvfBLuwjHqWjmbBj4mkGQT) de la dégradation du glucose par respiration:**
+**[Bilan](https://oversas.org/ipfs/Qmah81kwW7dNhpK2FsQwjzcNSvfBLuwjHqWjmbBj4mkGQT) de la dégradation du glucose par respiration:**
 
-<div align=center><a href="https://ipfs.io/ipfs/QmbU5y1hMWiMWRiLeLsW9fAYpKxmkWAxZh2vPUCbo7HoX2"><img src="https://ipfs.io/ipfs/QmbU5y1hMWiMWRiLeLsW9fAYpKxmkWAxZh2vPUCbo7HoX2" width=70% title="PA"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmbU5y1hMWiMWRiLeLsW9fAYpKxmkWAxZh2vPUCbo7HoX2"><img src="https://oversas.org/ipfs/QmbU5y1hMWiMWRiLeLsW9fAYpKxmkWAxZh2vPUCbo7HoX2" width=70% title="PA"></a></div>
 
 <p></br></p>
 
@@ -273,7 +273,7 @@ En l'absence de dioxygène, le pyruvate est  réduit lors de la fermentation la
 
 
 
->Il existe un autre type de fermentation: la [fermentation éthylique](https://ipfs.io/ipfs/QmT26qn51Pzg4X6FQBA9UBisaKTWyg8N6BHujk4RaHqvWF) (non réalisée par les cellules musculaires)
+>Il existe un autre type de fermentation: la [fermentation éthylique](https://oversas.org/ipfs/QmT26qn51Pzg4X6FQBA9UBisaKTWyg8N6BHujk4RaHqvWF) (non réalisée par les cellules musculaires)
 
 La fermentation ne produit pas d'ATP supplémentaires mais permet de régénérer des coenzymes NAD<sup>+</sup> oxydés indispensables à la continuité de la glycolyse qui constitue alors la seule source d'ATP pour les cellules musculaires en anaérobie.
 
@@ -384,7 +384,7 @@ L’activité biologique des hormones cesse avec leur disparition. En effet, com
 
 ### Schéma bilan de la régulation de la glycémie
 
-<div align=center><a href="https://ipfs.io/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"><img src="https://ipfs.io/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"><img src="https://oversas.org/ipfs/QmWsQqN98Zmf3bPXxfk7sEyAm1XQdocGprVZTLbAShheGD"></a></div>
 
 ### IV: Les diabètes.
 
