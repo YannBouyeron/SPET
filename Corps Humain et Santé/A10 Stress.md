@@ -93,4 +93,4 @@ Les cellules du complexe hypothalamo-hypophysaire possèdent des récepteurs au 
 
 On en déduit que le cortisol exerce un retrocontrole négatif sur le NPV et sur les cellules adrénocorticotropes de l’hypophyse, provoquant une diminution de la sécrétion d’adrénaline, de CRH, d’ACTH, et de cortisol, ce qui permet une sortie de l’état de stress aigu.
 
-<img src = "https://ipfs.io/ipfs/QmbjTYT6YyjqmnQfNund9Pp1QriBjM8kd1NeTwibAmi1gg">
+<img src = "https://oversas.org/ipfs/QmbjTYT6YyjqmnQfNund9Pp1QriBjM8kd1NeTwibAmi1gg">
