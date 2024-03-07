@@ -24,9 +24,9 @@ La **différenciation** est l’acquisition de nouveaux caractères en relation 
 
 ##### Le développement racinaire.
 
-L’expérience de [Sachs](https://ipfs.io/ipfs/Qmaz27rfQ2MvXt1UWUvrgS6kmvUEpJozz5MPTZHjraGG4B) montre que la croissance de la racine est maximale au niveau des segments 6-7-8, c’est à dire vers l’apex (extremité) de la racine.
+L’expérience de [Sachs](https://oversas.org/ipfs/Qmaz27rfQ2MvXt1UWUvrgS6kmvUEpJozz5MPTZHjraGG4B) montre que la croissance de la racine est maximale au niveau des segments 6-7-8, c’est à dire vers l’apex (extremité) de la racine.
 
-La coupe longitudinale de [l’apex racinaire](https://ipfs.io/ipfs/QmYS13vKjCocpBJcqPiYTk641yWnENXgZsMh11pC3jy8TB) met en évidence 3 zones:
+La coupe longitudinale de [l’apex racinaire](https://oversas.org/ipfs/QmYS13vKjCocpBJcqPiYTk641yWnENXgZsMh11pC3jy8TB) met en évidence 3 zones:
 
 - Le méristème, constitué de cellules méristématiques (indifférenciées) carrées et au rapport nucléocytoplasmique élevé, subissant des divisions par mitoses à l’origine d’une croissance par mérèse. *(Le méristème est protégé par une coiffe)*
 
@@ -38,19 +38,19 @@ La coupe longitudinale de [l’apex racinaire](https://ipfs.io/ipfs/QmYS13vKjCoc
 
 ##### Le développement caulinaire.
 
-L’appareil végétatif aérien des plantes est organisé en unités répétitives : les [phytomères](https://ipfs.io/ipfs/QmYkHwwkKwDrk1Qehw3N5khH3GFw9WwTVw87hWjeQJM9Ru) chacun constitué d’un noeud, d’un entre noeud, d’un bourgeon axillaire, et d’une feuille.
+L’appareil végétatif aérien des plantes est organisé en unités répétitives : les [phytomères](https://oversas.org/ipfs/QmYkHwwkKwDrk1Qehw3N5khH3GFw9WwTVw87hWjeQJM9Ru) chacun constitué d’un noeud, d’un entre noeud, d’un bourgeon axillaire, et d’une feuille.
 
-La mise en place des nouveaux phytomères a lieu au niveau des méristèmes caulianires apicaux et axillaires. La [coupe longitudinale d’un bourgeon apical](https://ipfs.io/ipfs/QmeuHn6wTrYnMWXLoJZyECDaYKSDi2a2supYh7GGUuwby9) révèle la présence de cellules en division (mitose) ainsi que leur différenciation en cellules spécialisées constitutives des tissus et organes (feuilles) mis en place.
+La mise en place des nouveaux phytomères a lieu au niveau des méristèmes caulianires apicaux et axillaires. La [coupe longitudinale d’un bourgeon apical](https://oversas.org/ipfs/QmeuHn6wTrYnMWXLoJZyECDaYKSDi2a2supYh7GGUuwby9) révèle la présence de cellules en division (mitose) ainsi que leur différenciation en cellules spécialisées constitutives des tissus et organes (feuilles) mis en place.
 
 *Les méristèmes caulinaires ont un rôle histogène et organogène. Ils peuvent par ailleurs avoir un fonctionnement végétatif (mise en place de phytomères) ou reproductif (mise en place de fleurs et fruits)*
 
-La coupe longitudinale d’un [bourgeon de marronnier](https://ipfs.io/ipfs/QmNcwyWsWuDQTgM4NHBAdoSPenumnG4xSbuW45XUZpcDfe) montre que les organes du futur rameau sont déjà mis en place dans le bourgeon. Il y’a donc une séparation temporelle entre la différenciation des tissus et organes lors de la formation des bourgeons à l’automne, et la croissance qui débute à partir du débourrage des bourgeons au printemps. 
+La coupe longitudinale d’un [bourgeon de marronnier](https://oversas.org/ipfs/QmNcwyWsWuDQTgM4NHBAdoSPenumnG4xSbuW45XUZpcDfe) montre que les organes du futur rameau sont déjà mis en place dans le bourgeon. Il y’a donc une séparation temporelle entre la différenciation des tissus et organes lors de la formation des bourgeons à l’automne, et la croissance qui débute à partir du débourrage des bourgeons au printemps. 
 
 <p></br></p>
 
 <p align=center><strong>Localisation des méristèmes caulinaires et racinaires</strong></p>
 
-<div align=center><a href="https://ipfs.io/ipfs/Qmb2SgNWeE5Ymt5ooSxjtk1tkoQVXBeEaUqZHofTpaMbVN"><img src="https://ipfs.io/ipfs/Qmb2SgNWeE5Ymt5ooSxjtk1tkoQVXBeEaUqZHofTpaMbVN" width=40%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/Qmb2SgNWeE5Ymt5ooSxjtk1tkoQVXBeEaUqZHofTpaMbVN"><img src="https://oversas.org/ipfs/Qmb2SgNWeE5Ymt5ooSxjtk1tkoQVXBeEaUqZHofTpaMbVN" width=40%></a></div>
 
 
 
@@ -58,14 +58,14 @@ La coupe longitudinale d’un [bourgeon de marronnier](https://ipfs.io/ipfs/QmNc
 
 En milieu naturel, les facteurs de l’environnement fluctuent. Ainsi, la répartition de la lumière dans l’espace n’est jamais homogène: la lumière est un facteur anisotrope. Les facteurs anisotropes du milieu modèlent la forme et donc le phénotype des végétaux en agissant sur leur développement. Les organes aériens des végétaux verts présentent une croissance orientée vers la lumière: c’est le phototropisme positif. 
 
-###### Les expériences de [Darwin](https://ipfs.io/ipfs/QmSshJ2wW95Si5bv7kBe5bAEiKvXidYAbRgrrPCidLvZxj) montrent que:
+###### Les expériences de [Darwin](https://oversas.org/ipfs/QmSshJ2wW95Si5bv7kBe5bAEiKvXidYAbRgrrPCidLvZxj) montrent que:
 
 - L’éclairement anisotrope induit la courbure du coléoptile uniquement lorsque l’apex du coléoptile est exposé à la lumière et ce peu importe que le base du coléoptile soit ou ne soit pas exposée.
 
 - **On en déduit que c’est l’apex du coléoptile qui est sensible à l’orientation du flux lumineux.**
 
 
-###### Les expériences de [Boysen](https://ipfs.io/ipfs/QmSshJ2wW95Si5bv7kBe5bAEiKvXidYAbRgrrPCidLvZxj) montrent que:
+###### Les expériences de [Boysen](https://oversas.org/ipfs/QmSshJ2wW95Si5bv7kBe5bAEiKvXidYAbRgrrPCidLvZxj) montrent que:
 
 - Le coléoptile se courbe (présente une croissance orientée) vers la lumière lorsqu’une lamelle de gélose hydrophile est intercalée entre l’apex et la base.
 
@@ -81,7 +81,7 @@ En milieu naturel, les facteurs de l’environnement fluctuent. Ainsi, la répar
 - **On en déduit que la perception de l’orientation de la lumière par l’apex induirait la production par l’apex d’une molécule hydrophile dont la diffusion non uniforme (plus abondante sur la face non éclairée) vers la base induirait la courbure (croissance orientée) du coléoptile.**
 
 
-###### Les expériences de [Soding](https://ipfs.io/ipfs/QmQAcEmnrn6uLeWhny3HnYpnPH86RwEYR471iRBEgcdPQb) montrent que:
+###### Les expériences de [Soding](https://oversas.org/ipfs/QmQAcEmnrn6uLeWhny3HnYpnPH86RwEYR471iRBEgcdPQb) montrent que:
 
 - La croissance du coléoptile est possible quand l’apex est en place ou en contacte directe avec la base, mais n’est pas possible en l’absence d’apex. **L’apex stimule la croissance du coléoptile.**
 
@@ -94,7 +94,7 @@ En milieu naturel, les facteurs de l’environnement fluctuent. Ainsi, la répar
 - **On en déduit que l’apex stimule la croissance du coléoptile en agissant à distance sur la base du coléoptile via un messager chimique hydrophile.**
 
 
-###### Les [mesures](https://ipfs.io/ipfs/QmUgURKgd6iXkUnWk9kmmztbWKheRqNoaKePPeY2mzgmRs) de croissance des faces d’un coléoptile en éclairement anisotrope montrent que:
+###### Les [mesures](https://oversas.org/ipfs/QmUgURKgd6iXkUnWk9kmmztbWKheRqNoaKePPeY2mzgmRs) de croissance des faces d’un coléoptile en éclairement anisotrope montrent que:
 
 - Le témoin en éclairement isotrope a une croissance uniforme des deux faces.
 
