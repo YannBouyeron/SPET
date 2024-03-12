@@ -100,7 +100,7 @@ En milieu naturel, les facteurs de l’environnement fluctuent. Ainsi, la répar
 
 - Le coléoptile en éclairement anisotrope a une croissance beaucoup plus forte de la face non éclairée par rapport à la face éclairée (et par rapport au témoin).
 
-- **La diffusion non uniforme du messager chimique hydrophile (plus abondant sur la face non éclairée) induirait une croissance non uniforme des 2 faces (plus forte sur la face éclairée) ce qui provoquerait la courbure (croissance orientée) du coléoptile.**
+- **La diffusion non uniforme du messager chimique hydrophile (plus abondant sur la face non éclairée) induirait une croissance non uniforme des 2 faces (plus forte sur la face non éclairée) ce qui provoquerait la courbure (croissance orientée) du coléoptile.**
 
 ###### L’auxine: une phytohormone.
 
