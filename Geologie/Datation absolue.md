@@ -25,7 +25,7 @@ Alors **P = P0 e<sup>-λt</sup>**
 
 Soit **t = [ ln (Po / P) ] / λ** 
 
-<div align=center><a href="https://ipfs.io/ipfs/QmfCdjc87w9VfbqY562VKnLqbCsHRNR4szYXFEA5yepmGM"><img src="https://ipfs.io/ipfs/QmfCdjc87w9VfbqY562VKnLqbCsHRNR4szYXFEA5yepmGM" width=60%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmfCdjc87w9VfbqY562VKnLqbCsHRNR4szYXFEA5yepmGM"><img src="https:/oversas.org/ipfs/QmfCdjc87w9VfbqY562VKnLqbCsHRNR4szYXFEA5yepmGM" width=60%></a></div>
 
 D’autre part **F = Fo + (P0 – P)** 
 
@@ -107,13 +107,13 @@ Pour surmonter cette difficulté, il faut des mesures provenant d'au moins deux
 
 <p>À t0, les minéraux possèdent des rapports <sup>87</sup>Rb/<sup>86</sup>Sr différents les uns des autres car ils possèdent chacun une affinité différente pour Rb et Sr.</p></td>
 
-<td><a href="https://ipfs.io/ipfs/QmbmH5khG67P8xQuS5BQZ7tLdcZJnwkUzE4jonCTrHtiXz"><img src="https://ipfs.io/ipfs/QmbmH5khG67P8xQuS5BQZ7tLdcZJnwkUzE4jonCTrHtiXz" alt="" width=4500></a></td></tr>
+<td><a href="https://oversas.org/ipfs/QmbmH5khG67P8xQuS5BQZ7tLdcZJnwkUzE4jonCTrHtiXz"><img src="https://oversas.org/ipfs/QmbmH5khG67P8xQuS5BQZ7tLdcZJnwkUzE4jonCTrHtiXz" alt="" width=4500></a></td></tr>
 
 
 
 <tr><td>Au cours du temps, <sup>87</sup>Rb étant radioactif, il se désintègre en <sup>87</sup>Sr; donc la quantité de <sup>87</sup>Rb diminue tandis que la quantité de <sup>87</sup>Sr augmente. Le <sup>86</sup>Sr n'étant ni radioactif ni radiogénique, sa quantité reste constante: <sup>86</sup>Sr0 = <sup>86</sup>Sr actuel. Ainsi le rapport <sup>87</sup>Rb/<sup>86</sup>Sr diminue tandis que le rapport <sup>87</sup>Sr/<sup>86</sup>Sr augmente.</td>
 
-<td><a href="https://ipfs.io/ipfs/Qmb2ksUinB8nZsdJeMZ9yRvXAjUyfRW9MfdCEYi6gTyzXf"><img src="https://ipfs.io/ipfs/Qmb2ksUinB8nZsdJeMZ9yRvXAjUyfRW9MfdCEYi6gTyzXf" alt="" width=4500></a></td></tr>
+<td><a href="https://oversas.org/ipfs/Qmb2ksUinB8nZsdJeMZ9yRvXAjUyfRW9MfdCEYi6gTyzXf"><img src="https://oversas.org/ipfs/Qmb2ksUinB8nZsdJeMZ9yRvXAjUyfRW9MfdCEYi6gTyzXf" alt="" width=4500></a></td></tr>
 
 
 <tr><td>Au temps actuel, on peut mesurer les rapports <sup>87</sup>Sr/<sup>86</sup>Sr et <sup>87</sup>Rb/<sup>86</sup>Sr par spectrométrie de masse dans différents minéraux cogénétiques, et tracer le graphique <strong><sup>87</sup>Sr/<sup>86</sup>Sr = f (<sup>87</sup>Rb/<sup>86</sup>Sr)</strong>.
@@ -124,7 +124,7 @@ On obtient alors une droite dite « isochrone » dont l’équation est de type
 
 On observe que plus le temps écoulé depuis la fermeture du système est grand, plus la pente de la droite isochrone est élevée. On en déduit que la pente a = (e<sup>λt</sup> – 1) est fonction du temps écoulé depuis la fermeture du système. Donc, si <strong>a = e<sup>λt</sup> – 1</strong> Alors, <strong>t = [ln (a + 1) ]/ λ</strong></td>
 
-<td><a href="https://ipfs.io/ipfs/QmdMFfYnLUWDEJ529wzjcVV4Ac6QU8wo1F2SkqsdJ4Spgz"><img src="https://ipfs.io/ipfs/QmdMFfYnLUWDEJ529wzjcVV4Ac6QU8wo1F2SkqsdJ4Spgz" alt="" width=4500></a></td></tr>
+<td><a href="https://oversas.org/ipfs/QmdMFfYnLUWDEJ529wzjcVV4Ac6QU8wo1F2SkqsdJ4Spgz"><img src="https://oversas.org/ipfs/QmdMFfYnLUWDEJ529wzjcVV4Ac6QU8wo1F2SkqsdJ4Spgz" alt="" width=4500></a></td></tr>
 
 </table></div>
 
@@ -151,7 +151,7 @@ A l'instant t, les quantités de <sup>40</sup>K et <sup>40</sup>Ar peuvent êt
 
 Au cours du temps, à partir de la fermeture du système, le <sup>40</sup>K se désintègre en <sup>40</sup>Ar qui reste piégé dans la roche, la quantité de <sup>40</sup>K diminue tandis que la quantité de <sup>40</sup>Ar augmente. Le rapport <sup>40</sup>Ar / <sup>40</sup>K augmente donc au cours du temps.
 
-<p align=center><a href="https://ipfs.io/ipfs/QmUpCVSeZ88kqByAfA7xRtKnsk917nRxGf6bm6hdT1mjNJ"><img src="https://ipfs.io/ipfs/QmUpCVSeZ88kqByAfA7xRtKnsk917nRxGf6bm6hdT1mjNJ" width=60%></a></p>
+<p align=center><a href="https://oversas.org/ipfs/QmUpCVSeZ88kqByAfA7xRtKnsk917nRxGf6bm6hdT1mjNJ"><img src="https://oversas.org/ipfs/QmUpCVSeZ88kqByAfA7xRtKnsk917nRxGf6bm6hdT1mjNJ" width=60%></a></p>
 
 L'âge de la roche peut être déterminé graphiquement ou par la formule suivante: **t = (1/λ) * ln [1 + (<sup>40</sup>Ar / <sup>40</sup>K) * (1 + (λ<sub>Ca</sub> / λ<sub>Ar</sub>))]**
 
@@ -191,7 +191,7 @@ Pour chaque âge (par intervalle de 100 Ma), et pour chaque couple d’isotopes,
 
 Ainsi, plus une roche (ses minéraux) vieillit (vieillissent), plus elle se déplace sur la concordia ; c’est ce qu’on voit sur le graphique ci dessous où la roche se déplace jusqu’à avoir 500Ma.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmV826bUTHdqapZaTCJp1hC95LnraJYsYhGrHLmaf9vHLZ"><img src="https://ipfs.io/ipfs/QmV826bUTHdqapZaTCJp1hC95LnraJYsYhGrHLmaf9vHLZ" alt="" width=60%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmV826bUTHdqapZaTCJp1hC95LnraJYsYhGrHLmaf9vHLZ"><img src="https://oversas.org/ipfs/QmV826bUTHdqapZaTCJp1hC95LnraJYsYhGrHLmaf9vHLZ" alt="" width=60%></a></div>
 
 
 Si un événement géologique (métamorphisme) réouvre le système, on a alors deux cas extrêmes :
@@ -205,7 +205,7 @@ Ainsi, les mesures des rapports <sup>206</sup>Pb / <sup>238</sup>U et <sup>207</
 En effet, selon les minéraux, plus ou moins de plomb sont perdus donc les minéraux vont se retrouver sur une droite comprise entre (0;0) et l’endroit ou la roche était arrivée sur la concordia. La discordia est donc une droite matérialisée par l’ensemble des minéraux qui ont perdu du plomb. Cette droite s’appelle la discordia car si on datait le minéral avec chacun des couples isotopiques, on trouverait des âges différents donc discordants.
 
 
-<div align=center><a href="https://ipfs.io/ipfs/QmfRjBmnuTNe9xtajEUFfy15Fiy8fx8nw2paKZwGGy2SRa"><img src="https://ipfs.io/ipfs/QmfRjBmnuTNe9xtajEUFfy15Fiy8fx8nw2paKZwGGy2SRa" alt="" width=60%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmfRjBmnuTNe9xtajEUFfy15Fiy8fx8nw2paKZwGGy2SRa"><img src="https://oversas.org/ipfs/QmfRjBmnuTNe9xtajEUFfy15Fiy8fx8nw2paKZwGGy2SRa" alt="" width=60%></a></div>
 
 
 Une fois cet événement passé, la désintégration de l’uranium en plomb se poursuit et les minéraux évoluent alors hors de la concordia mais restent alignés sur une discordia. La discordia va donc avoir deux intercepts avec la concordia :
@@ -214,7 +214,7 @@ Une fois cet événement passé, la désintégration de l’uranium en plomb se 
 
 - L’intercept inférieur qui correspondrait à un minéral qui aurait perdu tout son plomb, il se serait alors retrouvé au début de la concordia et aurait alors évolué dessus à nouveau, cet intercept correspond donc à l’âge de réouverture du système donc du métamorphisme
 
-<div align=center><a href="https://ipfs.io/ipfs/QmZ1Er5CTEckCWjypBQ1dDvkV7L8XVvVag3rVzGVkg787U"><img src="https://ipfs.io/ipfs/QmZ1Er5CTEckCWjypBQ1dDvkV7L8XVvVag3rVzGVkg787U" alt="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/" width=60%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmZ1Er5CTEckCWjypBQ1dDvkV7L8XVvVag3rVzGVkg787U"><img src="https://oversas.org/ipfs/QmZ1Er5CTEckCWjypBQ1dDvkV7L8XVvVag3rVzGVkg787U" alt="http://tristan.ferroir.fr/index.php/2020/07/25/la-datation-par-concordia-discordia/" width=60%></a></div>
 
 
 
