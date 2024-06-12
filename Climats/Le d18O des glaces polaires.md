@@ -3,7 +3,7 @@
 
 [Lien vers les fichiers excel paléoclimatologie](https://github.com/YannBouyeron/SVT-TS/tree/master/SPE-Climat/Excel%20Paleoclimatologie)
 
-Les calottes glaciaires qui recouvrent les pôles sont constituées d'une accumulation de neige déposée années après années et compressée sous son propre poids. Les [carottes](https://ipfs.io/ipfs/QmTn4z8to4KTHiudDpuX6ZBV2q3vWB3PCSxtJipsmu1334) de glace extraites de certains forages donnent accès à des échantillons de glace issus de précipitations neigeuses dont l'âge dépend de la profondeur de l'échantillon. En certains forages, les glaces les plus profondes ont jusqu'à 800 000 ans.
+Les calottes glaciaires qui recouvrent les pôles sont constituées d'une accumulation de neige déposée années après années et compressée sous son propre poids. Les [carottes](https://oversas.org/ipfs/QmTn4z8to4KTHiudDpuX6ZBV2q3vWB3PCSxtJipsmu1334) de glace extraites de certains forages donnent accès à des échantillons de glace issus de précipitations neigeuses dont l'âge dépend de la profondeur de l'échantillon. En certains forages, les glaces les plus profondes ont jusqu'à 800 000 ans.
 
 Il existe plusieurs isotopes stables de l'oxygène dont <sup>16</sup>O et <sup>18</sup>O qui sont les plus abondants (respectivement 99,8 % et 0,2 %). On les retrouve dans tous les composés oxygénés naturels, notamment l'eau et les carbonates. L'eau (océan, vapeur, pluie, glace, etc.) est constituée essentiellement à partir de l'isotope 16 de l'oxygène qui est le plus répandu.
 
@@ -94,7 +94,7 @@ Au cours du trajet du nuage vers le pôle, les phénomènes de condensations suc
 Arrivée au pôle, la neige qui tombe des nuages est très appauvrie en <sup>18</sup>O. La glace qui se forme à alors un δ<sup>18</sup>O très négatif (-40 à -50 pour mille)
 
 
-<div align=center><a href="https://ipfs.io/ipfs/QmQLSQqs6p25Gpm9vUoVcAtQJuJGjqMBQJEaEsSDGwcPGr"><img src="https://ipfs.io/ipfs/QmQLSQqs6p25Gpm9vUoVcAtQJuJGjqMBQJEaEsSDGwcPGr"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmQLSQqs6p25Gpm9vUoVcAtQJuJGjqMBQJEaEsSDGwcPGr"><img src="https://oversas.org/ipfs/QmQLSQqs6p25Gpm9vUoVcAtQJuJGjqMBQJEaEsSDGwcPGr"></a></div>
 
 Le fractionnement isotopique du <sup>18</sup>O <sup>16</sup>O dépend de la température. La vaporisation du <sup>18</sup>O nécessitant davantage d’énergie que celle du <sup>16</sup>O, il y’a donc davantage de <sup>18</sup>O qui s’évapore lors d’une période chaude que lors d’une période froide.
 
