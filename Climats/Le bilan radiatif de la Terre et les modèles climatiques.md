@@ -22,7 +22,7 @@ La puissance du rayonnement solaire varie également au cours du temps. Elle est
 
 Le bilan radiatif (δR) est la différence entre le flux incident absorbé et le flux ré-émis. À l'équilibre thermique: δR = 0
 
-<div align=center><a href="https://ipfs.io/ipfs/QmWseJU5CffU5yii6sVtjFvVdf9w9RJL38WV9CBDNHy1s6"><img src="https://ipfs.io/ipfs/QmWseJU5CffU5yii6sVtjFvVdf9w9RJL38WV9CBDNHy1s6" width=50%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmWseJU5CffU5yii6sVtjFvVdf9w9RJL38WV9CBDNHy1s6"><img src="https://oversas.org/ipfs/QmWseJU5CffU5yii6sVtjFvVdf9w9RJL38WV9CBDNHy1s6" width=50%></a></div>
 
 En présence d'un effet de serre naturel  (époque pré-industrielle, [CO<sub>2</sub>] = 280 ppm), la surface absorbe 390 W/m<sup>2</sup> (240+150) et ré émet 390 W/m² (300+90); la surface est à l'équilibre thermique.
  
@@ -32,7 +32,7 @@ D'après Stefan Boltzman :  Énergie émise = cste x T<sup>4</sup>  , donc  **T�
 
 *Avec constante = 5,674.10<sup>-8</sup>, et T°C = T°K - 273,15*
 
-<div align=center><a href="https://ipfs.io/ipfs/QmbGazMtNbCnu4DNLvD3CD6Kt5xEvYABhGiZkVpVgLCaoz"><img src="https://ipfs.io/ipfs/QmbGazMtNbCnu4DNLvD3CD6Kt5xEvYABhGiZkVpVgLCaoz" width=100%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmbGazMtNbCnu4DNLvD3CD6Kt5xEvYABhGiZkVpVgLCaoz"><img src="https://oversas.org/ipfs/QmbGazMtNbCnu4DNLvD3CD6Kt5xEvYABhGiZkVpVgLCaoz" width=100%></a></div>
 
 La concentration en CO<sub>2</sub> [actuelle](https://www.co2.earth) (6 Janvier 2021) est de 413,95 ppm
 
