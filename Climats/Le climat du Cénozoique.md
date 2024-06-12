@@ -2,12 +2,12 @@
 
 <p align=center>Comment reconstituer et expliquer les variations climatiques depuis 65000 ans ?</p>
 
-<a href="https://ipfs.io/ipfs/QmRRRQahPMRV6jU3ZSBQHBEFiWWdymKjwoqvti9NxtRMbv">Échelle chrono-stratigraphique.</a>
+<a href="https://oversas.org/ipfs/QmRRRQahPMRV6jU3ZSBQHBEFiWWdymKjwoqvti9NxtRMbv">Échelle chrono-stratigraphique.</a>
 
 
 ### I: Les perturbations climatiques récentes (150 ans).
 
-Le réchauffement climatique occupe actuellement une place importante dans l'actualité politique et citoyenne. Les archives climatiques permettent d'étudier ses manifestations depuis 150 ans. [Lien vers l’activité](https://ipfs.io/ipfs/QmRS2rApn8DLeuZAxRozxbLdkgR9SJKDH9u8vyoPSrJsUT)
+Le réchauffement climatique occupe actuellement une place importante dans l'actualité politique et citoyenne. Les archives climatiques permettent d'étudier ses manifestations depuis 150 ans. [Lien vers l’activité](https://oversas.org/ipfs/QmRS2rApn8DLeuZAxRozxbLdkgR9SJKDH9u8vyoPSrJsUT)
 
 
 **L’évolution passée des biomes témoigne des variations climatiques passées.**
@@ -36,7 +36,7 @@ On observe une corrélation positive entre les émissions de carbone anthropique
 
 ### II: L’évolution climatique à l’Holocène
 
-L’Holocène (-12000 ans -> actuel) est l’époque actuelle au sein de la période quaternaire au sein de l’ère cénozoïque. [Lien vers l’activité](https://ipfs.io/ipfs/QmSRJirwA5FRbo4Hs8mTznvvu9YL7Fc5nYwgmFtzgu2idZ)
+L’Holocène (-12000 ans -> actuel) est l’époque actuelle au sein de la période quaternaire au sein de l’ère cénozoïque. [Lien vers l’activité](https://oversas.org/ipfs/QmSRJirwA5FRbo4Hs8mTznvvu9YL7Fc5nYwgmFtzgu2idZ)
 
 ##### La palynologie permet de reconstituer les variations paléo climatiques des Vosges durant l’Holocène.
 
@@ -64,7 +64,7 @@ En effet, les pollens présentent des caractéristiques favorables à ce type d'
 
 **Les variations climatiques dans les Vosges à l’Holocène.**
 
-<div align=center><a href="https://ipfs.io/ipfs/QmP1bU8TPkeewWqi1niG6AKehaT9fFZd2NsqouVXCtDDX7"><img src="https://ipfs.io/ipfs/QmP1bU8TPkeewWqi1niG6AKehaT9fFZd2NsqouVXCtDDX7" width=50%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmP1bU8TPkeewWqi1niG6AKehaT9fFZd2NsqouVXCtDDX7"><img src="https://oversas.org/ipfs/QmP1bU8TPkeewWqi1niG6AKehaT9fFZd2NsqouVXCtDDX7" width=50%></a></div>
 
 Au début de l’Holocène, on compte environ 30 % de pollens de poacées et d’armoises (plantes qui résistent à la sécheresse et aux grands froids), 65 % de plantes tels que le bouleau et l’épicéa (résistent au froid, mais le bouleau craint la sécheresse) et à peine 5 % de plantes comme le chêne, le hêtre et le noisetier qui sont plus sensibles au froid. Ceci indique que le climat était froid.
 
@@ -92,7 +92,7 @@ Les forages des fonds océaniques donnent accès à des sédiments océaniques c
 
 <p align=center>Variations du δ<sup>18</sup>O des foraminifères benthiques à l’Holocène</p>
 
-<div align=center><a href="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL"><img src="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL" width=60%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL"><img src="https://oversas.org/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL" width=60%></a></div>
 
 On observe que:
 
@@ -133,20 +133,20 @@ Ces roches témoignent d’un épisode froid dans les Vosges au Pléistocène.
 
 #### L’origine des alternances des périodes glaciaires et interglaciaires au Pléistocène: Les paramètres orbitaux de Milankovitch.
 
-[Lien vers l’activité](https://ipfs.io/ipfs/QmTuFxG91FSsvLHa6QpH4Hw6D5gyDtgAQcndtw2L7yH18i)
+[Lien vers l’activité](https://oversas.org/ipfs/QmTuFxG91FSsvLHa6QpH4Hw6D5gyDtgAQcndtw2L7yH18i)
 
 L'étude des variations climatiques des 700 000 dernières années met en évidence une alternance de périodes glaciaires et inter-glaciaires. On dénombre 7 périodes glaciaires au cours des 700 000 dernières années; on observe ainsi une périodicité de 100 000 ans entre 2 maxima glaciaires. Au sein de ces périodes de 100 000 ans, on distingue des variations climatiques de moindre amplitude sur des périodes de 41.000, 23.000 et 19.000 ans.
 
 La teneur en CO<sub>2</sub> atmosphérique et [l'albédo](https://oversas.org/ipfs/QmTz5xpxqwzxZNXfAaHf13fxq81TkpZNDzuqvEVsttraWa) amplifient les variations climatiques selon un mécanisme de rétroaction positive; ce qui devrait s'opposer à l'alternance de périodes glaciaires et interglaciaires observée au cours des 700 000 dernières années; il existerait donc un mécanisme initiateur des variations climatiques.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmNVCxVFAAB6Gw33qhc3mRUpgCbx8bdUugPCs2vnH3LDQB"><img src="https://ipfs.io/ipfs/QmNVCxVFAAB6Gw33qhc3mRUpgCbx8bdUugPCs2vnH3LDQB" width=100%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmNVCxVFAAB6Gw33qhc3mRUpgCbx8bdUugPCs2vnH3LDQB"><img src="https://oversas.org/ipfs/QmNVCxVFAAB6Gw33qhc3mRUpgCbx8bdUugPCs2vnH3LDQB" width=100%></a></div>
 
 
 Au début du XX° siècle, un mathématicien Serbe: Milutin Milankovitch étudie les causes des variations climatiques au cours du Pléistocène. Il émet l'hypothèse d'une influence astronomique, et il teste son hypothèse en étudiant les variations de certains paramètres orbitaux: l'excentricité, l'obliquité, et la précession des équinoxes.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmWxPJbRhZXYpwhjo2zWmdkFkBYyMsHR5miVi2HcEeJB89"><img src="https://ipfs.io/ipfs/QmWxPJbRhZXYpwhjo2zWmdkFkBYyMsHR5miVi2HcEeJB89"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmWxPJbRhZXYpwhjo2zWmdkFkBYyMsHR5miVi2HcEeJB89"><img src="https://oversas.org/ipfs/QmWxPJbRhZXYpwhjo2zWmdkFkBYyMsHR5miVi2HcEeJB89"></a></div>
 
-<div align=center><a href="https://ipfs.io/ipfs/QmcFjDCeNTMgxpnmydTJiztRB8QtxBGApnzVWgxQbv9fcG"><img src="https://ipfs.io/ipfs/QmcFjDCeNTMgxpnmydTJiztRB8QtxBGApnzVWgxQbv9fcG"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmcFjDCeNTMgxpnmydTJiztRB8QtxBGApnzVWgxQbv9fcG"><img src="https://oversas.org/ipfs/QmcFjDCeNTMgxpnmydTJiztRB8QtxBGApnzVWgxQbv9fcG"></a></div>
 
 **Conditions d'installation d'une calotte polaire:** 
 
@@ -164,7 +164,7 @@ La fonte d'une calotte polaire dans l'HN est favorisée par un fort contraste sa
 
 **Deux arguments principaux permettent de valider la théorie astronomique des climats:**
 
-1. Les [variations de l’insolation](https://ipfs.io/ipfs/QmbPWdahEZ6cG8hSAuqDVWCQUuFvBoUzEw3Hfbva4TWbXm) calculées en tenant compte de l’excentricité, de l’obliquité et de la précession des équinoxes au cours des 700 000 dernières années sont corrélées à celles du δ<sup>18</sup>O des carbonates: plus l’insolation est élevée, plus le δ<sup>18</sup>O est faible. Or plus le δ<sup>18</sup>O dans les carbonates est faible, plus la t° globale de la Terre était élevée. Les variations de l’insolation calculées à partir des paramètres orbitaux sont en cause dans les variations climatiques de la Terre au cours des 700 000 dernières années.
+1. Les [variations de l’insolation](https://oversas.org/ipfs/QmbPWdahEZ6cG8hSAuqDVWCQUuFvBoUzEw3Hfbva4TWbXm) calculées en tenant compte de l’excentricité, de l’obliquité et de la précession des équinoxes au cours des 700 000 dernières années sont corrélées à celles du δ<sup>18</sup>O des carbonates: plus l’insolation est élevée, plus le δ<sup>18</sup>O est faible. Or plus le δ<sup>18</sup>O dans les carbonates est faible, plus la t° globale de la Terre était élevée. Les variations de l’insolation calculées à partir des paramètres orbitaux sont en cause dans les variations climatiques de la Terre au cours des 700 000 dernières années.
 
 2. L’excentricité de la Terre varie selon des cycles de 100 000 ans, l’obliquité varie selon des cycles de 41 000 ans et la précession varie selon des cycles de 23 000 et 19 000 ans. Or les variations climatiques de la Terre ont une périodicité de 100 000, 41 000 et 23 000 et 19 000 ans. Les variations de l’excentricité de la Terre sont responsables des variations climatiques de périodicité 100 000 ans (cycles climatiques), les variations de l’obliquité de la Terre sont responsables des variations climatiques de périodicité 41 000 ans et la précession des équinoxes est responsable des variations climatiques de périodicités 23 000 et 19 000 ans
 
@@ -172,7 +172,7 @@ La corrélation entre les variations des paramètres orbitaux et les variation
 
 ### IV: L’évolution climatique au Cénozoïque
 
-Le Cénozoïque ou ère tertiaire s’étend de -66 Ma à l’actuel. [Lien vers l’activité](https://ipfs.io/ipfs/QmevrZ793jyBcUdPeGbNf2vyZnGmwRfA8oAjMu8db1jaVn)
+Le Cénozoïque ou ère tertiaire s’étend de -66 Ma à l’actuel. [Lien vers l’activité](https://oversas.org/ipfs/QmevrZ793jyBcUdPeGbNf2vyZnGmwRfA8oAjMu8db1jaVn)
 
 **L’aternance de bancs calcaires et marneux dans les Flysh de Zumaia témoigne des conditions climatiques au Cénozoïque:**
 
@@ -197,7 +197,7 @@ L’indice stomatique ainsi que d’autres marqueurs du CO<sub>2</sub> (bore , n
 
 ### Le rôle de la tectonique des plaques dans les évolutions climatiques
 
-[Lien vers l’activité](https://ipfs.io/ipfs/QmXsPzjhrSXJ7vjrKHiXHUp35tj7WbJr7VRiDYA39GsJ5p)
+[Lien vers l’activité](https://oversas.org/ipfs/QmXsPzjhrSXJ7vjrKHiXHUp35tj7WbJr7VRiDYA39GsJ5p)
 
 **Le rôle de la tectonique des plaques dans la formation d’un inlandsis en antarctique au début de l’oligocène (après 33 Ma):**
 
