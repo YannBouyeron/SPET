@@ -1,6 +1,6 @@
 Thème 1 Génétique et évolution. Chapitre 1: L’origine du phénotype des individus
 
-[Lien vers l’activité](https://ipfs.io/ipfs/QmWdBV4FYTuzQVAaHzP7ERjGN7yz6wsE1cvWHVyvyrJxub)
+[Lien vers l’activité](https://oversas.org/ipfs/QmT5ssBTasj3aXcejQZVpSq9JTzdhbve9Wc6eKuFuXqTXM)
 
 # Les débuts de la génétique: les travaux de Mendel (1866)
 
