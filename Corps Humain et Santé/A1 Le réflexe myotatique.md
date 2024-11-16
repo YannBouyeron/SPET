@@ -27,7 +27,7 @@ On cherche à tester les 3 hypothèses suivantes:
 
 Les éléctomyogrammes ci dessous ont été obtenus en veillant à placer les électrodes de telle sorte que pour les 2 réflexes (achilléen et rotulien), les distances entre le point d'impact du marteau sur le tendon [d'Achille ou de la rotule] et les électrodes [sur le triceps sural ou sur la quadriceps crural] soient identiques:
 
-<div align=center><a href="https://oversas.org/ipfs/QmXZGpXLcjXtVYA3uQoygXPRQHANYr6HRhfH8MJGCJs3XG"><img src="https://oversas.org/ipfs/QmXZGpXLcjXtVYA3uQoygXPRQHANYr6HRhfH8MJGCJs3XG" width=40%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmbB7nz8RyeYufrEqCZQxqcPBAvKv1GdNgmPUfrifygDj7"><img src="https://oversas.org/ipfs/QmbB7nz8RyeYufrEqCZQxqcPBAvKv1GdNgmPUfrifygDj7" width=40%></a></div>
 
 Sachant que chez le cobaye, la distance séparant le tendon d'Achille et la rotule est de 0,34 m, et considérant que le temps qui sépare les deux réflexes correspond au temps nécessaire au message nerveux pour parcourir la distance qui sépare les électrodes (distance aller + distance retour), **calculez la vitesse du message nerveux**.
 
