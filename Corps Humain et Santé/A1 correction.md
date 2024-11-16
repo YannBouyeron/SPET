@@ -57,7 +57,7 @@ Les plaques motrices et les muscles qui les contiennent sont les effecteurs du r
 
 La moelle épinière est le centre intégrateur du réflexe myotatique; sa substance blanche est composée par les axones myélinisés des neurones, sa substance grise est constituée par les corps cellulaires des neurones. Les ganglions rachidiens des racines dorsales renferment eux aussi des corps cellulaires.
 
-Les [expériences](https://ipfs.io/ipfs/QmbHg4cWszEYJM28GgToPohVuZJ8uroVexYokV4agxzFCn) de sections montrent que:
+Les [expériences](https://oversas.org/ipfs/QmbHg4cWszEYJM28GgToPohVuZJ8uroVexYokV4agxzFCn) de sections montrent que:
 Les corps cellulaires des neurones sensitifs et moteurs sont situés du côté médullaire des racines dorsales et ventrales (section 1). Les corps cellulaires des neurones sensitifs sont situés dans le ganglion rachidien (section 2). Les corps cellulaires des neurones moteurs sont situés du côté médullaire de la section, probablement dans la substance grise de la moelle épinière (section 3)
 
 
@@ -66,7 +66,7 @@ Les corps cellulaires des neurones sensitifs et moteurs sont situés du côté m
 
 Le réflexe myotatique est la contraction involontaire, rapide, et stéréotypée d'un muscle en réponse à son propre étirement. 
 
-<div align=center><a href="https://ipfs.io/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"><img src="https://ipfs.io/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"><img src="https://oversas.org/ipfs/QmQPEAagV8nDQeZYL8F3bf1jtr3LV1xXo3q5VqoEAHwnXK"></a></div>
 
 Né au niveau d’un récepteur sensoriel sensible à l'étirement: le fuseau neuromusculaire, le message nerveux sensitif ou afférent (vers un centre nerveux) chemine dans l’axone d’un neurone sensitif, au sein du nerf rachidien. Le corps cellulaire de ce neurone est localisé dans le ganglion rachidien de la racine dorsale de la moelle épinière.
 
