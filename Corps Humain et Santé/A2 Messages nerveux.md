@@ -19,7 +19,7 @@ On mesure une différence de potentiel de -70 mV de part et d’autre de la mem
 En dessous d’une valeur seuil de l’intensité de stimulation, la fibre répond par une diminution de la différence de potentiel trans-membranaire (dépolarisation) dont l’amplitude diminue jusqu’à s’annuler au cours de la propagation sur l’axone. Une fois le seuil de stimulation atteint, la réponse de la fibre nerveuse est un potentiel d’action, qui constitue le signal élémentaire des messages nerveux. Il s’agit d’une inversion transitoire de la polarisation membranaire, qui se propage le long de l’axone sans modification. 
 
 <p align=center><strong>Enregistrement de l’activité électrique d’un potentiel d’action.</strong></p>
-<div align=center><a href="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2"><img src="https://ipfs.io/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2" title="PA"></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2"><img src="https://oversas.org/ipfs/QmR9pNGsDGkLCBoxwNt1rfoBMy6bsZEZHvimsdG9fZs9h2" title="PA"></a></div>
 
 Les caractéristiques du potentiel d’action sont identiques, quelle que soit l’intensité de la stimulation: d’une durée de quelques millisecondes, il est constitué:
 
@@ -28,7 +28,7 @@ Les caractéristiques du potentiel d’action sont identiques, quelle que soit 
 - d’une phase de repolarisation plus lente: 0 mV → - 70 mV
 - d’une phase d’hyperpolarisation: le potentiel devient encore plus électronégatif: -70 mV → -80 mV → -70 mV
 
-Une fibre nerveuse répond donc à la [loi du tout ou rien](https://ipfs.io/ipfs/QmebUn97T8GSLvfe8mPUJ3hsJNpiRMkZ5jfYHVi6HvNj7H):
+Une fibre nerveuse répond donc à la [loi du tout ou rien](https://oversas.org/ipfs/QmebUn97T8GSLvfe8mPUJ3hsJNpiRMkZ5jfYHVi6HvNj7H):
 
 - Soit l’intensité de stimulation est supérieure à une valeur seuil, et l’on observe une réponse d’emblée maximale qui ne varie pas quelle que soit l’intensité du stimulus: le potentiel d’action;
 
