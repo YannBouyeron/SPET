@@ -38,7 +38,7 @@ En supposant que la vitesse du message nerveux est constante au cours du réflex
 
 Sachant que la distance approximative entre le triceps sural et la moelle épinière est d’environ 98 cm, tandis que la distance approximative entre le triceps sural et l’encéphale est d’environ 140 cm chez le cobaye utilisé pour les expériences précédentes, **en déduire la localisation probable du centre intégrateur du réflexe myotatique**.
 
-**Exploitez les [documents page 375](https://oversas.org/ipfs/QmRnizYxWRf4P5Pmp4hQ5uxG5V147Z4CL5QBApYgpvoK87) et / ou l’expérience de [Sherrington](https://oversas.org/ipfs/QmXTcaZxadhn9XbgGuCAhRpgorYGGb4wiR2qMR5faeEcyy) pour confirmer la localisation du centre intégrateur du réflexe myotatique. [Lien Libmanuel](https://www.libmanuels.fr/demo/9791035813789/375/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin)**
+**Exploitez les [documents page 375](https://oversas.org/ipfs/QmRnizYxWRf4P5Pmp4hQ5uxG5V147Z4CL5QBApYgpvoK87) et / ou l’expérience de [Sherrington](https://oversas.org/ipfs/QmV13ymEmiBnCooHDSkbzebTRZhZ3ZHnzbPPpgK9m71Rjc) pour confirmer la localisation du centre intégrateur du réflexe myotatique. [Lien Libmanuel](https://www.libmanuels.fr/demo/9791035813789/375/?version=1&title=SVT%20tle%20-%20éd.%202020&editor=Belin)**
 
 #### Mise en évidence du circuit nerveux du réflexe myotatique: Les expériences de Magendie.
 
