@@ -49,7 +49,7 @@ On détermine les âges relatifs et absolus des zircons et du granite pour pouvo
 
 <h2 class=center>Synthèse</h2>
 
-L’observation de la [lame mince](https://ipfs.io/ipfs/QmRXmd6bUY2JZnsM63BE9YQJcmX2VdKxXe8t8kAVmC3GSP) de granite au microscope polarisant montre que le granite est constitué de plagioclase, quartz, biotite, orthose. 
+L’observation de la [lame mince](https://oversas.org/ipfs/QmRXmd6bUY2JZnsM63BE9YQJcmX2VdKxXe8t8kAVmC3GSP) de granite au microscope polarisant montre que le granite est constitué de plagioclase, quartz, biotite, orthose. 
 
 On constate que les zircons sont inclus dans les biotites. D’après le principe d’inclusion, les zircons sont donc plus anciens que les biotites , et donc plus anciens que la formation du granite.
 
@@ -96,8 +96,8 @@ Les [zircons](https://sciences-nature.fr/aureoles-desintegration-radioactive-zir
 
 <p></br></p><p></br></p>
 
-Rapports <sup>87</sup>Sr/<sup>86</sup>Sr et <sup>87</sup>Rb/<sup>86</sup>Sr du granite: [xlsx](https://ipfs.io/ipfs/QmT7uUFCK6Z5k95XrN68r9nJVaq6tF4uoMykLZKMT7aUNA) , [json](https://ipfs.io/ipfs/QmQ4YF44Fk74kxentkJ1cScq8cp1cgZY5PS9aKEF9rJrxo)
+Rapports <sup>87</sup>Sr/<sup>86</sup>Sr et <sup>87</sup>Rb/<sup>86</sup>Sr du granite: [xlsx](https://oversas.org/ipfs/QmT7uUFCK6Z5k95XrN68r9nJVaq6tF4uoMykLZKMT7aUNA) , [json](https://oversas.org/ipfs/QmQ4YF44Fk74kxentkJ1cScq8cp1cgZY5PS9aKEF9rJrxo)
 
-Rapports U / Pb des zircons: [xlsx](https://ipfs.io/ipfs/QmYCBUHBYVXgJUpbngLhEgLreN3GkMn2c5gBmuRBzLxS4s) , [json](https://ipfs.io/ipfs/QmYxVgmZ5EmWFZ1bwDh1DEipsykTD8ms6irzKgr2pbN4YT)
+Rapports U / Pb des zircons: [xlsx](https://oversas.org/ipfs/QmYCBUHBYVXgJUpbngLhEgLreN3GkMn2c5gBmuRBzLxS4s) , [json](https://oversas.org/ipfs/QmYxVgmZ5EmWFZ1bwDh1DEipsykTD8ms6irzKgr2pbN4YT)
 
 [Vidéo et fichiers Excel corrigés](https://oversas.org/ipfs/QmQhcM4Pc5ZSdJwKMEejnVb19gqMyQRfhRRNG1KZCSuD2h)
