@@ -172,7 +172,7 @@ La corrélation entre les variations des paramètres orbitaux et les variation
 
 ### IV: L’évolution climatique au Cénozoïque
 
-Le Cénozoïque ou ère tertiaire s’étend de -66 Ma à l’actuel. [Lien vers l’activité](https://oversas.org/ipfs/QmevrZ793jyBcUdPeGbNf2vyZnGmwRfA8oAjMu8db1jaVn)
+Le Cénozoïque ou ère tertiaire s’étend de -66 Ma à l’actuel. [Lien vers l’activité](https://oversas.org/ipfs/Qmeh1iBTCDm4riBu14aX8ot2VQHUiY4Q2FfkepfivJJ6hj)
 
 **L’aternance de bancs calcaires et marneux dans les Flysh de Zumaia témoigne des conditions climatiques au Cénozoïque:**
 
