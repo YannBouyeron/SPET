@@ -1,11 +1,11 @@
 # Le climat du Crétacé
 
-Le [Crétacé](https://ipfs.io/ipfs/QmRRRQahPMRV6jU3ZSBQHBEFiWWdymKjwoqvti9NxtRMbv) (-145 Ma à - 66 Ma) est la dernière période de l’Ere secondaire (mésozoïque)
+Le [Crétacé](https://oversas.org/ipfs/QmRRRQahPMRV6jU3ZSBQHBEFiWWdymKjwoqvti9NxtRMbv) (-145 Ma à - 66 Ma) est la dernière période de l’Ere secondaire (mésozoïque)
 
 
 ### Les indices d’un climat chaud et humide
 
-[Activité 1](https://ipfs.io/ipfs/QmXC2CKq4Ld1gPFL6Pxo1jtcWbu7pRULEFBmZ8meYa4E3J)
+[Activité 1](https://oversas.org/ipfs/QmXC2CKq4Ld1gPFL6Pxo1jtcWbu7pRULEFBmZ8meYa4E3J)
 
 ###### La palynologie met en évidence un climat chaud au pôle Sud.
 
@@ -35,7 +35,7 @@ Le Crétacé était donc globalement une période chaude et humide.
 
 ### Les indices d’une transgression marine
 
-[Activité 2](https://ipfs.io/ipfs/Qmf6f1EeGVf4XdfABS8H6U5fhYW1fxbpoRfDTfHbE1Yuiy)
+[Activité 2](https://oversas.org/ipfs/Qmf6f1EeGVf4XdfABS8H6U5fhYW1fxbpoRfDTfHbE1Yuiy)
 
 La glauconie est un minéral très commun dans les roches d’âge crétacé. Ce minéral vert foncé précipite en milieu océanique peu profond et chaud caractéristique d’une transgression marine.
 
@@ -49,7 +49,7 @@ Les reconstitutions des paléotempératures et des variations du niveau de la me
 
 ### Géodynamique et climat du Crétacé
 
-[Activité 3](https://ipfs.io/ipfs/QmU92ugZoxRt5evq7oHAf9QBiZdv52Bh9rh9KWCvUhPeP6)
+[Activité 3](https://oversas.org/ipfs/QmU92ugZoxRt5evq7oHAf9QBiZdv52Bh9rh9KWCvUhPeP6)
 
 Au Crétacé supérieur, la production de lithosphère océanique est plus intense qu’avant ou après (sauf au Jurassique moyen). Cette augmentation de l’activité des dorsales océaniques à des conséquences climatiques:
 
