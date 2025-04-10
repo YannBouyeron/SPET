@@ -107,7 +107,7 @@ On observe que:
 
 ### III: L’évolution climatique au Pléistocène
 
-Le Pléistocène (-1,7 Ma -> -12000 ans) est l’avant dernière époque (avant l’Holocène) au sein de la période quaternaire au sein de l’ère cénozoïque. [Lien vers l’activité](https://ipfs.io/ipfs/QmchpV8FVxuNkMSiBBbCzmZxbyNFA1tWGZCZhyNJQztHBJ)
+Le Pléistocène (-1,7 Ma -> -12000 ans) est l’avant dernière époque (avant l’Holocène) au sein de la période quaternaire au sein de l’ère cénozoïque. [Lien vers l’activité](https://oversas.org/ipfs/QmchpV8FVxuNkMSiBBbCzmZxbyNFA1tWGZCZhyNJQztHBJ)
 
 **Le [δ<sup>18</sup>O des glaces polaires](https://github.com/YannBouyeron/SPET/blob/master/Climats/Le%20d18O%20des%20glaces%20polaires.md) témoigne d’une alternance de périodes glaciaires et interglaciaires au Pléistocène.**
 
