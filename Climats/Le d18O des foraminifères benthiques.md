@@ -32,7 +32,7 @@ L'eau qui s'évapore des océans et qui s'accumule sous forme de glace est appau
 En période plus chaude qu'actuellement, la glace des calottes polaires fond et le volume des océans augmente. 
 L'eau provenant de la fonte des calottes polaires qui retourne aux océans est appauvrie en <sup>18</sup>O; le δ<sup>18</sup>O de l'eau de mer diminue et devient alors inférieur à l'actuel c'est à dire inférieur à 0.
 
-<div align=center><a href="https://ipfs.io/ipfs/QmSNm8HViEGJLBEHAXJ53MedVbFZBGfuo3JTdURQcEkoXB"><img src="https://ipfs.io/ipfs/QmSNm8HViEGJLBEHAXJ53MedVbFZBGfuo3JTdURQcEkoXB" width=45%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmSNm8HViEGJLBEHAXJ53MedVbFZBGfuo3JTdURQcEkoXB"><img src="https://oversas.org/ipfs/QmSNm8HViEGJLBEHAXJ53MedVbFZBGfuo3JTdURQcEkoXB" width=45%></a></div>
 
 On en déduit que le δ<sup>18</sup>O de l'eau de mer dépend du volume relatif entre les océans et les calottes glaciaires: il existe une corrélation positive entre le δ<sup>18</sup>O de l'eau de mer et le volume des calottes glaciaires: 
 
@@ -64,7 +64,7 @@ Les forages des fonds océaniques donnent accès à des sédiments océaniques c
 
 <p align=center>Variations du δ<sup>18</sup>O des foraminifères benthiques à l’Holocène</p>
 
-<div align=center><a href="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL"><img src="https://ipfs.io/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL" width=70%></a></div>
+<div align=center><a href="https://oversas.org/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL"><img src="https://oversas.org/ipfs/QmTwDD8asZt7UAtdKmQjRB2aneKjACvCB6cFcCd7srAtiL" width=70%></a></div>
 
 On observe que:
 
