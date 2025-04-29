@@ -20,7 +20,7 @@ Le δ<sup>18</sup>O des foraminifères dépend de la température et du δ<sup>1
 
 
 
-Les foraminifères benthiques (foraminifères benthiques) vivent au fond des océans où la température est constante; le δ<sup>18</sup>O des foraminifères benthiques dépend donc uniquement du δ<sup>18</sup>O de l'eau: il existe une corrélation positive entre le δ<sup>18</sup>O des foraminifères benthiques et le δ<sup>18</sup>O de l'eau de mer: 
+Les foraminifères benthiques vivent au fond des océans où la température est constante; le δ<sup>18</sup>O des foraminifères benthiques dépend donc uniquement du δ<sup>18</sup>O de l'eau: il existe une corrélation positive entre le δ<sup>18</sup>O des foraminifères benthiques et le δ<sup>18</sup>O de l'eau de mer: 
 
 <p align="center"><b>δ<sup>18</sup>O foraminifères benthiques = f (δ<sup>18</sup>O eau de mer)</b></p>
 
