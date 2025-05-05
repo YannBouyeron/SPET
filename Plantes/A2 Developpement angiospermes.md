@@ -40,7 +40,7 @@ La coupe longitudinale de [l’apex racinaire](https://oversas.org/ipfs/QmYS13vK
 
 L’appareil végétatif aérien des plantes est organisé en unités répétitives : les [phytomères](https://oversas.org/ipfs/QmYkHwwkKwDrk1Qehw3N5khH3GFw9WwTVw87hWjeQJM9Ru) chacun constitué d’un noeud, d’un entre noeud, d’un bourgeon axillaire, et d’une feuille.
 
-La mise en place des nouveaux phytomères a lieu au niveau des méristèmes caulianires apicaux et axillaires. La [coupe longitudinale d’un bourgeon apical](https://oversas.org/ipfs/QmeuHn6wTrYnMWXLoJZyECDaYKSDi2a2supYh7GGUuwby9) révèle la présence de cellules en division (mitose) ainsi que leur différenciation en cellules spécialisées constitutives des tissus et organes (feuilles) mis en place.
+La mise en place des nouveaux phytomères a lieu au niveau des méristèmes caulinaires apicaux et axillaires. La [coupe longitudinale d’un bourgeon apical](https://oversas.org/ipfs/QmeuHn6wTrYnMWXLoJZyECDaYKSDi2a2supYh7GGUuwby9) révèle la présence de cellules en division (mitose) ainsi que leur différenciation en cellules spécialisées constitutives des tissus et organes (feuilles) mis en place.
 
 *Les méristèmes caulinaires ont un rôle histogène et organogène. Ils peuvent par ailleurs avoir un fonctionnement végétatif (mise en place de phytomères) ou reproductif (mise en place de fleurs et fruits)*
 
